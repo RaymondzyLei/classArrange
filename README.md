@@ -119,6 +119,11 @@ python process_class_number_group.py
 
 ## 数据格式说明
 
+最终的输出文件为 `class_info_data.js`，包含以下内容：
+- 课程信息数据（classInfo），与`classInfo_processed_with_group_id.json`格式相同
+- 课程分组数据（groupInfo），与`classNumberGroup.json`格式相同
+- 生成时间（infoCreateTime），格式为"YYYYMMDDHHMMSS"，例如"20260112233954"
+
 ### 原始JSON数据格式
 
 ```json

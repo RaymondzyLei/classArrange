@@ -69,6 +69,15 @@ def main():
         print("❌ 错误: 未生成最终的classNumberGroup.json或classInfo_processed_with_group_id.json文件")
         return False
     
+    # 步骤4: 生成JavaScript数据文件
+    if not run_script('json_to_js.py', '将JSON数据转换为JavaScript代码'):
+        return False
+    
+    # 检查是否生成了JavaScript文件
+    if not os.path.exists('class_info_data.js'):
+        print("❌ 错误: 未生成class_info_data.js文件")
+        return False
+    
     print("\n" + "="*50)
     print("🎉 所有数据处理流程已成功完成！")
     print("="*50)
@@ -77,6 +86,7 @@ def main():
     print("- classInfo_processed.json: 处理后的课程信息")
     print("- classNumberGroup.json: 按时间和校区分组的课程数据")
     print("- classInfo_processed_with_group_id.json: 包含group_id的课程信息")
+    print("- class_info_data.js: JavaScript格式的数据文件，包含classInfo和groupInfo")
     print("="*50)
     
     return True

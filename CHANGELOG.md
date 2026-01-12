@@ -7,6 +7,7 @@
 - 主程序main.py：一键执行完整数据处理流程
 - 生成classNumberGroup.json文件：包含所有class_number_group的信息
 - 生成classInfo_processed_with_group_id.json文件：添加了group_id的课程信息
+- 生成class_info_data.js文件：包含课程信息数据、课程组数据和生成时间
 
 ### Features
 - class_number_group_id格式优化：使用纯数字格式
