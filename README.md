@@ -1,8 +1,20 @@
-# 课程信息处理系统
+# 课程信息处理与查询系统
 
 ## 项目简介
 
-本项目用于处理课程信息数据，主要功能是从Excel文件读取课程信息，转换为JSON格式，并对"时间地点"字段进行结构化解析，方便后续开发使用。
+本项目用于处理课程信息数据，并提供前端查询界面。主要功能包括：
+1. 从Excel文件读取课程信息，转换为JSON格式
+2. 对"时间地点"字段进行结构化解析
+3. 将课程按时间和校区信息分组
+4. 提供基于课程编号、课程名称和课程组ID的搜索功能
+5. 支持课程组的选择、存储和详细信息查看
+6. 直观的课程表展示
+
+## 技术栈
+
+- **后端/数据处理**：Python 3.7+
+- **前端**：HTML5 + CSS3 + TypeScript
+- **数据格式**：JSON + JavaScript对象
 
 ## 目录结构
 
@@ -13,11 +25,19 @@ classArrange/
 ├── classInfo_processed.json          # 处理后的JSON文件，包含解析后的时间地点
 ├── classInfo_processed_with_group_id.json # 添加了group_id的课程信息
 ├── classNumberGroup.json             # class_number_group数据
-├── excel_to_json.py                  # Excel转JSON的脚本
-├── parse_time_location.py            # 时间地点解析器模块
-├── process_class_info.py             # 主处理程序
-├── process_class_number_group.py     # class_number_group生成程序
-├── main.py                           # 一键执行完整流程的主程序
+├── class_info_data.js                # JavaScript格式的数据文件
+├── data_processing/                  # 数据处理相关脚本
+│   ├── excel_to_json.py              # Excel转JSON的脚本
+│   ├── parse_time_location.py        # 时间地点解析器模块
+│   ├── process_class_info.py         # 主处理程序
+│   ├── process_class_number_group.py # class_number_group生成程序
+│   ├── main.py                       # 一键执行完整流程的主程序
+│   └── json_to_js.py                 # JSON转JavaScript的脚本
+├── index.html                        # 前端HTML文件
+├── styles.css                        # 前端CSS文件
+├── app.ts                            # 前端TypeScript文件
+├── app.js                            # 编译后的JavaScript文件
+├── tsconfig.json                     # TypeScript配置文件
 ├── requirements.txt                  # 项目依赖
 ├── README.md                         # 项目说明文档
 └── CHANGELOG.md                      # 版本更新日志
@@ -25,11 +45,33 @@ classArrange/
 
 ## 功能说明
 
-### 1. Excel转JSON功能
+### 前端功能
+
+#### 1. 课程组搜索
+- 支持通过课程编号(course_number)搜索
+- 支持通过课程名称(course_name)搜索（不区分大小写）
+- 支持通过课程组ID(class_number_group_id)搜索
+
+#### 2. 课程组选择与存储
+- 可以勾选搜索结果中的课程组
+- 已选课程组会显示在页面顶部的"已选课程组"区域
+- 已选课程组ID会自动存储到localStorage中，刷新页面后仍然保留
+- 可以从已选课程组列表中删除不需要的课程组
+
+#### 3. 课程详情弹窗
+- 点击已选课程组卡片，会弹出模态窗口显示详细信息
+- 弹窗中包含课程的完整信息：课程名、组ID、课程编号、课堂编号、学分、考核方式、周次和校区等
+- 弹窗中包含一个13行7列的课程表，直观展示上课时间
+- 课程表第一列为周日，第5-6行和10-11行之间有明显间隙，表示中午和晚上休息时间
+- 课程的上课时间区块会填充蓝色，便于查看
+
+### 后端/数据处理功能
+
+#### 1. Excel转JSON功能
 
 `excel_to_json.py` 用于将Excel文件转换为JSON格式，保留所有原始字段。
 
-### 2. 时间地点解析功能
+#### 2. 时间地点解析功能
 
 `parse_time_location.py` 提供了时间地点解析器，能够处理各种复杂格式的时间地点信息：
 
@@ -49,7 +91,7 @@ classArrange/
 
 - **多时间段**：支持使用换行符分隔的多个时间段
 
-### 3. 数据处理功能
+#### 3. 数据处理功能
 
 `process_class_info.py` 是主处理程序，主要功能：
 - 读取原始JSON文件
@@ -60,7 +102,7 @@ classArrange/
 - 将"class_id"拆分为"course_number"和"class_number"
 - 将处理后的数据保存为新的JSON文件
 
-### 4. class_number_group功能
+#### 4. class_number_group功能
 
 `process_class_number_group.py` 用于将课程按时间和校区信息分组：
 - 将时间和校区相同的class_number分到同一个group中
@@ -70,7 +112,7 @@ classArrange/
   - `classNumberGroup.json`：包含所有class_number_group的信息
   - `classInfo_processed_with_group_id.json`：在原数据基础上添加了class_number_group_id字段
 
-### 5. 一键执行完整流程
+#### 5. 一键执行完整流程
 
 `main.py` 提供了一键执行完整数据处理流程的功能：
 - 自动按顺序执行所有处理步骤
@@ -80,15 +122,36 @@ classArrange/
 
 ## 安装依赖
 
+### 后端/数据处理依赖
+
 ```bash
 pip install -r requirements.txt
 ```
 
-## 使用方法
+### 前端依赖
 
-### 1. 一键执行完整流程（推荐）
+前端需要安装TypeScript编译器：
 
 ```bash
+npm install -g typescript
+```
+
+或
+
+```bash
+yarn global add typescript
+```
+
+## 使用方法
+
+### 后端/数据处理使用方法
+
+#### 1. 一键执行完整流程（推荐）
+
+```bash
+# 进入数据处理目录
+cd data_processing
+# 运行主程序
 python main.py
 ```
 
@@ -96,26 +159,68 @@ python main.py
 1. Excel转JSON
 2. 课程信息处理
 3. class_number_group生成
+4. JSON转JavaScript
 
-### 2. 分步执行
+#### 2. 分步执行
 
-#### 2.1 转换Excel到JSON
+##### 2.1 转换Excel到JSON
 
 ```bash
+cd data_processing
 python excel_to_json.py
 ```
 
-#### 2.2 处理时间地点信息
+##### 2.2 处理时间地点信息
 
 ```bash
+cd data_processing
 python process_class_info.py
 ```
 
-#### 2.3 生成class_number_group
+##### 2.3 生成class_number_group
 
 ```bash
+cd data_processing
 python process_class_number_group.py
 ```
+
+##### 2.4 将JSON转换为JavaScript
+
+```bash
+cd data_processing
+python json_to_js.py
+```
+
+### 前端使用方法
+
+#### 1. 编译TypeScript文件
+
+```bash
+tsc app.ts
+```
+
+或使用tsconfig.json配置编译：
+
+```bash
+tsc
+```
+
+#### 2. 启动前端应用
+
+使用Python启动一个简单的HTTP服务器：
+
+```bash
+python -m http.server 8000
+```
+
+或使用Node.js的http-server：
+
+```bash
+npm install -g http-server
+http-server
+```
+
+然后在浏览器中访问：http://localhost:8000
 
 ## 数据格式说明
 

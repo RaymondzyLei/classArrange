@@ -54,9 +54,16 @@ try {{
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(js_code)
     
+    # 在上层目录也保存一份
+    parent_dir = os.path.dirname(os.path.abspath(__file__))  # 获取当前文件所在目录
+    parent_output_file = os.path.join(os.path.dirname(parent_dir), output_file)  # 上层目录路径
+    with open(parent_output_file, 'w', encoding='utf-8') as f:
+        f.write(js_code)
+    
     print(f"成功生成{output_file}文件")
     print(f"- 包含 {len(class_info)} 条课程信息")
     print(f"- 包含 {len(group_info)} 个课程分组")
+    print(f"成功在上层目录生成{output_file}文件")
     
     return True
 

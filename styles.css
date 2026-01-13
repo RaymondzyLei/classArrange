@@ -1,0 +1,382 @@
+/* 全局样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* 标题样式 */
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+}
+
+h2 {
+    color: #34495e;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* 搜索区域样式 */
+.search-section {
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.search-form {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    align-items: end;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+.form-group input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#search-btn {
+    background-color: #3498db;
+    color: white;
+}
+
+#search-btn:hover {
+    background-color: #2980b9;
+}
+
+#clear-btn {
+    background-color: #e74c3c;
+    color: white;
+}
+
+#clear-btn:hover {
+    background-color: #c0392b;
+}
+
+/* 随机课程组和结果区域样式 */
+.random-section,
+.results-section {
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+/* 课程组列表样式 */
+.group-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.group-card {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 6px;
+    padding: 15px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.group-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.group-card h3 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.group-card p {
+    margin-bottom: 8px;
+    color: #555;
+}
+
+.group-card strong {
+    color: #333;
+}
+
+/* 时间地点信息样式 */
+.time-location {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #e3f2fd;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+/* 已选课程组样式 */
+.selected-groups-section {
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.selected-groups-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    min-height: 40px;
+}
+
+.no-selections, .no-results {
+    color: #777;
+    font-style: italic;
+    margin: 10px 0;
+}
+
+.selected-group-item {
+    display: flex;
+    align-items: center;
+    background-color: #e3f2fd;
+    border: 1px solid #bbdefb;
+    border-radius: 20px;
+    padding: 8px 12px;
+    font-size: 0.9rem;
+}
+
+.group-info {
+    margin-right: 8px;
+}
+
+.group-info small {
+    color: #555;
+    font-size: 0.8em;
+    line-height: 1.4;
+}
+
+.remove-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 22px;
+    height: 22px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+}
+
+.remove-btn:hover {
+    background-color: #c0392b;
+}
+
+/* 课程组卡片复选框样式 */
+.card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.group-checkbox {
+    margin-right: 10px;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+/* 弹窗样式 */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    background-color: white;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+.close:hover, .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 课程详情样式 */
+#modal-course-info {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 6px;
+}
+
+#modal-course-info p {
+    margin-bottom: 10px;
+}
+
+/* 课程表样式 */
+.schedule-section {
+    margin-top: 20px;
+}
+
+#course-schedule {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+#course-schedule th, #course-schedule td {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 5px;
+    height: 30px;
+    width: 14.28%; /* 7列，每列约14.28% */
+}
+
+#course-schedule th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+/* 第5-6行和10-11行之间的间隙 */
+#course-schedule tr:nth-child(5) td {
+    border-bottom: 3px solid #e0e0e0;
+}
+
+#course-schedule tr:nth-child(10) td {
+    border-bottom: 3px solid #e0e0e0;
+}
+
+/* 课程时间块样式 */
+.time-slot {
+    background-color: #3498db;
+    color: white;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 3px;
+    font-size: 0.8rem;
+}
+
+/* 使已选课程组卡片可点击 */
+.selected-group-item {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.selected-group-item:hover {
+    background-color: #bbdefb;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .search-form {
+        grid-template-columns: 1fr;
+    }
+    
+    .group-list {
+        grid-template-columns: 1fr;
+    }
+    
+    .selected-groups-list {
+        flex-direction: column;
+    }
+    
+    .selected-group-item {
+        width: 100%;
+        justify-content: space-between;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.3rem;
+    }
+    
+    .modal-content {
+        width: 95%;
+        margin: 10% auto;
+    }
+    
+    #course-schedule {
+        font-size: 0.7rem;
+    }
+    
+    #course-schedule th, #course-schedule td {
+        padding: 2px;
+        height: 25px;
+    }
+}

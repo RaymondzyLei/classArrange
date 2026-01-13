@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>课程组信息查询系统</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>课程组信息查询系统</h1>
+        
+        <!-- 搜索功能区域 -->
+        <div class="search-section">
+            <h2>搜索课程组</h2>
+            <div class="search-form">
+                <div class="form-group">
+                    <label for="course-number">课程编号:</label>
+                    <input type="text" id="course-number" placeholder="输入课程编号">
+                </div>
+                <div class="form-group">
+                    <label for="course-name">课程名称:</label>
+                    <input type="text" id="course-name" placeholder="输入课程名称">
+                </div>
+                <div class="form-group">
+                    <label for="group-id">课程组ID:</label>
+                    <input type="number" id="group-id" placeholder="输入课程组ID">
+                </div>
+                <button id="search-btn">搜索</button>
+                <button id="clear-btn">清除</button>
+            </div>
+        </div>
+
+        
+
+        <!-- 已选课程组展示区域 -->
+        <div class="selected-groups-section">
+            <h2>已选课程组</h2>
+            <div id="selected-groups" class="selected-groups-list">
+                <p class="no-selections">暂无选择的课程组</p>
+            </div>
+        </div>
+
+        <!-- 搜索结果区域 -->
+        <div class="results-section">
+            <h2>搜索结果</h2>
+            <div id="search-results" class="group-list"></div>
+        </div>
+    </div>
+
+    <!-- 引入数据文件和主脚本 -->
+    <script src="class_info_data.js"></script>
+    <script src="app.js"></script>
+
+    <!-- 课程组详情弹窗 -->
+    <div id="group-details-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modal-course-name">课程详情</h2>
+            <div id="modal-course-info"></div>
+            <div class="schedule-section">
+                <h3>课程表</h3>
+                <table id="course-schedule">
+                    <!-- 课程表将通过JavaScript生成 -->
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
