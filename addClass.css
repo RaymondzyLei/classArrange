@@ -286,6 +286,41 @@ button {
     margin-bottom: 10px;
 }
 
+/* 弹窗操作按钮样式 */
+.modal-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.modal-actions button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+#welcome-btn-ok {
+    background-color: #3498db;
+    color: white;
+}
+
+#welcome-btn-ok:hover {
+    background-color: #2980b9;
+}
+
+#welcome-btn-disable {
+    background-color: #95a5a6;
+    color: white;
+}
+
+#welcome-btn-disable:hover {
+    background-color: #7f8c8d;
+}
+
 /* 课程表样式 */
 .schedule-section {
     margin-top: 20px;

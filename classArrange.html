@@ -19,8 +19,75 @@
                 <div id="selected-groups-container">
                     <p class="no-selections">暂无选择的课程组</p>
                 </div>
+                <div class="action-buttons">
+                    <button id="arrange-courses-btn" class="arrange-btn">开始排课</button>
+                </div>
             </section>
         </main>
+
+        <!-- 介意值输入弹窗 -->
+        <div id="preferences-modal" class="modal">
+            <div class="modal-content">
+                <h3>请输入排课介意值</h3>
+                <div class="form-group">
+                    <label for="time-conflict">时间冲突介意值:</label>
+                    <input type="number" id="time-conflict" value="0" min="0">
+                </div>
+                <div class="form-group">
+                    <label for="campus-conflict">校区冲突介意值:</label>
+                    <input type="number" id="campus-conflict" value="0" min="0">
+                </div>
+                <div class="form-group">
+                    <label for="morning-conflict">早上第1节有课介意值:</label>
+                    <input type="number" id="morning-conflict" value="0" min="0">
+                </div>
+                <div class="form-group">
+                    <label for="evening-conflict">晚上第11节有课介意值:</label>
+                    <input type="number" id="evening-conflict" value="0" min="0">
+                </div>
+                <div class="modal-actions">
+                    <button id="cancel-btn" class="cancel-btn">取消</button>
+                    <button id="confirm-btn" class="confirm-btn">确认</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 排课结果展示 -->
+        <div id="results-modal" class="modal">
+            <div class="modal-content">
+                <h3>排课结果</h3>
+                <div id="results-container">
+                    <!-- 排课结果将在这里显示 -->
+                </div>
+                <div class="modal-actions">
+                    <button id="close-results-btn" class="cancel-btn">关闭</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 完整课表弹窗 -->
+        <div id="full-schedule-modal" class="modal full-schedule-modal">
+            <div class="modal-content">
+                <div class="schedule-container">
+                    <h3>完整课表</h3>
+                    <div id="current-week-info">
+                        当前周次: <span id="current-week-number">1</span>
+                    </div>
+                    <div class="schedule-controls">
+                        <button id="prev-week-btn" class="schedule-week-btn">上一周</button>
+                        <input type="number" id="custom-week-input" class="schedule-week-input" min="1" max="18" value="1">
+                        <button id="go-week-btn" class="schedule-week-btn">确定</button>
+                        <button id="next-week-btn" class="schedule-week-btn">下一周</button>
+                    </div>
+                    <div id="full-schedule-content" class="full-schedule">
+                        <!-- 完整课表将在这里显示 -->
+                    </div>
+                </div>
+                <div class="modal-actions">
+                    <button id="close-schedule-btn" class="cancel-btn">关闭</button>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- 引入数据文件 -->

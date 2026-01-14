@@ -1,6 +1,25 @@
-现在我们要实现排课的功能，这个功能由classArrange部分来实现。
+现在我们要实现排课的功能，这个功能由classArrange(HTML+CSS+TS)部分来实现。
+
 ### 实现算法
-从localStorage获取用户选择的课程组信息之后，需要从class_info_data.js中的groupInfo中查询这些课程组对应的课程编号course_number。
+从localStorage获取用户选择的课程组信息之后，需要从class_info_data.js中的groupInfo中查询所有这些课程组对应的课程编号course_number。
 
 选课的要求如下，如果有多个课程组的course_number相同，从中只能选取一个。如果出现有的course_number对应的课程组只有一个，则必须选择这个课程组。
 
+当然，这样子会出现很多选课的方案，为此我们引入每种选课方案的介意值的概念。
+
+### 介意值
+
+首先，有四种情况会产生介意值
+
+1. 选课方案中出现课程时间重复的情况，每次产生的介意值命名为time_conflict_value
+2. 同一个上午或者同一个下午如果有超过两个课，而且这两个课的校区不同（校区为null的不考虑），每次出现这种情况产生的介意值命名为campus_conflict_value
+3. 如果某一天的第1节有课，每次产生的介意值命名为morning_conflict_value
+4. 如果某一天的第11节有课，每次产生的介意值命名为evening_conflict_value
+
+这四个value的初始值都为0，并在开始排课之前通过弹窗提示用户输入这四个value的初始值。
+
+### 开始排课
+
+得到这四个value之后，我们就可以开始排课了。由于相同的course_number对应的多个课程组只能选一个，我们会有多种选课方案。对于每种选课方案，我们需要计算它的sum_value。sum_value的计算方法如下：对于每种选课方案，遍历第1周到第18周的每一天，对于每一天，根据它是否违反了以上四种情况，来累加对应的value。
+
+最后，我们选择sum_value最小的五种选课方案作为最终的排课结果。

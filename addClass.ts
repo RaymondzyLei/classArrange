@@ -48,6 +48,14 @@ class CourseGroupApp {
     private closeBtn: HTMLElement;
     private modalCourseName: HTMLElement;
     private modalCourseInfo: HTMLElement;
+    
+    // 欢迎弹窗相关元素
+    private welcomeModal: HTMLElement;
+    private welcomeBtnOk: HTMLButtonElement;
+    private welcomeBtnDisable: HTMLButtonElement;
+    
+    // 弹窗版本号，用于控制是否显示最新版本的弹窗
+    private readonly WELCOME_MODAL_VERSION = '1.0.5';
 
     constructor() {
         // 初始化DOM元素
@@ -64,6 +72,11 @@ class CourseGroupApp {
         this.closeBtn = document.querySelector('.close')!;
         this.modalCourseName = document.getElementById('modal-course-name')!;
         this.modalCourseInfo = document.getElementById('modal-course-info')!;
+        
+        // 初始化欢迎弹窗元素
+        this.welcomeModal = document.getElementById('welcome-modal')!;
+        this.welcomeBtnOk = document.getElementById('welcome-btn-ok') as HTMLButtonElement;
+        this.welcomeBtnDisable = document.getElementById('welcome-btn-disable') as HTMLButtonElement;
         
         // 初始化已选课程组ID集合
         this.selectedGroupIds = this.loadSelectedGroupsFromStorage();
@@ -100,11 +113,57 @@ class CourseGroupApp {
                 this.closeModal();
             }
         });
+        
+        // 欢迎弹窗按钮事件
+        this.welcomeBtnOk.addEventListener('click', () => this.closeWelcomeModal());
+        this.welcomeBtnDisable.addEventListener('click', () => this.disableWelcomeModal());
     }
 
     private init(): void {
         // 初始化应用
         this.updateSelectedGroupsDisplay();
+        
+        // 检查是否需要显示欢迎弹窗
+        this.checkAndShowWelcomeModal();
+    }
+    
+    /**
+     * 检查是否需要显示欢迎弹窗
+     */
+    private checkAndShowWelcomeModal(): void {
+        const savedVersion = localStorage.getItem('welcomeModalVersion');
+        const isDisabled = localStorage.getItem('welcomeModalDisabled');
+        
+        // 如果用户没有禁用弹窗，或者弹窗版本已更新，则显示
+        if (!isDisabled || savedVersion !== this.WELCOME_MODAL_VERSION) {
+            this.showWelcomeModal();
+        }
+    }
+    
+    /**
+     * 显示欢迎弹窗
+     */
+    private showWelcomeModal(): void {
+        this.welcomeModal.style.display = 'block';
+    }
+    
+    /**
+     * 关闭欢迎弹窗
+     */
+    private closeWelcomeModal(): void {
+        this.welcomeModal.style.display = 'none';
+        // 保存当前弹窗版本
+        //localStorage.setItem('welcomeModalVersion', this.WELCOME_MODAL_VERSION);
+    }
+    
+    /**
+     * 禁用欢迎弹窗
+     */
+    private disableWelcomeModal(): void {
+        this.welcomeModal.style.display = 'none';
+        // 保存禁用状态和当前版本
+        localStorage.setItem('welcomeModalDisabled', 'true');
+        localStorage.setItem('welcomeModalVersion', this.WELCOME_MODAL_VERSION);
     }
 
     // 从localStorage加载已选课程组
@@ -232,6 +291,12 @@ class CourseGroupApp {
         const courseNumber = this.courseNumberInput.value.trim();
         const courseName = this.courseNameInput.value.trim().toLowerCase();
         const groupId = this.groupIdInput.value.trim();
+
+        // 检查是否有搜索内容
+        if (!courseNumber && !courseName && !groupId) {
+            alert('请输入搜索内容后再点击搜索！');
+            return;
+        }
 
         // 执行搜索
         const results = this.searchGroups(courseNumber, courseName, groupId);

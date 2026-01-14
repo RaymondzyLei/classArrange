@@ -25,8 +25,41 @@
       <div class="crossnote markdown-preview  ">
       
 <h1 id="changelog">Changelog </h1>
-<h2 id="111---2026-01-13">[1.1.1] - 2026-01-13 </h2>
+<h2 id="130---2026-01-14">[1.3.0] - 2026-01-14 </h2>
+<h3 id="added">Added </h3>
+<ul>
+<li>欢迎弹窗功能：在addClass页面添加了版本控制的欢迎弹窗</li>
+<li>弹窗版本管理：支持通过更新版本号强制显示新弹窗内容</li>
+<li>用户偏好存储：使用localStorage记住用户选择</li>
+<li>自定义消息支持：可在HTML中轻松修改弹窗内容</li>
+</ul>
+<h2 id="121---2026-01-14">[1.2.1] - 2026-01-14 </h2>
 <h3 id="updated">Updated </h3>
+<ul>
+<li>添加显示课表的功能</li>
+<li>将indexOf方法改回includes方法，使用ES2016的新特性</li>
+<li>编译标准从ES2015升级到ES2016</li>
+<li>更新README.md中的编译说明，将target参数从es2015改为es2016</li>
+</ul>
+<h2 id="120---2026-01-14">[1.2.0] - 2026-01-14 </h2>
+<h3 id="added-1">Added </h3>
+<ul>
+<li>智能排课功能：从localStorage获取用户选择的课程组信息，生成最优排课方案</li>
+<li>介意值配置：支持用户自定义四种介意值（时间冲突、校区冲突、早上第1节有课、晚上第11节有课）</li>
+<li>排课算法：生成所有可能的选课方案并计算每种方案的总介意值</li>
+<li>方案排序：按介意值排序，提供前5个最优方案</li>
+<li>结果展示：显示每种方案的详细冲突情况和课程安排</li>
+</ul>
+<h3 id="features">Features </h3>
+<ul>
+<li>课程分组逻辑：确保同一门课程（相同course_number）只能选择一个课堂</li>
+<li>周次范围检查：支持普通周、单周、双周的课程安排</li>
+<li>校区冲突检测：同一上午/下午超过两个课且校区不同时计算冲突</li>
+<li>响应式设计：弹窗和按钮适配不同屏幕尺寸</li>
+<li>状态管理：排课按钮仅在有选择课程组时可用</li>
+</ul>
+<h2 id="111---2026-01-13">[1.1.1] - 2026-01-13 </h2>
+<h3 id="updated-1">Updated </h3>
 <ul>
 <li>迷你课表样式改进：
 <ul>
@@ -43,7 +76,7 @@
 </li>
 </ul>
 <h2 id="110---2026-01-13">[1.1.0] - 2026-01-13 </h2>
-<h3 id="added">Added </h3>
+<h3 id="added-2">Added </h3>
 <ul>
 <li>前端HTML+CSS+TypeScript开发的课程组查询界面</li>
 <li>课程组搜索功能，支持按课程编号、课程名称和课程组ID搜索</li>
@@ -52,7 +85,7 @@
 <li>课程详情弹窗，展示完整课程信息</li>
 <li>直观的课程表展示，包含13行7列的时间安排</li>
 </ul>
-<h3 id="features">Features </h3>
+<h3 id="features-1">Features </h3>
 <ul>
 <li>响应式设计，适配不同屏幕尺寸</li>
 <li>搜索结果分页展示</li>
@@ -62,7 +95,7 @@
 <li>课堂编号显示优化：当class_numbers超过10个时，显示为"很多"而不是全部列举</li>
 </ul>
 <h2 id="102---2026-01-12">[1.0.2] - 2026-01-12 </h2>
-<h3 id="added-1">Added </h3>
+<h3 id="added-3">Added </h3>
 <ul>
 <li>class_number_group功能：将课程按时间和校区信息分组</li>
 <li><a href="http://xn--main-zh5fy87fgv6b.py">主程序main.py</a>：一键执行完整数据处理流程</li>
@@ -70,7 +103,7 @@
 <li>生成classInfo_processed_with_group_id.json文件：添加了group_id的课程信息</li>
 <li>生成class_info_data.js文件：包含课程信息数据、课程组数据和生成时间</li>
 </ul>
-<h3 id="features-1">Features </h3>
+<h3 id="features-2">Features </h3>
 <ul>
 <li>class_number_group_id格式优化：使用纯数字格式</li>
 <li>分组逻辑完善：确保不同course_number的课程不会被分到同一个group</li>
@@ -79,7 +112,7 @@
 <li>跨平台兼容性：处理编码问题，确保在Windows环境下正常运行</li>
 </ul>
 <h2 id="101---2026-01-12">[1.0.1] - 2026-01-12 </h2>
-<h3 id="added-2">Added </h3>
+<h3 id="added-4">Added </h3>
 <ul>
 <li>校区自动识别功能：根据地点自动判断校区编号</li>
 <li>中文字段名转换为英文：统一使用英文字段名，方便后续开发</li>
@@ -87,7 +120,7 @@
 <li>课程编号拆分：将class_id拆分为course_number和class_number</li>
 <li>更新了项目文档，添加了详细的数据格式说明和字段映射表</li>
 </ul>
-<h3 id="features-2">Features </h3>
+<h3 id="features-3">Features </h3>
 <ul>
 <li>校区识别规则：
 <ul>
@@ -102,7 +135,7 @@
 <li>课程编号和课堂编号拆分，便于课程管理</li>
 </ul>
 <h2 id="100---2026-01-12">[1.0.0] - 2026-01-12 </h2>
-<h3 id="added-3">Added </h3>
+<h3 id="added-5">Added </h3>
 <ul>
 <li>初始版本发布</li>
 <li>Excel转JSON功能实现</li>
@@ -111,7 +144,7 @@
 <li>项目文档（<a href="http://README.md">README.md</a>）</li>
 <li>依赖管理文件（requirements.txt）</li>
 </ul>
-<h3 id="features-3">Features </h3>
+<h3 id="features-4">Features </h3>
 <ul>
 <li>支持从Excel文件读取课程信息并转换为JSON格式</li>
 <li>支持解析复杂的时间地点格式，包括周次、地点、时间段</li>

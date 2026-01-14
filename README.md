@@ -2,13 +2,14 @@
 
 ## 项目简介
 
-本项目用于处理课程信息数据，并提供前端查询界面。主要功能包括：
+本项目用于处理课程信息数据，并提供前端查询和排课界面。主要功能包括：
 1. 从Excel文件读取课程信息，转换为JSON格式
 2. 对"时间地点"字段进行结构化解析
 3. 将课程按时间和校区信息分组
 4. 提供基于课程编号、课程名称和课程组ID的搜索功能
 5. 支持课程组的选择、存储和详细信息查看
 6. 直观的课程表展示
+7. 智能排课功能，生成最优选课方案
 
 ## 技术栈
 
@@ -33,6 +34,10 @@ classArrange/
 ├── addClass.css                      # 选课CSS文件
 ├── addClass.ts                       # 选课TypeScript文件
 ├── addClass.js                       # 选课编译后的JavaScript文件
+├── classArrange.html                 # 排课HTML文件
+├── classArrange.css                  # 排课CSS文件
+├── classArrange.ts                   # 排课TypeScript文件
+├── classArrange.js                   # 排课编译后的JavaScript文件
 ├── tsconfig.json                     # TypeScript配置文件
 ├── requirements.txt                  # 项目依赖
 ├── README.md                         # 项目说明文档
@@ -67,6 +72,27 @@ classArrange/
   - 课程的上课时间区块用绿色填充，直观展示
   - 单元格高度为12px，提供更好的视觉体验
 - 弹窗中同时显示文字版的时间信息，方便用户阅读
+
+#### 4. 智能排课功能
+- 从localStorage获取用户选择的课程组信息
+- 根据课程编号分组，确保同一门课程只能选择一个课堂
+- 支持用户自定义介意值：
+  - 时间冲突介意值：设置课程时间冲突的权重
+  - 校区冲突介意值：设置同一上午/下午超过两个课且校区不同的权重
+  - 早上第1节有课介意值：设置早上第一节有课的权重
+  - 晚上第11节有课介意值：设置晚上第十一节有课的权重
+- 生成所有可能的选课方案，并计算每种方案的总介意值
+- 按介意值排序，提供前5个最优方案
+- 显示每种方案的详细冲突情况和课程安排
+
+#### 5. 欢迎弹窗功能
+- 页面加载时自动显示欢迎弹窗
+- 支持自定义弹窗消息内容
+- 提供两种关闭选项：
+  - "好的"：关闭弹窗但保留下次显示
+  - "不再显示"：记住用户选择，除非更新弹窗版本
+- 版本控制机制：通过更新版本号可强制显示新内容
+- 用户偏好存储：使用localStorage保存用户选择和弹窗版本
 
 ### 后端/数据处理功能
 
@@ -202,13 +228,13 @@ python json_to_js.py
 编译addClass.ts文件：
 
 ```bash
-tsc addClass.ts --target es2015 --lib "es2015,dom"
+tsc addClass.ts --target es2016 --lib "es2016,dom"
 ```
 
 编译classArrange.ts文件：
 
 ```bash
-tsc classArrange.ts --target es2015 --lib "es2015,dom"
+tsc classArrange.ts --target es2016 --lib "es2016,dom"
 ```
 
 #### 2. 启动前端应用
