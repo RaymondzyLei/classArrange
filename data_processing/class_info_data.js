@@ -1,6 +1,6 @@
 // 课程信息数据
-// 生成时间: 2026-01-13 17:15:28
-const infoCreateTime = "20260113171528";
+// 生成时间: 2026-01-16 12:02:49
+const infoCreateTime = "20260116120249";
 
 // 课程详情信息
 const classInfo = [
@@ -328,7 +328,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 70,
+    "enrolled_students": 67,
     "maximum_students": 100,
     "target_classes": "24级203院03班,24级203院04班",
     "course_number": "001506",
@@ -377,7 +377,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 80,
+    "enrolled_students": 88,
     "maximum_students": 110,
     "target_classes": "24级203院05班,24级203院06班",
     "course_number": "001506",
@@ -622,7 +622,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 11,
     "maximum_students": 100,
     "target_classes": "24地空学院化学类（大类）,24环境科学与工程,24级206院019系01班,24级206院003系01班,24级206院003系02班,24级206院材料01班,24级206院012系01班*",
     "course_number": "001549",
@@ -671,7 +671,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 60,
     "maximum_students": 100,
     "target_classes": "24电子信息工程",
     "course_number": "001549",
@@ -720,7 +720,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 69,
     "maximum_students": 100,
     "target_classes": "24电子信息工程",
     "course_number": "001549",
@@ -769,7 +769,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 71,
     "maximum_students": 100,
     "target_classes": "24生命科学学院（大类）*,24数据科学与大数据技术*,24电子科学与技术*",
     "course_number": "001549",
@@ -818,7 +818,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 81,
     "maximum_students": 100,
     "target_classes": "24测控技术与仪器,24计算机科学与技术*,24机器人工程",
     "course_number": "001549",
@@ -1973,7 +1973,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 68,
     "maximum_students": 80,
     "target_classes": "23量子信息科学*,23凝聚态物理",
     "course_number": "002001",
@@ -2023,7 +2023,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 115,
     "maximum_students": 80,
     "target_classes": "23光电信息科学与工程*,23医学物理,23生物物理,23等离子体物理,23粒子物理与原子核物理,23自旋物理学",
     "course_number": "002001",
@@ -2073,7 +2073,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 112,
     "maximum_students": 80,
     "target_classes": "23应用物理学,23物理电子学,23微电子与固体电子学,23原子分子物理,23理论物理",
     "course_number": "002001",
@@ -2123,7 +2123,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 13,
     "maximum_students": 42,
     "target_classes": "23微电子与固体电子学,23空间探测仪器与技术",
     "course_number": "002122",
@@ -2173,7 +2173,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 14,
     "maximum_students": 45,
     "target_classes": "23物理化学,23化学物理,23化学物理仪器",
     "course_number": "003024",
@@ -2249,9 +2249,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 46,
     "maximum_students": 55,
-    "target_classes": "24生命科学学院（大类）*",
+    "target_classes": "24贝时璋生命科技英才班T,24生命科学学院（大类）*",
     "course_number": "003056",
     "class_number": "01",
     "parsed_time_location": [
@@ -2299,9 +2299,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 36,
     "maximum_students": 55,
-    "target_classes": "24贝时璋生命科技英才班T,24生命科学学院（大类）(强基)",
+    "target_classes": "24生命科学学院（大类）(强基)",
     "course_number": "003056",
     "class_number": "02",
     "parsed_time_location": [
@@ -2364,7 +2364,7 @@ const classInfo = [
     "class_id": "003143.01",
     "course_name": "物理化学基础实验(下)",
     "department": "003 化学物理系",
-    "teachers": "吴强华,邬宗芳,袁龙,王晓葵,汪冬冬,雷璇,冯红艳,吴红,李红春,金邦坤",
+    "teachers": "王晓葵,金邦坤,吴强华,雷璇,汪冬冬,吴红,邬宗芳,李红春,袁龙,冯红艳",
     "time_location": "3~16周 东区环资楼501-504: 1(6,7,8,9,10)",
     "credit": 2.0,
     "hours": 80,
@@ -2375,7 +2375,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 31,
     "maximum_students": 45,
     "target_classes": "23材料物理,23材料化学",
     "course_number": "003143",
@@ -2409,7 +2409,7 @@ const classInfo = [
     "class_id": "003143.02",
     "course_name": "物理化学基础实验(下)",
     "department": "003 化学物理系",
-    "teachers": "王晓葵,袁龙,吴强华,汪冬冬,邬宗芳,冯红艳,李红春,金邦坤,雷璇,吴红",
+    "teachers": "王晓葵,金邦坤,吴强华,雷璇,汪冬冬,吴红,邬宗芳,李红春,袁龙,冯红艳",
     "time_location": "3~16周 东区环资楼501-504: 5(6,7,8,9,10)",
     "credit": 2.0,
     "hours": 80,
@@ -2420,7 +2420,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 26,
     "maximum_students": 45,
     "target_classes": "23无机化学,23分析化学,23有机化学,23高分子材料",
     "course_number": "003143",
@@ -2454,7 +2454,7 @@ const classInfo = [
     "class_id": "003143.03",
     "course_name": "物理化学基础实验(下)",
     "department": "003 化学物理系",
-    "teachers": "邬宗芳,金邦坤,汪冬冬,雷璇,吴强华,冯红艳,吴红,王晓葵,袁龙,李红春",
+    "teachers": "王晓葵,金邦坤,吴强华,雷璇,汪冬冬,吴红,邬宗芳,李红春,袁龙,冯红艳",
     "time_location": "3~16周 东区环资楼501-504: 4(6,7,8,9,10)",
     "credit": 2.0,
     "hours": 80,
@@ -2465,7 +2465,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 21,
     "maximum_students": 45,
     "target_classes": "23地球化学,23行星科学,23物理化学,23化学生物学,23化学物理,23应用化学,23化学物理仪器",
     "course_number": "003143",
@@ -2499,7 +2499,7 @@ const classInfo = [
     "class_id": "003143e.01",
     "course_name": "物理化学基础实验(下)(英)",
     "department": "003 化学物理系",
-    "teachers": "汪冬冬,邬宗芳,吴强华,袁龙,李红春",
+    "teachers": "吴强华,邬宗芳,汪冬冬,袁龙,李红春",
     "time_location": "3~16周 东区环资楼: 1(6,7,8,9,10)",
     "credit": 2.0,
     "hours": 80,
@@ -2555,7 +2555,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 35,
     "maximum_students": 45,
     "target_classes": "23物理化学,23化学物理,23化学物理仪器",
     "course_number": "003145",
@@ -2598,7 +2598,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 50,
     "maximum_students": 45,
     "target_classes": "23物理化学,23化学生物学,23化学物理",
     "course_number": "003151",
@@ -2648,7 +2648,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 46,
     "maximum_students": 45,
     "target_classes": "23无机化学,23应用化学,23分析化学,23有机化学",
     "course_number": "003151",
@@ -2698,7 +2698,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 37,
     "maximum_students": 45,
     "target_classes": "23材料物理,23材料化学,23化学物理仪器,23高分子材料",
     "course_number": "003151",
@@ -2871,7 +2871,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 27,
     "maximum_students": 28,
     "target_classes": "24地空学院化学类（大类）,24环境科学与工程",
     "course_number": "003155",
@@ -3068,7 +3068,7 @@ const classInfo = [
     "teaching_language": "英语",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 27,
     "maximum_students": 30,
     "target_classes": "24卢嘉锡化学科技英才班T",
     "course_number": "003155e",
@@ -3193,7 +3193,7 @@ const classInfo = [
     "teaching_language": "英语",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 31,
     "maximum_students": 80,
     "target_classes": "23核工程与核技术,23医学物理,23粒子物理与原子核物理",
     "course_number": "004018e",
@@ -3317,7 +3317,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 69,
     "maximum_students": 80,
     "target_classes": "23光电信息科学与工程*,23生物物理",
     "course_number": "004074",
@@ -3351,7 +3351,7 @@ const classInfo = [
     "class_id": "004074.02",
     "course_name": "物理学专业基础实验",
     "department": "042 物理实验教学中心",
-    "teachers": "荣星,石发展,阮可青,王声波,王安廷,李骏,张增明,乔振华,刘乃乐,郭国平,王自强,徐军",
+    "teachers": "荣星,石发展,阮可青,张增明,乔振华,李骏,王安廷,徐军,刘乃乐,郭国平,王自强,王声波",
     "time_location": "4~17周 院系通知二次选课安排: 1(6,7,8,9,10)",
     "credit": 2.0,
     "hours": 80,
@@ -3362,7 +3362,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 78,
     "maximum_students": 80,
     "target_classes": "23凝聚态物理",
     "course_number": "004074",
@@ -3407,7 +3407,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 60,
     "maximum_students": 75,
     "target_classes": "23粒子物理与原子核物理,23原子分子物理",
     "course_number": "004074",
@@ -3441,7 +3441,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 67,
     "maximum_students": 75,
     "target_classes": "23微电子与固体电子学,23理论物理",
     "course_number": "004074",
@@ -3486,7 +3486,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 61,
     "maximum_students": 75,
     "target_classes": "23应用物理学,23医学物理,23等离子体物理,23物理电子学,23自旋物理学",
     "course_number": "004074",
@@ -3690,7 +3690,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 51,
     "maximum_students": 49,
     "target_classes": "23理论与应用力学*",
     "course_number": "005101",
@@ -3809,7 +3809,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 50,
     "maximum_students": 49,
     "target_classes": "23理论与应用力学*",
     "course_number": "005151",
@@ -4154,7 +4154,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 65,
     "target_classes": "24自动化,24网络空间安全*",
     "course_number": "006502",
@@ -4203,7 +4203,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 71,
     "maximum_students": 76,
     "target_classes": "24电子科学与技术*,23行星科学",
     "course_number": "006502",
@@ -4252,7 +4252,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 81,
     "maximum_students": 80,
     "target_classes": "24测控技术与仪器,24机器人工程",
     "course_number": "006502",
@@ -4326,7 +4326,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 31,
     "maximum_students": 70,
     "target_classes": "24王小谟网络空间科技英才班T,24信息安全*",
     "course_number": "006502",
@@ -4375,7 +4375,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 9,
     "maximum_students": 20,
     "target_classes": "23大气科学",
     "course_number": "007016",
@@ -4468,7 +4468,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 4,
     "maximum_students": 4,
     "target_classes": "23地球化学",
     "course_number": "007108",
@@ -4511,7 +4511,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 4,
     "maximum_students": 20,
     "target_classes": "23地球化学",
     "course_number": "007115",
@@ -4577,7 +4577,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 16,
     "maximum_students": 17,
     "target_classes": "24地空学院化学类（大类）",
     "course_number": "007168",
@@ -4670,7 +4670,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 19,
     "maximum_students": 30,
     "target_classes": "23地球物理学*",
     "course_number": "007242",
@@ -4869,7 +4869,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 9,
     "maximum_students": 20,
     "target_classes": "23大气科学",
     "course_number": "007286",
@@ -5142,7 +5142,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 25,
     "maximum_students": 30,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008108",
@@ -5213,7 +5213,7 @@ const classInfo = [
     "course_name": "生理学",
     "department": "207 生命科学学院",
     "teachers": "汪铭,晋艳,陈聚涛,薛天,张智,胡兵",
-    "time_location": "12~13周 3A210: 3(3,4,5)\n14周 3A210: 3(3,4,5) 4(3,4,5)\n15周 3A210: 3(3,4,5) 4(3,4,5)\n1~4周 3A210: 3(3,4,5)\n5~6,16周 3A210: 3(3,4,5)\n7~11周 3A210: 3(3,4,5)",
+    "time_location": "12~13周 3A307: 3(3,4,5)\n14周 3A307: 3(3,4,5) 4(3,4,5)\n15周 3A307: 3(3,4,5) 4(3,4,5)\n1~4周 3A307: 3(3,4,5)\n5~6,16周 3A307: 3(3,4,5)\n7~11周 3A307: 3(3,4,5)",
     "credit": 3.0,
     "hours": 60,
     "education_level": "本科",
@@ -5223,7 +5223,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 21,
     "maximum_students": 22,
     "target_classes": "24贝时璋生命科技英才班T",
     "course_number": "008108",
@@ -5235,7 +5235,7 @@ const classInfo = [
           "end_week": 13,
           "week_type": null
         },
-        "location": "3A210",
+        "location": "3A307",
         "campus": 2,
         "time_slots": [
           {
@@ -5254,7 +5254,7 @@ const classInfo = [
           "end_week": 4,
           "week_type": null
         },
-        "location": "3A210",
+        "location": "3A307",
         "campus": 2,
         "time_slots": [
           {
@@ -5273,7 +5273,7 @@ const classInfo = [
           "end_week": 11,
           "week_type": null
         },
-        "location": "3A210",
+        "location": "3A307",
         "campus": 2,
         "time_slots": [
           {
@@ -5304,8 +5304,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 40,
+    "enrolled_students": 36,
+    "maximum_students": 38,
     "target_classes": "24生命科学学院（大类）(强基)",
     "course_number": "008108",
     "class_number": "03",
@@ -5413,7 +5413,7 @@ const classInfo = [
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
     "enrolled_students": 0,
-    "maximum_students": 19,
+    "maximum_students": 20,
     "target_classes": "23生物技术",
     "course_number": "008118",
     "class_number": "01",
@@ -5849,8 +5849,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 30,
+    "enrolled_students": 23,
+    "maximum_students": 27,
     "target_classes": "24生命科学学院（大类）*,25级000院01班,25级000院02班,25级000院03班,25级000院04班,25级000院05班,25级000院06班,25级000院07班,25级000院08班",
     "course_number": "008185",
     "class_number": "02",
@@ -5901,7 +5901,7 @@ const classInfo = [
     "course_name": "分子生物学I",
     "department": "207 生命科学学院",
     "teachers": "丁勇,蔡刚,刘强",
-    "time_location": "10~13周 3A210: 1(3,4,5)\n1~5周 3A210: 1(3,4,5)\n6~9周 3A210: 1(3,4,5)",
+    "time_location": "10~13周 3A302: 2(3,4,5)\n1~5周 3A302: 2(3,4,5)\n6~9周 3A302: 2(3,4,5)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -5911,7 +5911,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 20,
     "maximum_students": 22,
     "target_classes": "24贝时璋生命科技英才班T",
     "course_number": "008185",
@@ -5923,11 +5923,11 @@ const classInfo = [
           "end_week": 13,
           "week_type": null
         },
-        "location": "3A210",
+        "location": "3A302",
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 1,
+            "day_of_week": 2,
             "periods": [
               3,
               4,
@@ -5942,11 +5942,11 @@ const classInfo = [
           "end_week": 5,
           "week_type": null
         },
-        "location": "3A210",
+        "location": "3A302",
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 1,
+            "day_of_week": 2,
             "periods": [
               3,
               4,
@@ -5961,11 +5961,11 @@ const classInfo = [
           "end_week": 9,
           "week_type": null
         },
-        "location": "3A210",
+        "location": "3A302",
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 1,
+            "day_of_week": 2,
             "periods": [
               3,
               4,
@@ -5992,8 +5992,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 50,
+    "enrolled_students": 37,
+    "maximum_students": 42,
     "target_classes": "24生命科学学院（大类）(强基),24中国科大-协和医学英才班U",
     "course_number": "008185",
     "class_number": "04",
@@ -6054,7 +6054,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 14,
     "maximum_students": 14,
     "target_classes": "24生命科学学院（大类）*,23化学生物学",
     "course_number": "008187",
@@ -6099,7 +6099,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 13,
     "maximum_students": 14,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008187",
@@ -6144,7 +6144,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 13,
     "maximum_students": 14,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008187",
@@ -6189,7 +6189,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 14,
     "maximum_students": 14,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008187",
@@ -6234,7 +6234,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 14,
     "maximum_students": 14,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008187",
@@ -6279,8 +6279,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 19,
+    "enrolled_students": 13,
+    "maximum_students": 14,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008187",
     "class_number": "07",
@@ -6519,7 +6519,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 22,
     "maximum_students": 22,
     "target_classes": "23生物科学*",
     "course_number": "008206",
@@ -6563,7 +6563,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 22,
     "maximum_students": 22,
     "target_classes": "23生物科学*",
     "course_number": "008206",
@@ -6607,7 +6607,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 20,
     "maximum_students": 22,
     "target_classes": "23生物科学*",
     "course_number": "008206",
@@ -6651,7 +6651,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 19,
     "target_classes": "23生物技术",
     "course_number": "008206",
@@ -6695,8 +6695,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 17,
+    "maximum_students": 16,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008208",
     "class_number": "01",
@@ -6740,8 +6740,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 16,
+    "maximum_students": 16,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008208",
     "class_number": "02",
@@ -6785,8 +6785,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 13,
+    "maximum_students": 16,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008208",
     "class_number": "03",
@@ -6830,8 +6830,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 23,
+    "enrolled_students": 15,
+    "maximum_students": 16,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008208",
     "class_number": "04",
@@ -6875,8 +6875,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 17,
+    "maximum_students": 16,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008209",
     "class_number": "01",
@@ -6941,8 +6941,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 16,
+    "maximum_students": 16,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008209",
     "class_number": "02",
@@ -7007,8 +7007,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 13,
+    "maximum_students": 16,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008209",
     "class_number": "03",
@@ -7073,8 +7073,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 15,
+    "maximum_students": 16,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "008209",
     "class_number": "04",
@@ -7220,8 +7220,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 21,
+    "maximum_students": 20,
     "target_classes": "24贝时璋生命科技英才班T",
     "course_number": "008714",
     "class_number": "01",
@@ -7280,7 +7280,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 29,
     "maximum_students": 29,
     "target_classes": "23机械设计制造及其自动化,23测控技术与仪器",
     "course_number": "009103",
@@ -7597,7 +7597,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 46,
     "maximum_students": 50,
     "target_classes": "24自动化",
     "course_number": "010159",
@@ -7647,7 +7647,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 42,
     "maximum_students": 50,
     "target_classes": "24自动化",
     "course_number": "010159",
@@ -7697,7 +7697,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 108,
     "maximum_students": 115,
     "target_classes": "23自动化*",
     "course_number": "010190",
@@ -7731,7 +7731,7 @@ const classInfo = [
     "course_name": "传感器原理与技术",
     "department": "010 自动化系",
     "teachers": "周烽",
-    "time_location": "1~14周 3C201: 5(8,9,10)",
+    "time_location": "1~14周 3C203: 4(8,9,10)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -7741,7 +7741,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 88,
     "maximum_students": 100,
     "target_classes": "24自动化",
     "course_number": "010196",
@@ -7753,11 +7753,11 @@ const classInfo = [
           "end_week": 14,
           "week_type": null
         },
-        "location": "3C201",
+        "location": "3C203",
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 5,
+            "day_of_week": 4,
             "periods": [
               8,
               9,
@@ -7784,7 +7784,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 88,
     "maximum_students": 100,
     "target_classes": "24自动化",
     "course_number": "010197",
@@ -7977,7 +7977,7 @@ const classInfo = [
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
     "enrolled_students": 0,
-    "maximum_students": 150,
+    "maximum_students": 100,
     "target_classes": null,
     "course_number": "011044",
     "class_number": "02",
@@ -8312,7 +8312,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 98,
     "maximum_students": 140,
     "target_classes": "24计算机科学与技术*,24数据科学与大数据技术*,24人工智能*",
     "course_number": "011145",
@@ -8361,7 +8361,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 97,
     "maximum_students": 140,
     "target_classes": "24计算机科学与技术*",
     "course_number": "011145",
@@ -8644,7 +8644,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 97,
     "maximum_students": 140,
     "target_classes": "24计算机科学与技术*",
     "course_number": "011174",
@@ -8693,7 +8693,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 97,
     "maximum_students": 140,
     "target_classes": "24计算机科学与技术*",
     "course_number": "011174",
@@ -8834,7 +8834,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 40,
     "maximum_students": 80,
     "target_classes": "24华夏计算机科技英才班T",
     "course_number": "011705",
@@ -8925,7 +8925,7 @@ const classInfo = [
     "course_name": "热力设备原理",
     "department": "013 热科学和能源工程系",
     "teachers": "叶桃红,龙林爽",
-    "time_location": "1~15周 3A203: 1(3,4) 3(6,7)",
+    "time_location": "1~15周 3A412: 1(3,4) 3(6,7)",
     "credit": 3.0,
     "hours": 60,
     "education_level": "本科",
@@ -8935,7 +8935,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 43,
     "maximum_students": 45,
     "target_classes": "23能源与动力工程",
     "course_number": "013099",
@@ -8947,7 +8947,7 @@ const classInfo = [
           "end_week": 15,
           "week_type": null
         },
-        "location": "3A203",
+        "location": "3A412",
         "campus": 2,
         "time_slots": [
           {
@@ -9064,7 +9064,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 41,
     "maximum_students": 41,
     "target_classes": "24能源与动力工程,24安全工程",
     "course_number": "013148",
@@ -9114,7 +9114,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 20,
     "maximum_students": 20,
     "target_classes": "24能源与动力工程,24安全工程",
     "course_number": "013148",
@@ -9164,7 +9164,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 10,
     "maximum_students": 20,
     "target_classes": "24测控技术与仪器",
     "course_number": "013149",
@@ -9213,7 +9213,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 30,
     "maximum_students": 48,
     "target_classes": "23材料物理,23材料化学,23应用化学",
     "course_number": "014014",
@@ -9391,7 +9391,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 30,
     "maximum_students": 35,
     "target_classes": "23材料物理,23材料化学,23高分子材料",
     "course_number": "014145",
@@ -9493,7 +9493,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 2,
     "maximum_students": 80,
     "target_classes": "24工商管理,24金融学",
     "course_number": "015006",
@@ -9542,7 +9542,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 3,
     "maximum_students": 60,
     "target_classes": "23工商管理*",
     "course_number": "015039",
@@ -9592,7 +9592,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 60,
     "target_classes": "24工商管理",
     "course_number": "015704",
@@ -9654,7 +9654,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 60,
     "target_classes": "24工商管理,23金融学",
     "course_number": "015708",
@@ -9697,7 +9697,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 60,
     "target_classes": "24工商管理",
     "course_number": "015709",
@@ -9799,7 +9799,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 3,
     "maximum_students": 60,
     "target_classes": "23工商管理*",
     "course_number": "016100",
@@ -9842,7 +9842,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 60,
     "target_classes": "24工商管理",
     "course_number": "016117",
@@ -9928,7 +9928,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 59,
     "maximum_students": 59,
     "target_classes": "24统计学*",
     "course_number": "017063",
@@ -10004,7 +10004,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 30,
     "target_classes": "24工商管理,24金融学",
     "course_number": "017124",
@@ -10053,7 +10053,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 59,
     "maximum_students": 59,
     "target_classes": "24统计学*",
     "course_number": "017129",
@@ -10103,7 +10103,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 10,
     "maximum_students": 30,
     "target_classes": "24金融学,24管理科学",
     "course_number": "017131",
@@ -10152,7 +10152,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 18,
     "maximum_students": 40,
     "target_classes": "23金融学",
     "course_number": "017134",
@@ -10202,7 +10202,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 73,
     "maximum_students": 100,
     "target_classes": "24自动化,24电子信息工程",
     "course_number": "017144",
@@ -10250,7 +10250,7 @@ const classInfo = [
     "class_id": "017144.06",
     "course_name": "随机过程B",
     "department": "017 统计与金融系",
-    "teachers": "庄玮玮",
+    "teachers": "刘杰",
     "time_location": "1~16周 3C301: 1(3,4)\n2~16(双)周 3C301: 1(5)",
     "credit": 2.0,
     "hours": 40,
@@ -10261,7 +10261,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 55,
     "maximum_students": 100,
     "target_classes": "24自动化,24电子信息工程",
     "course_number": "017144",
@@ -10309,7 +10309,7 @@ const classInfo = [
     "class_id": "017144.07",
     "course_name": "随机过程B",
     "department": "017 统计与金融系",
-    "teachers": "刘杰",
+    "teachers": "庄玮玮",
     "time_location": "1~16周 3C204: 5(3,4)\n2~16(双)周 3C204: 5(5)",
     "credit": 2.0,
     "hours": 40,
@@ -10379,7 +10379,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 96,
     "maximum_students": 100,
     "target_classes": "24人工智能*",
     "course_number": "017144",
@@ -10438,7 +10438,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 39,
     "maximum_students": 100,
     "target_classes": "24数据科学与大数据技术*,24电子科学与技术*",
     "course_number": "017144",
@@ -10497,7 +10497,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 18,
     "maximum_students": 40,
     "target_classes": "23金融学",
     "course_number": "017153",
@@ -10558,7 +10558,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 38,
     "maximum_students": 50,
     "target_classes": "23统计学*,23数据科学与大数据技术*",
     "course_number": "017156",
@@ -10607,7 +10607,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 21,
     "maximum_students": 23,
     "target_classes": "23统计学*,23应用数学,23基础数学,23概率统计",
     "course_number": "017162",
@@ -10668,7 +10668,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 25,
     "maximum_students": 23,
     "target_classes": "23统计学*",
     "course_number": "017162",
@@ -10729,7 +10729,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 46,
     "maximum_students": 100,
     "target_classes": "23统计学*,23华罗庚数学科技英才班T,23应用数学,23基础数学,23概率统计",
     "course_number": "017164",
@@ -10778,7 +10778,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 24,
     "maximum_students": 92,
     "target_classes": "23金融学,23管理科学*,23数据科学与大数据技术*",
     "course_number": "017165",
@@ -11020,7 +11020,7 @@ const classInfo = [
     "teaching_language": "英语",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 27,
     "maximum_students": 40,
     "target_classes": "24卢嘉锡化学科技英才班T",
     "course_number": "019012e",
@@ -11069,7 +11069,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 34,
     "maximum_students": 48,
     "target_classes": "23物理化学,23化学物理,23高分子材料",
     "course_number": "019029",
@@ -11101,7 +11101,7 @@ const classInfo = [
     "class_id": "019029.02",
     "course_name": "仪器分析实验",
     "department": "019 化学系",
-    "teachers": "孙晴,胡万群,盛翔,刘斯,李维维,张万群,周强,邵伟",
+    "teachers": "孙晴,胡万群,盛翔,邵伟,李维维,张万群,周强,刘斯",
     "time_location": "3~16周 东区环资楼403-404: 4(6,7,8)",
     "credit": 1.0,
     "hours": 40,
@@ -11112,9 +11112,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 32,
     "maximum_students": 48,
-    "target_classes": "23无机化学,23化学物理仪器,23分析化学,23有机化学",
+    "target_classes": "23无机化学,23应用化学,23化学物理仪器,23分析化学,23有机化学",
     "course_number": "019029",
     "class_number": "02",
     "parsed_time_location": [
@@ -11155,7 +11155,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 14,
     "maximum_students": 48,
     "target_classes": "23卢嘉锡化学科技英才班T",
     "course_number": "019029",
@@ -11187,7 +11187,7 @@ const classInfo = [
     "class_id": "019029.04",
     "course_name": "仪器分析实验",
     "department": "019 化学系",
-    "teachers": "孙晴,胡万群,盛翔,刘斯,李维维,张万群,周强,邵伟",
+    "teachers": "孙晴,胡万群,盛翔,邵伟,李维维,张万群,周强,刘斯",
     "time_location": "3~16周 东区环资楼403-404: 5(6,7,8)",
     "credit": 1.0,
     "hours": 40,
@@ -11198,9 +11198,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 8,
     "maximum_students": 48,
-    "target_classes": "23化学生物学,23应用化学",
+    "target_classes": "23化学生物学",
     "course_number": "019029",
     "class_number": "04",
     "parsed_time_location": [
@@ -11384,7 +11384,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 34,
     "target_classes": "23材料化学,23高分子材料",
     "course_number": "019128",
@@ -11955,7 +11955,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 11,
     "maximum_students": 36,
     "target_classes": "24环境科学与工程,24级206院003系01班",
     "course_number": "019151",
@@ -12045,7 +12045,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 25,
     "maximum_students": 54,
     "target_classes": "23材料物理,23材料化学,23无机化学,23物理化学,23化学生物学,23化学物理,23应用化学,23化学物理仪器,23分析化学,23有机化学",
     "course_number": "019152",
@@ -12509,7 +12509,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 14,
     "maximum_students": 15,
     "target_classes": "23有机化学",
     "course_number": "019173",
@@ -12822,7 +12822,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 11,
     "maximum_students": 12,
     "target_classes": "23化学生物学",
     "course_number": "019178",
@@ -13001,7 +13001,7 @@ const classInfo = [
     "class_id": "020015.01",
     "course_name": "高分子物理实验",
     "department": "020 高分子科学与工程系",
-    "teachers": "周强",
+    "teachers": "肖石燕,周强",
     "time_location": "3~16周 环资楼: 1(6,7,8,9,10)",
     "credit": 2.0,
     "hours": 80,
@@ -13012,7 +13012,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 2,
     "maximum_students": 20,
     "target_classes": "23高分子材料",
     "course_number": "020015",
@@ -13046,8 +13046,8 @@ const classInfo = [
     "class_id": "020125.02",
     "course_name": "高分子物理",
     "department": "020 高分子科学与工程系",
-    "teachers": "朱平平,肖石燕",
-    "time_location": "1~8周 2302: 1(1,2) 3(3,4,5)\n9~16周 2302: 1(1,2) 3(3,4,5)",
+    "teachers": "朱平平",
+    "time_location": "1~16周 2302: 1(1,2) 3(3,4,5)",
     "credit": 4.0,
     "hours": 80,
     "education_level": "本科",
@@ -13057,7 +13057,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 3,
     "maximum_students": 20,
     "target_classes": "23高分子材料",
     "course_number": "020125",
@@ -13066,32 +13066,6 @@ const classInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 8,
-          "week_type": null
-        },
-        "location": "2302",
-        "campus": 1,
-        "time_slots": [
-          {
-            "day_of_week": 1,
-            "periods": [
-              1,
-              2
-            ]
-          },
-          {
-            "day_of_week": 3,
-            "periods": [
-              3,
-              4,
-              5
-            ]
-          }
-        ]
-      },
-      {
-        "week_info": {
-          "start_week": 9,
           "end_week": 16,
           "week_type": null
         },
@@ -13133,7 +13107,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 24,
     "target_classes": "23天文学*",
     "course_number": "022007",
@@ -13349,7 +13323,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 50,
     "maximum_students": 60,
     "target_classes": "24少院物理Y",
     "course_number": "022057",
@@ -13399,7 +13373,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 69,
     "maximum_students": 60,
     "target_classes": "24严济慈物理科技英才班T,24量子信息科学*",
     "course_number": "022057",
@@ -13449,7 +13423,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 36,
     "maximum_students": 60,
     "target_classes": "24级203院01班*",
     "course_number": "022057",
@@ -13499,7 +13473,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 33,
     "maximum_students": 60,
     "target_classes": "24级203院02班",
     "course_number": "022057",
@@ -13549,7 +13523,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 36,
     "maximum_students": 60,
     "target_classes": "24级203院03班",
     "course_number": "022057",
@@ -13599,7 +13573,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 65,
     "maximum_students": 60,
     "target_classes": "24级203院05班,24级203院06班",
     "course_number": "022057",
@@ -13649,7 +13623,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 31,
     "maximum_students": 60,
     "target_classes": "24级203院04班",
     "course_number": "022057",
@@ -13699,7 +13673,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 58,
     "maximum_students": 60,
     "target_classes": "24地空学院物理类（大类）*,24地球物理学(强基)",
     "course_number": "022057",
@@ -13749,7 +13723,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 75,
     "maximum_students": 77,
     "target_classes": "24应用物理学,24核工程与核技术,24工程物理",
     "course_number": "022057",
@@ -13789,7 +13763,7 @@ const classInfo = [
     "course_name": "量子力学B",
     "department": "203 物理学院",
     "teachers": "石名俊",
-    "time_location": "1~16周 2104: 2(8,9,10) 4(6,7)",
+    "time_location": "1~16周 2406: 2(3,4,5) 4(1,2)",
     "credit": 4.0,
     "hours": 80,
     "education_level": "本科",
@@ -13799,9 +13773,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 34,
     "maximum_students": 60,
-    "target_classes": null,
+    "target_classes": "24量子信息科技英才班T",
     "course_number": "022059",
     "class_number": "04",
     "parsed_time_location": [
@@ -13811,22 +13785,22 @@ const classInfo = [
           "end_week": 16,
           "week_type": null
         },
-        "location": "2104",
+        "location": "2406",
         "campus": 1,
         "time_slots": [
           {
             "day_of_week": 2,
             "periods": [
-              8,
-              9,
-              10
+              3,
+              4,
+              5
             ]
           },
           {
             "day_of_week": 4,
             "periods": [
-              6,
-              7
+              1,
+              2
             ]
           }
         ]
@@ -13849,7 +13823,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 49,
     "maximum_students": 58,
     "target_classes": "23应用物理学,23工程物理,23物理电子学,23原子分子物理",
     "course_number": "022062",
@@ -13899,7 +13873,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 55,
     "maximum_students": 58,
     "target_classes": "23凝聚态物理",
     "course_number": "022062",
@@ -13949,7 +13923,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 21,
     "maximum_students": 58,
     "target_classes": "23量子信息科学*,23生物物理,23自旋物理学",
     "course_number": "022062",
@@ -13999,7 +13973,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 46,
     "maximum_students": 58,
     "target_classes": "23微电子与固体电子学,23粒子物理与原子核物理",
     "course_number": "022062",
@@ -14049,7 +14023,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 60,
     "maximum_students": 58,
     "target_classes": "23天文学*,23医学物理,23等离子体物理,23理论物理",
     "course_number": "022062",
@@ -14099,7 +14073,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 17,
     "maximum_students": 58,
     "target_classes": "23严济慈物理科技英才班T",
     "course_number": "022062",
@@ -14149,7 +14123,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 45,
     "maximum_students": 58,
     "target_classes": "23光电信息科学与工程*",
     "course_number": "022062",
@@ -14199,7 +14173,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 65,
     "maximum_students": 64,
     "target_classes": "23地球物理学*,23大气科学,23空间探测仪器与技术,23空间物理",
     "course_number": "022063",
@@ -14273,7 +14247,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 155,
     "maximum_students": 72,
     "target_classes": "23光电信息科学与工程*,23量子信息科学*,23粒子物理与原子核物理,23自旋物理学,23原子分子物理",
     "course_number": "022118",
@@ -14322,7 +14296,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 57,
     "maximum_students": 60,
     "target_classes": "23医学物理,23生物物理,23理论物理",
     "course_number": "022118",
@@ -14371,7 +14345,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 77,
     "maximum_students": 60,
     "target_classes": "23凝聚态物理",
     "course_number": "022118",
@@ -14420,7 +14394,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 75,
     "maximum_students": 60,
     "target_classes": "23应用物理学,23等离子体物理,23物理电子学,23微电子与固体电子学",
     "course_number": "022118",
@@ -14459,7 +14433,7 @@ const classInfo = [
     "course_name": "量子力学A",
     "department": "203 物理学院",
     "teachers": "郑惠南",
-    "time_location": "1~16周 2103: 1(1,2) 2(8,9,10) 5(1,2)",
+    "time_location": "1~16周 5506: 1(1,2) 4(1,2) 5(8,9,10)",
     "credit": 6.0,
     "hours": 120,
     "education_level": "本科",
@@ -14469,9 +14443,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 30,
     "maximum_students": 60,
-    "target_classes": null,
+    "target_classes": "24量子信息科技英才班T",
     "course_number": "022148",
     "class_number": "05",
     "parsed_time_location": [
@@ -14481,7 +14455,7 @@ const classInfo = [
           "end_week": 16,
           "week_type": null
         },
-        "location": "2103",
+        "location": "5506",
         "campus": 1,
         "time_slots": [
           {
@@ -14492,18 +14466,18 @@ const classInfo = [
             ]
           },
           {
-            "day_of_week": 2,
+            "day_of_week": 4,
             "periods": [
-              8,
-              9,
-              10
+              1,
+              2
             ]
           },
           {
             "day_of_week": 5,
             "periods": [
-              1,
-              2
+              8,
+              9,
+              10
             ]
           }
         ]
@@ -14526,7 +14500,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 82,
     "maximum_students": 80,
     "target_classes": "24应用物理学,24工程物理,24级203院02班",
     "course_number": "022164",
@@ -14570,7 +14544,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 93,
     "maximum_students": 80,
     "target_classes": "24严济慈物理科技英才班T,24级203院01班*",
     "course_number": "022164",
@@ -14614,7 +14588,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 80,
     "maximum_students": 80,
     "target_classes": "24级203院05班,24级203院06班,24级206院019系01班,24级206院003系01班,24级206院003系02班,24级206院材料01班,24级206院012系01班*",
     "course_number": "022164",
@@ -14646,7 +14620,7 @@ const classInfo = [
     "class_id": "022164.04",
     "course_name": "大学物理-现代技术实验",
     "department": "042 物理实验教学中心",
-    "teachers": "蔡俊,张华洋,浦其荣,王中平,梁燕,张权,韦先涛,赵伟,赵霞,郭玉刚,祝巍,刘应玲,张增明,王晓方,张宪锋,代如成,曲广媛,李恒一,张乔枫,孙晓宇,宋国锋,岳盈,王鹤,陶小平",
+    "teachers": "张权,陶小平,赵伟,赵霞,郭玉刚,祝巍,刘应玲,张增明,王晓方,张宪锋,代如成,曲广媛,李恒一,张乔枫,孙晓宇,宋国锋,岳盈,王鹤,张华洋,浦其荣,王中平,梁燕,蔡俊,韦先涛",
     "time_location": "3~16周 东区教一楼物理实验室: 3(19:00~19:30) 3(11,12,13)",
     "credit": 1.5,
     "hours": 60,
@@ -14657,7 +14631,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 50,
     "maximum_students": 80,
     "target_classes": "24量子信息科学*,24级203院03班",
     "course_number": "022164",
@@ -14700,7 +14674,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 91,
     "maximum_students": 80,
     "target_classes": "24少院物理Y,24级203院04班",
     "course_number": "022164",
@@ -14792,7 +14766,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 22,
     "maximum_students": 24,
     "target_classes": "23天文学*",
     "course_number": "022169",
@@ -14841,7 +14815,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 24,
     "target_classes": "23天文学*",
     "course_number": "022171",
@@ -15138,7 +15112,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 89,
     "maximum_students": 75,
     "target_classes": "24王小谟网络空间科技英才班T,24信息安全*,23人工智能*,24网络空间安全*",
     "course_number": "033002",
@@ -15187,7 +15161,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 80,
     "target_classes": "23量子信息科学*",
     "course_number": "038007",
@@ -15261,7 +15235,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 53,
     "maximum_students": 60,
     "target_classes": "23光电信息科学与工程*",
     "course_number": "038008",
@@ -15354,7 +15328,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 3,
     "maximum_students": 3,
     "target_classes": "23师昌绪材料科技英才班T",
     "course_number": "206708",
@@ -15457,7 +15431,7 @@ const classInfo = [
     "teaching_language": "英语",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 3,
     "maximum_students": 3,
     "target_classes": "23师昌绪材料科技英才班T",
     "course_number": "206M05e",
@@ -15531,7 +15505,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 29,
     "maximum_students": 30,
     "target_classes": "23赵九章现代地球和空间科技英才班T",
     "course_number": "208702",
@@ -15734,7 +15708,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 86,
     "maximum_students": 80,
     "target_classes": "24王小谟网络空间科技英才班T,24信息安全*,23量子信息科学*,24网络空间安全*",
     "course_number": "210004",
@@ -15956,7 +15930,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 34,
+    "enrolled_students": 35,
     "maximum_students": 50,
     "target_classes": "25级210院02班",
     "course_number": "210045",
@@ -16152,7 +16126,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 70,
+    "enrolled_students": 71,
     "maximum_students": 70,
     "target_classes": "25级210院01班,25级210院02班",
     "course_number": "210070",
@@ -16542,7 +16516,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "实验操作",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 72,
     "maximum_students": 72,
     "target_classes": "24电子信息工程",
     "course_number": "210074",
@@ -16576,7 +16550,7 @@ const classInfo = [
     "course_name": "电子技术实验II",
     "department": "210 信息科学技术学院",
     "teachers": "吴文涛,黄自龙,季芳芳,陈金雯,吴善珍,肖鸿,周燚,胡新伟",
-    "time_location": "2~9周 西区电四楼电子技术基础实验室: 1(11,12,13)",
+    "time_location": "2~9周 西区电四楼电子技术基础实验室: 1(18:30~19:30) 1(11,12,13)",
     "credit": 0.5,
     "hours": 30,
     "education_level": "本科",
@@ -16586,7 +16560,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "实验操作",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 70,
     "maximum_students": 72,
     "target_classes": "24电子信息工程,24电子科学与技术*",
     "course_number": "210074",
@@ -16629,7 +16603,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "实验操作",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 75,
     "maximum_students": 72,
     "target_classes": "24自动化,24电子科学与技术*",
     "course_number": "210074",
@@ -16663,7 +16637,7 @@ const classInfo = [
     "course_name": "电子技术实验II",
     "department": "210 信息科学技术学院",
     "teachers": "吴文涛,黄自龙,季芳芳,胡新伟,吴善珍,肖鸿,周燚,陈金雯",
-    "time_location": "2~9周 西区电四楼电子技术基础实验室: 2(11,12,13)",
+    "time_location": "2~9周 西区电四楼电子技术基础实验室: 2(18:30~19:30) 2(11,12,13)",
     "credit": 0.5,
     "hours": 30,
     "education_level": "本科",
@@ -16673,7 +16647,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "实验操作",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 74,
     "maximum_students": 72,
     "target_classes": "24自动化,24电子科学与技术*",
     "course_number": "210074",
@@ -16765,7 +16739,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 70,
     "target_classes": "24地空学院物理类（大类）*,24地球物理学(强基)",
     "course_number": "210515",
@@ -16881,7 +16855,7 @@ const classInfo = [
     "course_name": "电子设计实践II",
     "department": "210 信息科学技术学院",
     "teachers": "陆伟",
-    "time_location": "1~10周 西区电四楼221: 5(8,9); 西区电子设计开放实验室: 5(18:30~21:30) 5(11,12,13)",
+    "time_location": "1~10周 西区电子设计开放实验室: 2(18:30~19:30) 2(11,12,13); 西区电四楼221: 5(8,9)",
     "credit": 2.0,
     "hours": 60,
     "education_level": "本科",
@@ -16891,7 +16865,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 40,
     "maximum_students": 51,
     "target_classes": "24信息科技英才班T",
     "course_number": "210704",
@@ -16903,14 +16877,15 @@ const classInfo = [
           "end_week": 10,
           "week_type": null
         },
-        "location": "西区电四楼221",
+        "location": "西区电子设计开放实验室",
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 5,
+            "day_of_week": 2,
             "periods": [
-              8,
-              9
+              11,
+              12,
+              13
             ]
           }
         ]
@@ -17019,7 +16994,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 70,
     "maximum_students": 72,
     "target_classes": "24电子科学与技术*",
     "course_number": "219001",
@@ -17409,7 +17384,7 @@ const classInfo = [
     "course_name": "离散数学",
     "department": "229 人工智能与数据科学学院",
     "teachers": "秦晓卫",
-    "time_location": "1~15周 3C303: 2(1,2) 4(3,4,5)",
+    "time_location": "1~16周 3C303: 2(1,2) 4(3,4,5)",
     "credit": 4.0,
     "hours": 80,
     "education_level": "本科",
@@ -17419,7 +17394,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 88,
     "maximum_students": 100,
     "target_classes": "24人工智能*",
     "course_number": "229001",
@@ -17428,7 +17403,7 @@ const classInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 15,
+          "end_week": 16,
           "week_type": null
         },
         "location": "3C303",
@@ -17469,7 +17444,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 6,
     "maximum_students": 25,
     "target_classes": "23安全工程",
     "course_number": "232085",
@@ -17586,7 +17561,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 12,
     "target_classes": "23临床医学",
     "course_number": "910001",
@@ -17652,7 +17627,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 7,
     "target_classes": "24临床医学*",
     "course_number": "910004",
@@ -17733,7 +17708,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 7,
     "target_classes": "24临床医学*",
     "course_number": "910006",
@@ -17814,7 +17789,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 7,
     "target_classes": "24临床医学*",
     "course_number": "910007",
@@ -17858,7 +17833,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 12,
     "target_classes": "23临床医学",
     "course_number": "910013",
@@ -17881,7 +17856,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 7,
     "target_classes": "24临床医学*",
     "course_number": "910016",
@@ -17941,7 +17916,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 7,
     "target_classes": "24临床医学*",
     "course_number": "910031",
@@ -17964,7 +17939,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 75,
     "maximum_students": 75,
     "target_classes": "24地空学院物理类（大类）*,24地空学院化学类（大类）",
     "course_number": "AI1001A",
@@ -17977,7 +17952,7 @@ const classInfo = [
     "course_name": "人工智能数学原理与算法A",
     "department": "229 人工智能与数据科学学院",
     "teachers": "周熠",
-    "time_location": "1~16周 3C102: 3(6,7) 5(6,7)\n5~16周 西区电一楼机房1厅: 3(11,12,13)",
+    "time_location": "1~15周 3C102: 3(6,7) 5(6,7)\n5~15周 西区电一楼机房1厅: 3(11,12,13)",
     "credit": 4.0,
     "hours": 100,
     "education_level": "本科",
@@ -17987,7 +17962,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 129,
     "maximum_students": 140,
     "target_classes": "24电子信息工程",
     "course_number": "AI1001A",
@@ -17996,7 +17971,7 @@ const classInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 16,
+          "end_week": 15,
           "week_type": null
         },
         "location": "3C102",
@@ -18021,7 +17996,7 @@ const classInfo = [
       {
         "week_info": {
           "start_week": 5,
-          "end_week": 16,
+          "end_week": 15,
           "week_type": null
         },
         "location": "西区电一楼机房1厅",
@@ -18045,7 +18020,7 @@ const classInfo = [
     "course_name": "人工智能数学原理与算法A",
     "department": "229 人工智能与数据科学学院",
     "teachers": "唐建",
-    "time_location": "1~16周 3C201: 2(3,4) 4(6,7)\n5~16周 西区电一楼机房1厅: 5(11,12,13)",
+    "time_location": "1~15周 3C201: 2(3,4) 4(6,7)\n5~15周 西区电一楼机房1厅: 5(11,12,13)",
     "credit": 4.0,
     "hours": 100,
     "education_level": "本科",
@@ -18055,7 +18030,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 88,
     "maximum_students": 100,
     "target_classes": "24自动化",
     "course_number": "AI1001A",
@@ -18064,7 +18039,7 @@ const classInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 16,
+          "end_week": 15,
           "week_type": null
         },
         "location": "3C201",
@@ -18089,7 +18064,7 @@ const classInfo = [
       {
         "week_info": {
           "start_week": 5,
-          "end_week": 16,
+          "end_week": 15,
           "week_type": null
         },
         "location": "西区电一楼机房1厅",
@@ -18247,7 +18222,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 158,
     "maximum_students": 162,
     "target_classes": "24王小谟网络空间科技英才班T,24信息安全*,24网络空间安全*,24电子科学与技术*",
     "course_number": "AI1001B",
@@ -18390,7 +18365,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 103,
     "maximum_students": 100,
     "target_classes": "23统计学*,23信息与计算科学*,24人工智能*",
     "course_number": "AI3003",
@@ -19249,7 +19224,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 3,
     "maximum_students": 60,
     "target_classes": "23工商管理*",
     "course_number": "BADM3003",
@@ -19897,8 +19872,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 22,
+    "enrolled_students": 21,
+    "maximum_students": 20,
     "target_classes": "24贝时璋生命科技英才班T",
     "course_number": "BIO2702",
     "class_number": "01",
@@ -19949,7 +19924,7 @@ const classInfo = [
     "course_name": "生物化学A2",
     "department": "910 生命科学与医学部",
     "teachers": "孙林峰,钱洪武",
-    "time_location": "1~6,13周 3A104: 4(3,4,5)\n7~13周 3A104: 4(3,4,5)",
+    "time_location": "1~6,13周 3A310: 4(3,4,5)\n7~13周 3A310: 4(3,4,5)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -19959,8 +19934,8 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 40,
+    "enrolled_students": 21,
+    "maximum_students": 25,
     "target_classes": "24贝时璋生命科技英才班T",
     "course_number": "BIO3002",
     "class_number": "01",
@@ -19971,7 +19946,7 @@ const classInfo = [
           "end_week": 13,
           "week_type": null
         },
-        "location": "3A104",
+        "location": "3A310",
         "campus": 2,
         "time_slots": [
           {
@@ -20002,7 +19977,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 25,
     "maximum_students": 22,
     "target_classes": "24生命科学学院（大类）*",
     "course_number": "BIO3002",
@@ -20045,7 +20020,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 36,
     "maximum_students": 30,
     "target_classes": "24生命科学学院（大类）(强基)",
     "course_number": "BIO3002",
@@ -20088,7 +20063,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 15,
     "maximum_students": 16,
     "target_classes": "23生物科学*",
     "course_number": "BIO3004",
@@ -20120,7 +20095,7 @@ const classInfo = [
     "course_name": "分子生物学研讨",
     "department": "910 生命科学与医学部",
     "teachers": "谭树堂",
-    "time_location": "2~10周 3A314: 2(1,2)",
+    "time_location": "2~10周 3A410: 3(1,2)",
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
@@ -20130,7 +20105,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 16,
     "maximum_students": 16,
     "target_classes": "23生物科学*",
     "course_number": "BIO3004",
@@ -20142,11 +20117,11 @@ const classInfo = [
           "end_week": 10,
           "week_type": null
         },
-        "location": "3A314",
+        "location": "3A410",
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 2,
+            "day_of_week": 3,
             "periods": [
               1,
               2
@@ -20172,7 +20147,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 16,
     "maximum_students": 16,
     "target_classes": "23生物科学*",
     "course_number": "BIO3004",
@@ -20214,7 +20189,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 16,
     "maximum_students": 19,
     "target_classes": "23生物科学*",
     "course_number": "BIO3004",
@@ -20256,7 +20231,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 19,
     "target_classes": "23生物技术",
     "course_number": "BIO3004",
@@ -20298,7 +20273,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 19,
     "maximum_students": 16,
     "target_classes": "23生物科学*",
     "course_number": "BIO3005",
@@ -20340,7 +20315,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 13,
     "maximum_students": 16,
     "target_classes": "23生物科学*",
     "course_number": "BIO3005",
@@ -20382,7 +20357,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 19,
     "maximum_students": 16,
     "target_classes": "23贝时璋生命科技英才班T",
     "course_number": "BIO3005",
@@ -20424,7 +20399,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 22,
     "maximum_students": 19,
     "target_classes": "23生物技术",
     "course_number": "BIO3005",
@@ -20466,7 +20441,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 14,
     "maximum_students": 19,
     "target_classes": "23生物科学*",
     "course_number": "BIO3005",
@@ -20508,7 +20483,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 11,
     "maximum_students": 27,
     "target_classes": "24环境科学与工程,23行星科学,23生物物理",
     "course_number": "BIO3501",
@@ -20626,7 +20601,7 @@ const classInfo = [
     "course_name": "工程化学",
     "department": "013 热科学和能源工程系",
     "teachers": "陈立锋",
-    "time_location": "1~14周 3A209: 4(8,9,10)",
+    "time_location": "1~14周 3A305: 4(8,9,10)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -20636,7 +20611,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 54,
     "maximum_students": 54,
     "target_classes": "24能源与动力工程",
     "course_number": "CHEM2501",
@@ -20648,7 +20623,7 @@ const classInfo = [
           "end_week": 14,
           "week_type": null
         },
-        "location": "3A209",
+        "location": "3A305",
         "campus": 2,
         "time_slots": [
           {
@@ -20679,7 +20654,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 58,
     "maximum_students": 65,
     "target_classes": "24卢嘉锡化学科技英才班T,24化学(强基)",
     "course_number": "CHEM2801",
@@ -20786,7 +20761,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 27,
     "maximum_students": 27,
     "target_classes": "24卢嘉锡化学科技英才班T",
     "course_number": "CHEM2802",
@@ -20828,7 +20803,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 16,
     "maximum_students": 19,
     "target_classes": "24化学(强基)",
     "course_number": "CHEM2802",
@@ -20870,7 +20845,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 15,
     "maximum_students": 19,
     "target_classes": "24化学(强基)",
     "course_number": "CHEM2802",
@@ -20912,7 +20887,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 42,
     "maximum_students": 45,
     "target_classes": "23物理化学,23化学物理,23化学物理仪器",
     "course_number": "CHEM3002",
@@ -20962,7 +20937,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 9,
     "maximum_students": 45,
     "target_classes": "23物理化学,23化学物理,23化学物理仪器",
     "course_number": "CHEM3003",
@@ -21012,7 +20987,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 19,
     "maximum_students": 17,
     "target_classes": "23应用化学",
     "course_number": "CHEM3004",
@@ -21088,7 +21063,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 11,
     "maximum_students": 12,
     "target_classes": "23化学生物学",
     "course_number": "CHEM4001",
@@ -21285,6 +21260,975 @@ const classInfo = [
     "class_number_group_id": 372
   },
   {
+    "class_id": "CHEM5002P.02",
+    "course_name": "分子光谱学II",
+    "department": "003 化学物理系",
+    "teachers": "刘安雯",
+    "time_location": "9~16周 2506: 1(6,7) 5(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "CHEM5002P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2506",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 373
+  },
+  {
+    "class_id": "CHEM5003P.03",
+    "course_name": "化学动力学I",
+    "department": "003 化学物理系",
+    "teachers": "张群",
+    "time_location": "1~8周 GT-A405: 2(6,7) 4(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "CHEM5003P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "GT-A405",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 374
+  },
+  {
+    "class_id": "CHEM5004P.02",
+    "course_name": "化学动力学II",
+    "department": "003 化学物理系",
+    "teachers": "田善喜",
+    "time_location": "9~16周 2206: 3(3,4,5) 5(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "CHEM5004P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2206",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 375
+  },
+  {
+    "class_id": "CHEM5007P.02",
+    "course_name": "催化作用基础",
+    "department": "003 化学物理系",
+    "teachers": "严欢,千坤,张镇",
+    "time_location": "1~17周 GT-A403: 1(3,4,5) 4(3,4,5)",
+    "credit": 6.0,
+    "hours": 120,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "CHEM5007P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 17,
+          "week_type": null
+        },
+        "location": "GT-A403",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 376
+  },
+  {
+    "class_id": "CHEM6004P.01",
+    "course_name": "电分析化学",
+    "department": "019 化学系",
+    "teachers": "邓兆祥",
+    "time_location": "1~12周 GH-206: 2(6,7) 4(11,12,13)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 130,
+    "target_classes": null,
+    "course_number": "CHEM6004P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "GH-206",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 377
+  },
+  {
+    "class_id": "CHEM6008P.02",
+    "course_name": "有机结构分析(A)",
+    "department": "019 化学系",
+    "teachers": "许毓,谷永红",
+    "time_location": "1~8周 GH-408: 2(3,4,5) 2(6,7)\n9~16周 GH-408: 2(3,4,5) 2(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 70,
+    "target_classes": null,
+    "course_number": "CHEM6008P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "GH-408",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "GH-408",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 378
+  },
+  {
+    "class_id": "CHEM6009P.01",
+    "course_name": "分子光谱学III",
+    "department": "003 化学物理系",
+    "teachers": "袁道福",
+    "time_location": "9~16周 GT-A405: 1(3,4,5) 4(1,2)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "CHEM6009P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "GT-A405",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 379
+  },
+  {
+    "class_id": "CHEM6010P.01",
+    "course_name": "化学动力学III",
+    "department": "003 化学物理系",
+    "teachers": "周蒙",
+    "time_location": "9~16周 G3-114: 1(8,9,10) 3(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 90,
+    "target_classes": null,
+    "course_number": "CHEM6010P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "G3-114",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 380
+  },
+  {
+    "class_id": "CHEM6011P.01",
+    "course_name": "化学动力学IV",
+    "department": "003 化学物理系",
+    "teachers": "张群",
+    "time_location": "9~16周 GT-A405: 2(6,7) 4(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "CHEM6011P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "GT-A405",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 381
+  },
+  {
+    "class_id": "CHEM6014P.01",
+    "course_name": "理论与计算化学(III)",
+    "department": "003 化学物理系",
+    "teachers": "袁岚峰,江慧军",
+    "time_location": "1~8周 G3-114: 1(8,9,10) 3(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "CHEM6014P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "G3-114",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 382
+  },
+  {
+    "class_id": "CHEM6017P.01",
+    "course_name": "应用物理化学III",
+    "department": "003 化学物理系",
+    "teachers": "路军岭",
+    "time_location": "1~8周 GH-412: 1(6,7) 3(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "CHEM6017P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "GH-412",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 383
+  },
+  {
+    "class_id": "CHEM6025P.01",
+    "course_name": "结构配位化学",
+    "department": "019 化学系",
+    "teachers": "孟征,焦龙,卫涛",
+    "time_location": "1~12周 G2-B303: 5(8,9,10) 5(11,12)\n1~8周 G2-B303: 5(8,9,10) 5(11,12)\n9~12周 G2-B303: 5(8,9,10) 5(11,12)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（半开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "CHEM6025P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "G2-B303",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "G2-B303",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "G2-B303",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 384
+  },
+  {
+    "class_id": "CHEM6028P.02",
+    "course_name": "化学计量学",
+    "department": "019 化学系",
+    "teachers": "邵利民",
+    "time_location": "1~18周 G2-B303: 3(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 70,
+    "target_classes": null,
+    "course_number": "CHEM6028P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G2-B303",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 385
+  },
+  {
+    "class_id": "CHEM6030P.01",
+    "course_name": "立体有机化学",
+    "department": "019 化学系",
+    "teachers": "汪普生",
+    "time_location": "1~10周 G2-B303: 4(6,7) 4(8,9)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "CHEM6030P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "G2-B303",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 386
+  },
+  {
+    "class_id": "CHEM6034P.01",
+    "course_name": "计算量子化学",
+    "department": "003 化学物理系",
+    "teachers": "陈东明",
+    "time_location": "1~16周 GT-B102: 2(8,9,10) 4(6,7)",
+    "credit": 3.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 20,
+    "target_classes": null,
+    "course_number": "CHEM6034P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "GT-B102",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 387
+  },
+  {
+    "class_id": "CHEM6038P.01",
+    "course_name": "生物有机化学",
+    "department": "019 化学系",
+    "teachers": "郑小琦",
+    "time_location": "1~14周 G2-B403: 3(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "CHEM6038P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "G2-B403",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 388
+  },
+  {
+    "class_id": "CHEM6039P.01",
+    "course_name": "核酸化学生物学",
+    "department": "019 化学系",
+    "teachers": "李涛",
+    "time_location": "1~13周 G2-B402: 2(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "CHEM6039P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "G2-B402",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 389
+  },
+  {
+    "class_id": "CHEM6041P.01",
+    "course_name": "分子光谱分析新技术",
+    "department": "019 化学系",
+    "teachers": "崔华,袁月",
+    "time_location": "11~18周 G3-113: 4(3,4,5)\n1~10周 G3-113: 4(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "CHEM6041P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-113",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "G3-113",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 390
+  },
+  {
     "class_id": "CHEM6100P.01",
     "course_name": "稀土化学",
     "department": "175 长春应化所",
@@ -21305,7 +22249,7 @@ const classInfo = [
     "course_number": "CHEM6100P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 373
+    "class_number_group_id": 391
   },
   {
     "class_id": "CHEM6101P.01",
@@ -21328,7 +22272,7 @@ const classInfo = [
     "course_number": "CHEM6101P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 374
+    "class_number_group_id": 392
   },
   {
     "class_id": "CHEM6103P.01",
@@ -21351,7 +22295,7 @@ const classInfo = [
     "course_number": "CHEM6103P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 375
+    "class_number_group_id": 393
   },
   {
     "class_id": "CHEM6104P.01",
@@ -21374,7 +22318,7 @@ const classInfo = [
     "course_number": "CHEM6104P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 376
+    "class_number_group_id": 394
   },
   {
     "class_id": "CHEM6105P.01",
@@ -21397,7 +22341,7 @@ const classInfo = [
     "course_number": "CHEM6105P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 377
+    "class_number_group_id": 395
   },
   {
     "class_id": "CHEM6106P.01",
@@ -21420,7 +22364,7 @@ const classInfo = [
     "course_number": "CHEM6106P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 378
+    "class_number_group_id": 396
   },
   {
     "class_id": "CHEM6107P.01",
@@ -21443,7 +22387,7 @@ const classInfo = [
     "course_number": "CHEM6107P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 379
+    "class_number_group_id": 397
   },
   {
     "class_id": "CHEM6110P.01",
@@ -21466,7 +22410,7 @@ const classInfo = [
     "course_number": "CHEM6110P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 380
+    "class_number_group_id": 398
   },
   {
     "class_id": "CHEM6111P.01",
@@ -21489,7 +22433,7 @@ const classInfo = [
     "course_number": "CHEM6111P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 381
+    "class_number_group_id": 399
   },
   {
     "class_id": "CHEM6114P.01",
@@ -21512,7 +22456,7 @@ const classInfo = [
     "course_number": "CHEM6114P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 382
+    "class_number_group_id": 400
   },
   {
     "class_id": "CHEM6115P.01",
@@ -21535,7 +22479,846 @@ const classInfo = [
     "course_number": "CHEM6115P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 383
+    "class_number_group_id": 401
+  },
+  {
+    "class_id": "CHEM6400P.02",
+    "course_name": "化学实验安全知识",
+    "department": "019 化学系",
+    "teachers": "冯红艳",
+    "time_location": "1~10周 慕课: 5(11,12)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 400,
+    "target_classes": null,
+    "course_number": "CHEM6400P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "慕课",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 402
+  },
+  {
+    "class_id": "CHEM6401P.01",
+    "course_name": "晶体合成与结构分析",
+    "department": "019 化学系",
+    "teachers": "江海龙",
+    "time_location": "1~8周 G2-B303: 2(8,9,10) 2(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 70,
+    "target_classes": null,
+    "course_number": "CHEM6401P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "G2-B303",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 403
+  },
+  {
+    "class_id": "CHEM6407P.01",
+    "course_name": "香味化学基础",
+    "department": "019 化学系",
+    "teachers": "李光水",
+    "time_location": "1~13周 G3-110: 4(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "CHEM6407P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 404
+  },
+  {
+    "class_id": "CHEM6408P.01",
+    "course_name": "多相催化前沿讲座",
+    "department": "003 化学物理系",
+    "teachers": "黄伟新",
+    "time_location": "6~12周 GT-B102: 2(3,4,5)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 15,
+    "target_classes": null,
+    "course_number": "CHEM6408P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "GT-B102",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 405
+  },
+  {
+    "class_id": "CHEM6423P.01",
+    "course_name": "均相催化有机合成",
+    "department": "019 化学系",
+    "teachers": "黄汉民,汪义丰",
+    "time_location": "1~8周 G2-B403: 2(8,9,10) 2(11,12)\n9~12周 G2-B403: 2(8,9,10) 2(11,12)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "CHEM6423P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "G2-B403",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "G2-B403",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 406
+  },
+  {
+    "class_id": "CHEM6431P.01",
+    "course_name": "相平衡及在材料科学中的应用",
+    "department": "019 化学系",
+    "teachers": "杨晴",
+    "time_location": "1~12周 G2-B403: 4(8,9,10) 4(11,12)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（半开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "CHEM6431P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "G2-B403",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 407
+  },
+  {
+    "class_id": "CHEM6438P.01",
+    "course_name": "化学专业学术论文写作",
+    "department": "019 化学系",
+    "teachers": "庄涛涛,焦龙",
+    "time_location": "1~4周 G2-B302: 1(8,9,10) 1(11,12)\n5~8周 G2-B302: 1(8,9,10) 1(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 35,
+    "target_classes": null,
+    "course_number": "CHEM6438P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "G2-B302",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "G2-B302",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 408
+  },
+  {
+    "class_id": "CHEM6438P.02",
+    "course_name": "化学专业学术论文写作",
+    "department": "019 化学系",
+    "teachers": "焦龙,庄涛涛",
+    "time_location": "1~4周 G2-B402: 1(8,9,10) 1(11,12)\n5~8周 G2-B402: 1(8,9,10) 1(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 35,
+    "target_classes": null,
+    "course_number": "CHEM6438P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "G2-B402",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "G2-B402",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 408
+  },
+  {
+    "class_id": "CHEM6443P.01",
+    "course_name": "理论与计算催化化学",
+    "department": "003 化学物理系",
+    "teachers": "刘进勋",
+    "time_location": "1~8周 GH-412: 5(3,4,5) 5(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "CHEM6443P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "GH-412",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 409
+  },
+  {
+    "class_id": "CHEM7001P.03",
+    "course_name": "累积考核",
+    "department": "019 化学系",
+    "teachers": "顾振华",
+    "time_location": "1~10周 非授课课程，具体安排请联系导师: 6(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "CHEM7001P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "非授课课程，具体安排请联系导师",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 410
+  },
+  {
+    "class_id": "CHEM7003P.01",
+    "course_name": "分析化学前沿",
+    "department": "019 化学系",
+    "teachers": "钟文婉,黄光明,袁月,龙冬,邓兆祥",
+    "time_location": "10~11周 5202: 4(8,9,10)\n12~13周 5202: 4(8,9,10)\n14~15周 5202: 4(8,9,10)\n3~7周 5202: 4(8,9,10)\n8~9周 5202: 4(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 180,
+    "target_classes": null,
+    "course_number": "CHEM7003P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 10,
+          "end_week": 11,
+          "week_type": null
+        },
+        "location": "5202",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 12,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "5202",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 14,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "5202",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 7,
+          "week_type": null
+        },
+        "location": "5202",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 8,
+          "end_week": 9,
+          "week_type": null
+        },
+        "location": "5202",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 411
+  },
+  {
+    "class_id": "CHEM7004P.02",
+    "course_name": "有机合成专论",
+    "department": "019 化学系",
+    "teachers": "宋钦华,张海军,王中夏,王细胜,肖斌,陆熹,张清伟",
+    "time_location": "1周 非授课课程，具体安排请联系导师: 6(11,12)\n2周 非授课课程，具体安排请联系导师: 6(11,12)\n3周 非授课课程，具体安排请联系导师: 6(11,12)\n4周 非授课课程，具体安排请联系导师: 6(11,12)\n5周 非授课课程，具体安排请联系导师: 6(11,12)\n6周 非授课课程，具体安排请联系导师: 6(11,12)\n7~14周 非授课课程，具体安排请联系导师: 6(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "CHEM7004P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 7,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "非授课课程，具体安排请联系导师",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 412
+  },
+  {
+    "class_id": "CHEM7004P.03",
+    "course_name": "有机合成专论",
+    "department": "019 化学系",
+    "teachers": "张清伟",
+    "time_location": "1~14周 非授课课程，具体安排请联系导师: 5(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 20,
+    "target_classes": null,
+    "course_number": "CHEM7004P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "非授课课程，具体安排请联系导师",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 413
+  },
+  {
+    "class_id": "CHEM7006P.01",
+    "course_name": "现代化学物理进展",
+    "department": "003 化学物理系",
+    "teachers": "周晓国",
+    "time_location": "9~16周 5403: 5(6,7,8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 190,
+    "target_classes": null,
+    "course_number": "CHEM7006P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5403",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 414
+  },
+  {
+    "class_id": "CHEM7016P.01",
+    "course_name": "分子间的相互作用力",
+    "department": "003 化学物理系",
+    "teachers": "叶晓东,唐国强",
+    "time_location": "1~14周 2105: 2(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "CHEM7016P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "2105",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 415
   },
   {
     "class_id": "CHEM7100P.01",
@@ -21558,7 +23341,7 @@ const classInfo = [
     "course_number": "CHEM7100P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 384
+    "class_number_group_id": 416
   },
   {
     "class_id": "CHEM7101P.01",
@@ -21581,7 +23364,7 @@ const classInfo = [
     "course_number": "CHEM7101P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 385
+    "class_number_group_id": 417
   },
   {
     "class_id": "CHEM7103P.01",
@@ -21604,7 +23387,7 @@ const classInfo = [
     "course_number": "CHEM7103P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 386
+    "class_number_group_id": 418
   },
   {
     "class_id": "CHEM7104P.01",
@@ -21627,7 +23410,7 @@ const classInfo = [
     "course_number": "CHEM7104P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 387
+    "class_number_group_id": 419
   },
   {
     "class_id": "CHEM7105P.01",
@@ -21650,7 +23433,7 @@ const classInfo = [
     "course_number": "CHEM7105P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 388
+    "class_number_group_id": 420
   },
   {
     "class_id": "CHEM7106P.01",
@@ -21673,7 +23456,7 @@ const classInfo = [
     "course_number": "CHEM7106P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 389
+    "class_number_group_id": 421
   },
   {
     "class_id": "CHEM7107P.01",
@@ -21696,7 +23479,7 @@ const classInfo = [
     "course_number": "CHEM7107P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 390
+    "class_number_group_id": 422
   },
   {
     "class_id": "CHEM7109P.01",
@@ -21719,7 +23502,7 @@ const classInfo = [
     "course_number": "CHEM7109P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 391
+    "class_number_group_id": 423
   },
   {
     "class_id": "CHEN6100P.01",
@@ -21742,7 +23525,7 @@ const classInfo = [
     "course_number": "CHEN6100P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 392
+    "class_number_group_id": 424
   },
   {
     "class_id": "CHEN6101P.01",
@@ -21765,7 +23548,7 @@ const classInfo = [
     "course_number": "CHEN6101P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 393
+    "class_number_group_id": 425
   },
   {
     "class_id": "CHEN6500P.01",
@@ -21788,7 +23571,7 @@ const classInfo = [
     "course_number": "CHEN6500P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 394
+    "class_number_group_id": 426
   },
   {
     "class_id": "CHEN7100P.01",
@@ -21811,7 +23594,7 @@ const classInfo = [
     "course_number": "CHEN7100P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 395
+    "class_number_group_id": 427
   },
   {
     "class_id": "CHEN7101P.01",
@@ -21834,7 +23617,7 @@ const classInfo = [
     "course_number": "CHEN7101P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 396
+    "class_number_group_id": 428
   },
   {
     "class_id": "CHEN7102P.01",
@@ -21857,7 +23640,7 @@ const classInfo = [
     "course_number": "CHEN7102P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 397
+    "class_number_group_id": 429
   },
   {
     "class_id": "CHEN7104P.01",
@@ -21880,7 +23663,7 @@ const classInfo = [
     "course_number": "CHEN7104P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 398
+    "class_number_group_id": 430
   },
   {
     "class_id": "CLIN6123P.01",
@@ -21984,7 +23767,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 399
+    "class_number_group_id": 431
   },
   {
     "class_id": "COMM1503.02",
@@ -22007,7 +23790,7 @@ const classInfo = [
     "course_number": "COMM1503",
     "class_number": "02",
     "parsed_time_location": [],
-    "class_number_group_id": 400
+    "class_number_group_id": 432
   },
   {
     "class_id": "COMM1507.01",
@@ -22068,7 +23851,1358 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 401
+    "class_number_group_id": 433
+  },
+  {
+    "class_id": "COMP5001P.02",
+    "course_name": "程序语言设计与程序分析",
+    "department": "011 计算机科学与技术系",
+    "teachers": "张昱",
+    "time_location": "1~18周 GT-B203: 2(3,4,5)",
+    "credit": 3.5,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "COMP5001P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B203",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 434
+  },
+  {
+    "class_id": "COMP6001P.03",
+    "course_name": "算法设计与分析",
+    "department": "011 计算机科学与技术系",
+    "teachers": "彭攀,徐小华",
+    "time_location": "1~18周 G3-113: 3(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "双语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 140,
+    "target_classes": null,
+    "course_number": "COMP6001P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-113",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 435
+  },
+  {
+    "class_id": "COMP6002P.03",
+    "course_name": "组合数学",
+    "department": "168 合肥物质研究院",
+    "teachers": null,
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "COMP6002P",
+    "class_number": "03",
+    "parsed_time_location": [],
+    "class_number_group_id": 436
+  },
+  {
+    "class_id": "COMP6003P.02",
+    "course_name": "计算机应用数学",
+    "department": "011 计算机科学与技术系",
+    "teachers": "侯嘉慧",
+    "time_location": "1~15周 G3-109: 2(6,7); G3-108: 4(1,2)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 178,
+    "target_classes": null,
+    "course_number": "COMP6003P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "G3-109",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 437
+  },
+  {
+    "class_id": "COMP6101P.01",
+    "course_name": "高级计算机体系结构",
+    "department": "011 计算机科学与技术系",
+    "teachers": "吴俊敏",
+    "time_location": "1~18周 GT-A403: 5(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "COMP6101P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-A403",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 438
+  },
+  {
+    "class_id": "COMP6101P.04",
+    "course_name": "高级计算机体系结构",
+    "department": "218 先进技术研究院",
+    "teachers": "卢建良",
+    "time_location": "1~18周 G3-109: 4(6,7,8)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 150,
+    "target_classes": null,
+    "course_number": "COMP6101P",
+    "class_number": "04",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-109",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 439
+  },
+  {
+    "class_id": "COMP6102P.01",
+    "course_name": "并行算法",
+    "department": "011 计算机科学与技术系",
+    "teachers": "徐云,杨子江",
+    "time_location": "1~18周 GT-A401: 4(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "COMP6102P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-A401",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 440
+  },
+  {
+    "class_id": "COMP6103P.02",
+    "course_name": "高级计算机网络",
+    "department": "011 计算机科学与技术系",
+    "teachers": "田野",
+    "time_location": "1~18周 G3-110: 1(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 178,
+    "target_classes": null,
+    "course_number": "COMP6103P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 441
+  },
+  {
+    "class_id": "COMP6103P.03",
+    "course_name": "高级计算机网络",
+    "department": "011 计算机科学与技术系",
+    "teachers": "张骏雪",
+    "time_location": "1~18周 GT-A405: 4(11,12,13)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "COMP6103P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-A405",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 442
+  },
+  {
+    "class_id": "COMP6103P.06",
+    "course_name": "高级计算机网络",
+    "department": "218 先进技术研究院",
+    "teachers": "张信明",
+    "time_location": "1~15周 G3-115: 4(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 150,
+    "target_classes": null,
+    "course_number": "COMP6103P",
+    "class_number": "06",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "G3-115",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 443
+  },
+  {
+    "class_id": "COMP6104P.01",
+    "course_name": "高级操作系统",
+    "department": "011 计算机科学与技术系",
+    "teachers": "白有辉",
+    "time_location": "1~18周 GT-B110: 5(8,9,10)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "COMP6104P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B110",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 444
+  },
+  {
+    "class_id": "COMP6105P.01",
+    "course_name": "高级软件工程",
+    "department": "011 计算机科学与技术系",
+    "teachers": "周颢",
+    "time_location": "1~18周 GT-A401: 3(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "COMP6105P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-A401",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 445
+  },
+  {
+    "class_id": "COMP6105P.04",
+    "course_name": "高级软件工程",
+    "department": "218 先进技术研究院",
+    "teachers": "白天",
+    "time_location": "G3-108: 1(6,7,8)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 150,
+    "target_classes": null,
+    "course_number": "COMP6105P",
+    "class_number": "04",
+    "parsed_time_location": [],
+    "class_number_group_id": 446
+  },
+  {
+    "class_id": "COMP6106P.01",
+    "course_name": "形式语言与计算复杂性",
+    "department": "011 计算机科学与技术系",
+    "teachers": "黄文超",
+    "time_location": "1~15周 GT-A403: 1(6,7) 3(1,2)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "COMP6106P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "GT-A403",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 447
+  },
+  {
+    "class_id": "COMP6107P.01",
+    "course_name": "并行与分布式计算",
+    "department": "011 计算机科学与技术系",
+    "teachers": "龚伟,王雄",
+    "time_location": "1~16周 GT-B103: 5(3,4,5)\n1~18周 GT-B103: 5(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "COMP6107P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "GT-B103",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B103",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 448
+  },
+  {
+    "class_id": "COMP6112P.01",
+    "course_name": "计算数论",
+    "department": "011 计算机科学与技术系",
+    "teachers": "韩文廷",
+    "time_location": "1~15周 G3-110: 3(6,7) 5(6,7)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 170,
+    "target_classes": null,
+    "course_number": "COMP6112P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 449
+  },
+  {
+    "class_id": "COMP6113P.01",
+    "course_name": "量子计算进阶",
+    "department": "011 计算机科学与技术系",
+    "teachers": "解围",
+    "time_location": "1~18周 G2-B403: 1(8,9,10)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "COMP6113P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G2-B403",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 450
+  },
+  {
+    "class_id": "COMP6209P.01",
+    "course_name": "排队论及其应用",
+    "department": "011 计算机科学与技术系",
+    "teachers": "尼克",
+    "time_location": "1~18周 GT-B106: 4(8,9,10)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "COMP6209P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B106",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 451
+  },
+  {
+    "class_id": "COMP6210P.01",
+    "course_name": "自然语言理解",
+    "department": "011 计算机科学与技术系",
+    "teachers": "刘贵全,张凯",
+    "time_location": "1~18周 G3-110: 2(11,12,13)",
+    "credit": 3.5,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 178,
+    "target_classes": null,
+    "course_number": "COMP6210P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 452
+  },
+  {
+    "class_id": "COMP6212P.02",
+    "course_name": "计算机视觉",
+    "department": "011 计算机科学与技术系",
+    "teachers": "阮文杰",
+    "time_location": "1~12周 G3-110: 1(8,9,10) 2(8,9)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "COMP6212P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 453
+  },
+  {
+    "class_id": "COMP6214P.01",
+    "course_name": "信号与信息处理",
+    "department": "011 计算机科学与技术系",
+    "teachers": "陈欢欢,周熙人,王翔宇",
+    "time_location": "1~18周 GT-B103: 5(8,9,10)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "COMP6214P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B103",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 454
+  },
+  {
+    "class_id": "COMP6215P.01",
+    "course_name": "信息论与编码技术",
+    "department": "011 计算机科学与技术系",
+    "teachers": "苗付友",
+    "time_location": "1~18周 GT-B108: 2(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "COMP6215P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B108",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 455
+  },
+  {
+    "class_id": "COMP6217P.02",
+    "course_name": "智能物联网",
+    "department": "011 计算机科学与技术系",
+    "teachers": "许杨",
+    "time_location": "1~13周 G3-108: 1(11,12,13)",
+    "credit": 3.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 178,
+    "target_classes": null,
+    "course_number": "COMP6217P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "G3-108",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 456
+  },
+  {
+    "class_id": "COMP6223P.01",
+    "course_name": "社会计算",
+    "department": "011 计算机科学与技术系",
+    "teachers": "徐童",
+    "time_location": "1~10周 G2-B302: 4(8,9) 4(11,12)",
+    "credit": 2.5,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "COMP6223P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "G2-B302",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 457
+  },
+  {
+    "class_id": "COMP6226P.01",
+    "course_name": "边缘与云计算",
+    "department": "011 计算机科学与技术系",
+    "teachers": "谈海生",
+    "time_location": "1~18周 GT-A403: 3(11,12,13)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": null,
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "COMP6226P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-A403",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 458
+  },
+  {
+    "class_id": "COMP7202P.01",
+    "course_name": "高性能算法研究前沿",
+    "department": "011 计算机科学与技术系",
+    "teachers": "孙广中",
+    "time_location": "1~18周 GT-B104: 4(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "COMP7202P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B104",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 459
+  },
+  {
+    "class_id": "COMP7204P.01",
+    "course_name": "机器学习与数据挖掘前沿",
+    "department": "011 计算机科学与技术系",
+    "teachers": "陈恩红,谢洪",
+    "time_location": "1~16周 GT-B103: 3(11,12)\n1~18周 GT-B103: 3(11,12)",
+    "credit": 3.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "COMP7204P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "GT-B103",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B103",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 460
+  },
+  {
+    "class_id": "COMP7208P.01",
+    "course_name": "普适计算",
+    "department": "011 计算机科学与技术系",
+    "teachers": "张信明",
+    "time_location": "1~18周 GT-B103: 4(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "COMP7208P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-B103",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 461
+  },
+  {
+    "class_id": "COMP7211P.02",
+    "course_name": "人工智能前沿",
+    "department": "011 计算机科学与技术系",
+    "teachers": "汪炀,王超",
+    "time_location": "1~13周 苏州高等研究院唯真楼5楼501室: 6(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "COMP7211P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "苏州高等研究院唯真楼5楼501室",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 462
+  },
+  {
+    "class_id": "COMP7211P.03",
+    "course_name": "人工智能前沿",
+    "department": "011 计算机科学与技术系",
+    "teachers": "陈欢欢,周熙人",
+    "time_location": "1~13周 GT-B103: 5(11,12,13)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "COMP7211P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "GT-B103",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 463
+  },
+  {
+    "class_id": "COMP7216P.01",
+    "course_name": "大数据隐私",
+    "department": "011 计算机科学与技术系",
+    "teachers": "李向阳,张兰",
+    "time_location": "1~18周 G3-114: 2(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "双语",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "COMP7216P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-114",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 464
   },
   {
     "class_id": "CS1003.20",
@@ -22130,7 +25264,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 402
+    "class_number_group_id": 465
   },
   {
     "class_id": "CS1502.01",
@@ -22178,7 +25312,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 403
+    "class_number_group_id": 466
   },
   {
     "class_id": "CS1504.01",
@@ -22238,7 +25372,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 404
+    "class_number_group_id": 467
   },
   {
     "class_id": "CS1505.01",
@@ -22300,7 +25434,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 405
+    "class_number_group_id": 468
   },
   {
     "class_id": "CS1507.01",
@@ -22362,7 +25496,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 406
+    "class_number_group_id": 469
   },
   {
     "class_id": "CS1508.01",
@@ -22405,7 +25539,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 407
+    "class_number_group_id": 470
   },
   {
     "class_id": "CS1508.02",
@@ -22448,7 +25582,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 408
+    "class_number_group_id": 471
   },
   {
     "class_id": "CS1508.03",
@@ -22491,7 +25625,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 409
+    "class_number_group_id": 472
   },
   {
     "class_id": "CS1514.01",
@@ -22533,7 +25667,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 410
+    "class_number_group_id": 473
   },
   {
     "class_id": "CS1515.02",
@@ -22576,7 +25710,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 411
+    "class_number_group_id": 474
   },
   {
     "class_id": "CS2001.01",
@@ -22619,7 +25753,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 412
+    "class_number_group_id": 475
   },
   {
     "class_id": "CS2002.01",
@@ -22636,7 +25770,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 82,
     "maximum_students": 100,
     "target_classes": "24计算机科学与技术*",
     "course_number": "CS2002",
@@ -22662,7 +25796,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 413
+    "class_number_group_id": 476
   },
   {
     "class_id": "CS2002.02",
@@ -22679,7 +25813,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 76,
     "maximum_students": 100,
     "target_classes": "24计算机科学与技术*",
     "course_number": "CS2002",
@@ -22705,7 +25839,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 413
+    "class_number_group_id": 476
   },
   {
     "class_id": "CS2002.03",
@@ -22722,7 +25856,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 67,
     "maximum_students": 100,
     "target_classes": "24计算机科学与技术*",
     "course_number": "CS2002",
@@ -22748,7 +25882,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 414
+    "class_number_group_id": 477
   },
   {
     "class_id": "CS2003.01",
@@ -22810,7 +25944,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 415
+    "class_number_group_id": 478
   },
   {
     "class_id": "CS2003.02",
@@ -22853,7 +25987,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 416
+    "class_number_group_id": 479
   },
   {
     "class_id": "CS2502A.05",
@@ -22921,14 +26055,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 417
+    "class_number_group_id": 480
   },
   {
     "class_id": "CS2502B.01",
     "course_name": "数据结构B",
     "department": "210 信息科学技术学院",
     "teachers": "袁平波",
-    "time_location": "1~18周 2104: 4(8,9,10)\n7~12周 西区电一楼机房1厅: 5(11,12,13)",
+    "time_location": "1~18周 2104: 4(8,9,10)\n7~12周 西区电一楼机房1厅: 3(11,12,13)",
     "credit": 3.0,
     "hours": 70,
     "education_level": "本科",
@@ -22973,7 +26107,7 @@ const classInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 5,
+            "day_of_week": 3,
             "periods": [
               11,
               12,
@@ -22983,7 +26117,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 418
+    "class_number_group_id": 481
   },
   {
     "class_id": "CS3001H.01",
@@ -23000,7 +26134,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 40,
     "maximum_students": 60,
     "target_classes": "24华夏计算机科技英才班T",
     "course_number": "CS3001H",
@@ -23032,7 +26166,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 419
+    "class_number_group_id": 482
   },
   {
     "class_id": "CS3002H.01",
@@ -23111,7 +26245,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 420
+    "class_number_group_id": 483
   },
   {
     "class_id": "CS3003H.01",
@@ -23160,7 +26294,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 421
+    "class_number_group_id": 484
   },
   {
     "class_id": "CS4001.01",
@@ -23209,7 +26343,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 422
+    "class_number_group_id": 485
   },
   {
     "class_id": "CS4004.02",
@@ -23252,7 +26386,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 423
+    "class_number_group_id": 486
   },
   {
     "class_id": "CS4005.03",
@@ -23295,7 +26429,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 424
+    "class_number_group_id": 487
   },
   {
     "class_id": "CS4009.02",
@@ -23344,7 +26478,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 425
+    "class_number_group_id": 488
   },
   {
     "class_id": "CS4012.01",
@@ -23406,7 +26540,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 426
+    "class_number_group_id": 489
   },
   {
     "class_id": "CS4014.01",
@@ -23455,7 +26589,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 427
+    "class_number_group_id": 490
   },
   {
     "class_id": "CS4017.01",
@@ -23498,7 +26632,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 428
+    "class_number_group_id": 491
   },
   {
     "class_id": "CS4024.01",
@@ -23550,7 +26684,7 @@ const classInfo = [
         "time_slots": []
       }
     ],
-    "class_number_group_id": 429
+    "class_number_group_id": 492
   },
   {
     "class_id": "CS4025.01",
@@ -23612,7 +26746,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 430
+    "class_number_group_id": 493
   },
   {
     "class_id": "CS4026.01",
@@ -23655,7 +26789,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 431
+    "class_number_group_id": 494
   },
   {
     "class_id": "CS4027.01",
@@ -23704,7 +26838,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 432
+    "class_number_group_id": 495
   },
   {
     "class_id": "CS4028.01",
@@ -23747,7 +26881,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 433
+    "class_number_group_id": 496
   },
   {
     "class_id": "CS4032.01",
@@ -23790,7 +26924,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 434
+    "class_number_group_id": 497
   },
   {
     "class_id": "CS4033.01",
@@ -23831,7 +26965,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 435
+    "class_number_group_id": 498
   },
   {
     "class_id": "CS4501.01",
@@ -23907,7 +27041,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 436
+    "class_number_group_id": 499
   },
   {
     "class_id": "CS4502.01",
@@ -23950,7 +27084,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 437
+    "class_number_group_id": 500
   },
   {
     "class_id": "CYSC6201P.01",
@@ -23994,7 +27128,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 438
+    "class_number_group_id": 501
   },
   {
     "class_id": "CYSC6202P.01",
@@ -24044,7 +27178,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 439
+    "class_number_group_id": 502
   },
   {
     "class_id": "CYSC6203P.01",
@@ -24088,7 +27222,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 440
+    "class_number_group_id": 503
   },
   {
     "class_id": "DS2002.01",
@@ -24105,7 +27239,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 44,
     "maximum_students": 147,
     "target_classes": "24数据科学与大数据技术*,24人工智能*",
     "course_number": "DS2002",
@@ -24137,7 +27271,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 441
+    "class_number_group_id": 504
   },
   {
     "class_id": "DS3001.01",
@@ -24154,7 +27288,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 44,
     "maximum_students": 147,
     "target_classes": "24数据科学与大数据技术*,24人工智能*",
     "course_number": "DS3001",
@@ -24215,7 +27349,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 442
+    "class_number_group_id": 505
   },
   {
     "class_id": "EDUS1001.01",
@@ -24238,7 +27372,7 @@ const classInfo = [
     "course_number": "EDUS1001",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 443
+    "class_number_group_id": 506
   },
   {
     "class_id": "EDUS1001.06",
@@ -24261,7 +27395,7 @@ const classInfo = [
     "course_number": "EDUS1001",
     "class_number": "06",
     "parsed_time_location": [],
-    "class_number_group_id": 443
+    "class_number_group_id": 506
   },
   {
     "class_id": "EDUS1001.12",
@@ -24284,7 +27418,7 @@ const classInfo = [
     "course_number": "EDUS1001",
     "class_number": "12",
     "parsed_time_location": [],
-    "class_number_group_id": 443
+    "class_number_group_id": 506
   },
   {
     "class_id": "EDUS1001.15",
@@ -24307,7 +27441,7 @@ const classInfo = [
     "course_number": "EDUS1001",
     "class_number": "15",
     "parsed_time_location": [],
-    "class_number_group_id": 443
+    "class_number_group_id": 506
   },
   {
     "class_id": "EDUS1001.21",
@@ -24330,7 +27464,7 @@ const classInfo = [
     "course_number": "EDUS1001",
     "class_number": "21",
     "parsed_time_location": [],
-    "class_number_group_id": 443
+    "class_number_group_id": 506
   },
   {
     "class_id": "EE1501.02",
@@ -24373,7 +27507,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 444
+    "class_number_group_id": 507
   },
   {
     "class_id": "EE1504.01",
@@ -24416,7 +27550,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 445
+    "class_number_group_id": 508
   },
   {
     "class_id": "EE1506.01",
@@ -24480,7 +27614,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 446
+    "class_number_group_id": 509
   },
   {
     "class_id": "EE1508.01",
@@ -24522,7 +27656,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 447
+    "class_number_group_id": 510
   },
   {
     "class_id": "EE1509.01",
@@ -24545,7 +27679,7 @@ const classInfo = [
     "course_number": "EE1509",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 448
+    "class_number_group_id": 511
   },
   {
     "class_id": "EE1510.02",
@@ -24607,7 +27741,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 449
+    "class_number_group_id": 512
   },
   {
     "class_id": "EE1513.01",
@@ -24656,7 +27790,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 450
+    "class_number_group_id": 513
   },
   {
     "class_id": "EE2003.01",
@@ -24673,7 +27807,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 88,
     "maximum_students": 90,
     "target_classes": "24王小谟网络空间科技英才班T,24信息安全*,24网络空间安全*",
     "course_number": "EE2003",
@@ -24705,7 +27839,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 451
+    "class_number_group_id": 514
   },
   {
     "class_id": "EE2003.02",
@@ -24722,7 +27856,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 70,
     "maximum_students": 72,
     "target_classes": "24电子科学与技术*",
     "course_number": "EE2003",
@@ -24779,7 +27913,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 452
+    "class_number_group_id": 515
   },
   {
     "class_id": "EE2004.02",
@@ -24828,7 +27962,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 453
+    "class_number_group_id": 516
   },
   {
     "class_id": "EE2006A.01",
@@ -24845,7 +27979,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 42,
     "maximum_students": 60,
     "target_classes": "24电子信息工程,24人工智能*",
     "course_number": "EE2006A",
@@ -24878,7 +28012,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 454
+    "class_number_group_id": 517
   },
   {
     "class_id": "EE2006A.02",
@@ -24895,7 +28029,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 43,
     "maximum_students": 60,
     "target_classes": "24电子信息工程",
     "course_number": "EE2006A",
@@ -24928,13 +28062,13 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 454
+    "class_number_group_id": 517
   },
   {
     "class_id": "EE2006A.03",
     "course_name": "信号与系统A",
     "department": "210 信息科学技术学院",
-    "teachers": "李鑫,陈志波",
+    "teachers": "陈志波,李鑫",
     "time_location": "1~16周 3A213: 1(8,9,10) 2(6,7)",
     "credit": 4.0,
     "hours": 80,
@@ -24945,7 +28079,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 43,
     "maximum_students": 60,
     "target_classes": "24电子信息工程,24数据科学与大数据技术*",
     "course_number": "EE2006A",
@@ -24978,7 +28112,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 455
+    "class_number_group_id": 518
   },
   {
     "class_id": "EE2501.02",
@@ -24995,7 +28129,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 39,
     "maximum_students": 40,
     "target_classes": "24级203院02班",
     "course_number": "EE2501",
@@ -25051,7 +28185,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 456
+    "class_number_group_id": 519
   },
   {
     "class_id": "EE2501.03",
@@ -25068,7 +28202,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 38,
     "maximum_students": 40,
     "target_classes": "24级203院03班",
     "course_number": "EE2501",
@@ -25128,7 +28262,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 457
+    "class_number_group_id": 520
   },
   {
     "class_id": "EE2501.04",
@@ -25145,7 +28279,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 35,
     "maximum_students": 40,
     "target_classes": "24级203院04班",
     "course_number": "EE2501",
@@ -25205,7 +28339,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 458
+    "class_number_group_id": 521
   },
   {
     "class_id": "EE2501.05",
@@ -25222,7 +28356,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 76,
     "maximum_students": 80,
     "target_classes": "24级203院05班,24级203院06班",
     "course_number": "EE2501",
@@ -25282,7 +28416,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 459
+    "class_number_group_id": 522
   },
   {
     "class_id": "EE2501.06",
@@ -25299,7 +28433,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 77,
     "maximum_students": 75,
     "target_classes": "24少院物理Y",
     "course_number": "EE2501",
@@ -25384,7 +28518,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 460
+    "class_number_group_id": 523
   },
   {
     "class_id": "EE2501.07",
@@ -25401,7 +28535,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 55,
     "maximum_students": 90,
     "target_classes": "24应用物理学,24级203院01班*",
     "course_number": "EE2501",
@@ -25443,14 +28577,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 461
+    "class_number_group_id": 524
   },
   {
     "class_id": "EE2503.03",
     "course_name": "电子线路实验",
     "department": "210 信息科学技术学院",
     "teachers": "吴文涛,黄自龙,季芳芳,陈金雯,吴善珍,肖鸿,周燚,胡新伟",
-    "time_location": "6~15周 西区电四楼电子技术基础实验室: 4(19:00~19:30) 4(11,12,13)",
+    "time_location": "6~15周 西区电四楼电子技术基础实验室: 3(19:00~19:30) 3(11,12,13)",
     "credit": 1.0,
     "hours": 40,
     "education_level": "本科",
@@ -25460,7 +28594,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "实验操作",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 41,
     "maximum_students": 72,
     "target_classes": "24测控技术与仪器,24机器人工程",
     "course_number": "EE2503",
@@ -25476,7 +28610,7 @@ const classInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 4,
+            "day_of_week": 3,
             "periods": [
               11,
               12,
@@ -25486,7 +28620,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 462
+    "class_number_group_id": 525
   },
   {
     "class_id": "EE2503.04",
@@ -25503,7 +28637,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "实验操作",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 70,
     "maximum_students": 72,
     "target_classes": "24王小谟网络空间科技英才班T,24信息安全*,24网络空间安全*",
     "course_number": "EE2503",
@@ -25530,7 +28664,50 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 463
+    "class_number_group_id": 526
+  },
+  {
+    "class_id": "EE2503.05",
+    "course_name": "电子线路实验",
+    "department": "210 信息科学技术学院",
+    "teachers": "吴文涛,黄自龙,季芳芳,陈金雯,吴善珍,肖鸿,周燚,胡新伟",
+    "time_location": "6~15周 西区电四楼电子技术基础实验室: 4(19:00~19:30) 4(11,12,13)",
+    "credit": 1.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "实验课",
+    "teaching_language": "中文",
+    "assessment_method": "实验操作",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 57,
+    "maximum_students": 72,
+    "target_classes": "24测控技术与仪器,24机器人工程",
+    "course_number": "EE2503",
+    "class_number": "05",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "西区电四楼电子技术基础实验室",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 527
   },
   {
     "class_id": "EE2506B.01",
@@ -25547,7 +28724,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 81,
     "maximum_students": 60,
     "target_classes": "24测控技术与仪器,24机器人工程",
     "course_number": "EE2506B",
@@ -25579,7 +28756,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 464
+    "class_number_group_id": 528
   },
   {
     "class_id": "EE3003.01",
@@ -25653,7 +28830,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 465
+    "class_number_group_id": 529
   },
   {
     "class_id": "EE3003.02",
@@ -25727,7 +28904,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 466
+    "class_number_group_id": 530
   },
   {
     "class_id": "EE3007.01",
@@ -25744,7 +28921,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 44,
     "maximum_students": 50,
     "target_classes": "24自动化",
     "course_number": "EE3007",
@@ -25778,7 +28955,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 467
+    "class_number_group_id": 531
   },
   {
     "class_id": "EE3007.02",
@@ -25795,7 +28972,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 44,
     "maximum_students": 50,
     "target_classes": "24自动化",
     "course_number": "EE3007",
@@ -25829,7 +29006,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 468
+    "class_number_group_id": 532
   },
   {
     "class_id": "EE3501.01",
@@ -25891,7 +29068,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 469
+    "class_number_group_id": 533
   },
   {
     "class_id": "EE3502.01",
@@ -25908,7 +29085,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 60,
     "target_classes": "23量子信息科学*,23计算机科学与技术*",
     "course_number": "EE3502",
@@ -25940,7 +29117,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 470
+    "class_number_group_id": 534
   },
   {
     "class_id": "EE4003.01",
@@ -25989,7 +29166,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 471
+    "class_number_group_id": 535
   },
   {
     "class_id": "EE4005.01",
@@ -26050,7 +29227,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 472
+    "class_number_group_id": 536
   },
   {
     "class_id": "EE4011A.01",
@@ -26100,7 +29277,1342 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 473
+    "class_number_group_id": 537
+  },
+  {
+    "class_id": "EIEN6201U.09",
+    "course_name": "工程硕士专业英语(电子信息)",
+    "department": "011 计算机科学与技术系",
+    "teachers": "王皓",
+    "time_location": "1~18周 G3-108: 5(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 178,
+    "target_classes": null,
+    "course_number": "EIEN6201U",
+    "class_number": "09",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-108",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 538
+  },
+  {
+    "class_id": "EIEN6201U.10",
+    "course_name": "工程硕士专业英语(电子信息)",
+    "department": "219 微电子学院",
+    "teachers": "孙海定,左成杰",
+    "time_location": "1~7周 G3-115: 2(3,4,5)\n8~14周 G3-115: 2(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "EIEN6201U",
+    "class_number": "10",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 7,
+          "week_type": null
+        },
+        "location": "G3-115",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 8,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "G3-115",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 539
+  },
+  {
+    "class_id": "EIEN6201U.14",
+    "course_name": "工程硕士专业英语(电子信息)",
+    "department": "218 先进技术研究院",
+    "teachers": "邢鸿飞",
+    "time_location": "6~15周 GH-407: 3(11,12,13)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "EIEN6201U",
+    "class_number": "14",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "GH-407",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 540
+  },
+  {
+    "class_id": "EIEN7401P.06",
+    "course_name": "电子信息类开放实践课",
+    "department": "040 项目管理教育中心",
+    "teachers": "翁清雄",
+    "time_location": "1~4周 管理楼第四教室: 6(2,3,4,5) 6(6,7,8,9)\n2~4周 管理楼第四教室: 7(6,7,8,9)\n2~5周 管理楼第四教室: 7(2,3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 15,
+    "target_classes": null,
+    "course_number": "EIEN7401P",
+    "class_number": "06",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "管理楼第四教室",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 6,
+            "periods": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "管理楼第四教室",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 7,
+            "periods": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 5,
+          "week_type": null
+        },
+        "location": "管理楼第四教室",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 7,
+            "periods": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 541
+  },
+  {
+    "class_id": "EIEN7402.05",
+    "course_name": "电子信息类前沿课程",
+    "department": "004 近代物理系",
+    "teachers": "李宇怀,王孟祺,尹春明,许小冶,林毅恒,霍永恒,张延磊",
+    "time_location": "3~13周 2104: 2(11,12,13) 4(11,12,13)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "EIEN7402",
+    "class_number": "05",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "2104",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 542
+  },
+  {
+    "class_id": "ELEC6101P.01",
+    "course_name": "物理电子学导论",
+    "department": "004 近代物理系",
+    "teachers": "江晓,梁昊,许立新,李锋,梁福田,沈仲弢,张进一,汪野,方竹君,季文韬,胡广月",
+    "time_location": "1~16周 5304: 2(8,9,10) 4(8,9)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "ELEC6101P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5304",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 543
+  },
+  {
+    "class_id": "ELEC6102P.01",
+    "course_name": "高等核电子学",
+    "department": "004 近代物理系",
+    "teachers": "梁昊",
+    "time_location": "1~16周 2621: 1(8,9,10) 3(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "ELEC6102P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2621",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 544
+  },
+  {
+    "class_id": "ELEC6103P.01",
+    "course_name": "近代信息处理",
+    "department": "004 近代物理系",
+    "teachers": "赵雷,沈仲弢,王进红",
+    "time_location": "1~16周 2621: 1(3,4,5) 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "ELEC6103P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2621",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 545
+  },
+  {
+    "class_id": "ELEC6203P.01",
+    "course_name": "高速数字系统设计",
+    "department": "004 近代物理系",
+    "teachers": "武杰",
+    "time_location": "1~16周 1102: 2(3,4,5) 5(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 90,
+    "target_classes": null,
+    "course_number": "ELEC6203P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "1102",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 546
+  },
+  {
+    "class_id": "ELEC6204P.01",
+    "course_name": "硬件描述语言程序设计与实践",
+    "department": "004 近代物理系",
+    "teachers": "杨俊峰",
+    "time_location": "1~15周 2505: 1(6,7) 3(3,4)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 35,
+    "target_classes": null,
+    "course_number": "ELEC6204P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "2505",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 547
+  },
+  {
+    "class_id": "ELEC6206P.01",
+    "course_name": "数字系统设计自动化",
+    "department": "219 微电子学院",
+    "teachers": "陈松",
+    "time_location": "1~18周 G2-B402: 4(2,3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "ELEC6206P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G2-B402",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 548
+  },
+  {
+    "class_id": "ELEC6208P.01",
+    "course_name": "数字信号处理II",
+    "department": "219 微电子学院",
+    "teachers": "唐建",
+    "time_location": "1~18周 G2-B402: 3(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "ELEC6208P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G2-B402",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 549
+  },
+  {
+    "class_id": "ELEC6209P.01",
+    "course_name": "数字图像分析",
+    "department": "219 微电子学院",
+    "teachers": "谭立湘",
+    "time_location": "1~18周 G3-113: 1(1,2,3,4)",
+    "credit": 3.5,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "ELEC6209P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-113",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 550
+  },
+  {
+    "class_id": "ELEC6402P.01",
+    "course_name": "嵌入式系统原理及应用",
+    "department": "219 微电子学院",
+    "teachers": "朱俊株",
+    "time_location": "1~18周 G2-B402: 2(6,7) 4(6,7)",
+    "credit": 4.0,
+    "hours": 100,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "ELEC6402P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G2-B402",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 551
+  },
+  {
+    "class_id": "ELEC6407P.02",
+    "course_name": "GPU并行计算",
+    "department": "219 微电子学院",
+    "teachers": "谭立湘",
+    "time_location": "1~18周 GT-A403: 3(3,4,5)",
+    "credit": 2.5,
+    "hours": 70,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "ELEC6407P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GT-A403",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 552
+  },
+  {
+    "class_id": "ELEC6414P.01",
+    "course_name": "神经网络及其应用",
+    "department": "219 微电子学院",
+    "teachers": "徐奇",
+    "time_location": "1~18周 G2-B502: 1(6,7,8,9)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "ELEC6414P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G2-B502",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 553
+  },
+  {
+    "class_id": "ELEC6424P.01",
+    "course_name": "机器学习",
+    "department": "219 微电子学院",
+    "teachers": "何劲松",
+    "time_location": "1~18周 G2-B503: 4(6,7,8)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "ELEC6424P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G2-B503",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 554
+  },
+  {
+    "class_id": "ELEC6432P.01",
+    "course_name": "功率半导体电子器件",
+    "department": "219 微电子学院",
+    "teachers": "郑柘炀",
+    "time_location": "1~16周 G3-115: 1(6,7,8,9)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "ELEC6432P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "G3-115",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 555
+  },
+  {
+    "class_id": "ENVI6003P.01",
+    "course_name": "现代仪器分析技术与实验",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "刘东风,王洋",
+    "time_location": "1~18周 中区应用化学楼附楼一楼: 3(1,2,3,4,5)",
+    "credit": 3.0,
+    "hours": 100,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 25,
+    "target_classes": null,
+    "course_number": "ENVI6003P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "中区应用化学楼附楼一楼",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 556
+  },
+  {
+    "class_id": "ENVI6003P.02",
+    "course_name": "现代仪器分析技术与实验",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "刘东风,王洋",
+    "time_location": "1~18周 中区应用化学楼附楼一楼: 4(1,2,3,4,5)",
+    "credit": 3.0,
+    "hours": 100,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论实验课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 25,
+    "target_classes": null,
+    "course_number": "ENVI6003P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "中区应用化学楼附楼一楼",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 557
+  },
+  {
+    "class_id": "ENVI6004P.01",
+    "course_name": "水化学",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "王允坤,李文卫",
+    "time_location": "1~18周 2103: 1(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "ENVI6004P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "2103",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 558
+  },
+  {
+    "class_id": "ENVI6005P.01",
+    "course_name": "环境生物技术原理",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "刘贤伟,袁丽",
+    "time_location": "1~18周 2507: 2(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "ENVI6005P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "2507",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 559
+  },
+  {
+    "class_id": "ENVI6007P.01",
+    "course_name": "环境物化过程的传质分析",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "吕兴霖",
+    "time_location": "3~9周 2507: 1(11,12,13) 4(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "ENVI6007P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 9,
+          "week_type": null
+        },
+        "location": "2507",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 560
+  },
+  {
+    "class_id": "ENVI6008P.01",
+    "course_name": "环境微生物组学分析",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "花正双",
+    "time_location": "2~14周 2409: 1(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "ENVI6008P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "2409",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 561
+  },
+  {
+    "class_id": "ENVI6402P.01",
+    "course_name": "污染控制材料",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "盛国平",
+    "time_location": "2~14周 2205: 4(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "ENVI6402P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "2205",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 562
+  },
+  {
+    "class_id": "ENVI6414P.01",
+    "course_name": "AI for 环境监测",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "钱晨",
+    "time_location": "1~8周 2307: 2(8,9,10)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "ENVI6414P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "2307",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 563
+  },
+  {
+    "class_id": "ENVI6415P.01",
+    "course_name": "AI for环境微生物",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "陈林兴",
+    "time_location": "1~10周 2304: 3(3,4)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "ENVI6415P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "2304",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 564
+  },
+  {
+    "class_id": "ENVI6420P.01",
+    "course_name": "AI for 环境材料",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "王洋",
+    "time_location": "1~10周 2305: 4(6,7)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "ENVI6420P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "2305",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 565
   },
   {
     "class_id": "ENVS3001.01",
@@ -26142,7 +30654,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 474
+    "class_number_group_id": 566
   },
   {
     "class_id": "ENVS3002.01",
@@ -26159,7 +30671,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 11,
     "maximum_students": 12,
     "target_classes": "24环境科学与工程",
     "course_number": "ENVS3002",
@@ -26218,7 +30730,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 475
+    "class_number_group_id": 567
   },
   {
     "class_id": "ENVS3005.01",
@@ -26235,7 +30747,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 15,
     "maximum_students": 16,
     "target_classes": "23环境科学与工程",
     "course_number": "ENVS3005",
@@ -26261,7 +30773,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 476
+    "class_number_group_id": 568
   },
   {
     "class_id": "ENVS3008.01",
@@ -26278,13 +30790,13 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 15,
     "maximum_students": 16,
     "target_classes": "23环境科学与工程",
     "course_number": "ENVS3008",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 477
+    "class_number_group_id": 569
   },
   {
     "class_id": "ENVS3009.01",
@@ -26301,13 +30813,13 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 5,
     "maximum_students": 5,
     "target_classes": "23环境科学与工程科技英才班T",
     "course_number": "ENVS3009",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 478
+    "class_number_group_id": 570
   },
   {
     "class_id": "ENVS4004.01",
@@ -26383,7 +30895,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 479
+    "class_number_group_id": 571
   },
   {
     "class_id": "ENVS4005.01",
@@ -26426,7 +30938,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 480
+    "class_number_group_id": 572
   },
   {
     "class_id": "ENVS4006.01",
@@ -26476,7 +30988,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 481
+    "class_number_group_id": 573
   },
   {
     "class_id": "ENVS4007.01",
@@ -26538,7 +31050,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 482
+    "class_number_group_id": 574
   },
   {
     "class_id": "ENVS4014.01",
@@ -26588,7 +31100,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 483
+    "class_number_group_id": 575
   },
   {
     "class_id": "ESS1504G.01",
@@ -26631,7 +31143,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 484
+    "class_number_group_id": 576
   },
   {
     "class_id": "ESS1507.01",
@@ -26673,7 +31185,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 485
+    "class_number_group_id": 577
   },
   {
     "class_id": "ESS1509.01",
@@ -26735,7 +31247,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 486
+    "class_number_group_id": 578
   },
   {
     "class_id": "ESS1510.01",
@@ -26758,7 +31270,7 @@ const classInfo = [
     "course_number": "ESS1510",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 487
+    "class_number_group_id": 579
   },
   {
     "class_id": "ESS1512.01",
@@ -26820,7 +31332,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 488
+    "class_number_group_id": 580
   },
   {
     "class_id": "ESS1513.01",
@@ -26862,7 +31374,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 489
+    "class_number_group_id": 581
   },
   {
     "class_id": "ESS1514.01",
@@ -27030,7 +31542,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 490
+    "class_number_group_id": 582
   },
   {
     "class_id": "ESS1515.02",
@@ -27073,7 +31585,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 491
+    "class_number_group_id": 583
   },
   {
     "class_id": "ESS2007.01",
@@ -27135,7 +31647,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 492
+    "class_number_group_id": 584
   },
   {
     "class_id": "ESS2008.01",
@@ -27197,7 +31709,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 493
+    "class_number_group_id": 585
   },
   {
     "class_id": "ESS2009.01",
@@ -27240,7 +31752,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 494
+    "class_number_group_id": 586
   },
   {
     "class_id": "ESS2010.01",
@@ -27283,7 +31795,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 495
+    "class_number_group_id": 587
   },
   {
     "class_id": "ESS3002.01",
@@ -27300,7 +31812,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 13,
     "maximum_students": 13,
     "target_classes": "23空间探测仪器与技术",
     "course_number": "ESS3002",
@@ -27357,7 +31869,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 496
+    "class_number_group_id": 588
   },
   {
     "class_id": "ESS4004.01",
@@ -27400,7 +31912,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 497
+    "class_number_group_id": 589
   },
   {
     "class_id": "FIN1501G.01",
@@ -27459,7 +31971,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 498
+    "class_number_group_id": 590
   },
   {
     "class_id": "FIN1503.02",
@@ -27502,7 +32014,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 499
+    "class_number_group_id": 591
   },
   {
     "class_id": "FIN1506.02",
@@ -27545,7 +32057,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 500
+    "class_number_group_id": 592
   },
   {
     "class_id": "FIN1901.01",
@@ -27588,7 +32100,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 501
+    "class_number_group_id": 593
   },
   {
     "class_id": "FIN2001.01",
@@ -27630,7 +32142,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 502
+    "class_number_group_id": 594
   },
   {
     "class_id": "FIN3001.01",
@@ -27647,7 +32159,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 18,
     "maximum_students": 68,
     "target_classes": "23统计学*,23金融学,23管理科学*",
     "course_number": "FIN3001",
@@ -27673,14 +32185,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 503
+    "class_number_group_id": 595
   },
   {
     "class_id": "FIN3002.01",
     "course_name": "货币金融学",
     "department": "017 统计与金融系",
     "teachers": "吴遵",
-    "time_location": "1~15周 2406: 3(3,4) 5(3,4)",
+    "time_location": "1~10周 2406: 3(3,4,5) 5(3,4,5)",
     "credit": 3.0,
     "hours": 60,
     "education_level": "本科",
@@ -27690,7 +32202,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 30,
     "target_classes": "24金融学",
     "course_number": "FIN3002",
@@ -27699,7 +32211,7 @@ const classInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 15,
+          "end_week": 10,
           "week_type": null
         },
         "location": "2406",
@@ -27709,20 +32221,22 @@ const classInfo = [
             "day_of_week": 3,
             "periods": [
               3,
-              4
+              4,
+              5
             ]
           },
           {
             "day_of_week": 5,
             "periods": [
               3,
-              4
+              4,
+              5
             ]
           }
         ]
       }
     ],
-    "class_number_group_id": 504
+    "class_number_group_id": 596
   },
   {
     "class_id": "FINA6004U.01",
@@ -27745,7 +32259,7 @@ const classInfo = [
     "course_number": "FINA6004U",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 505
+    "class_number_group_id": 597
   },
   {
     "class_id": "FINA6004U.02",
@@ -27768,7 +32282,7 @@ const classInfo = [
     "course_number": "FINA6004U",
     "class_number": "02",
     "parsed_time_location": [],
-    "class_number_group_id": 505
+    "class_number_group_id": 597
   },
   {
     "class_id": "FINA6102P.01",
@@ -27812,7 +32326,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 506
+    "class_number_group_id": 598
   },
   {
     "class_id": "FINA6102P.02",
@@ -27856,7 +32370,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 507
+    "class_number_group_id": 599
   },
   {
     "class_id": "FINA6106P.01",
@@ -27879,7 +32393,7 @@ const classInfo = [
     "course_number": "FINA6106P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 508
+    "class_number_group_id": 600
   },
   {
     "class_id": "FINA6106P.02",
@@ -27902,7 +32416,7 @@ const classInfo = [
     "course_number": "FINA6106P",
     "class_number": "02",
     "parsed_time_location": [],
-    "class_number_group_id": 508
+    "class_number_group_id": 600
   },
   {
     "class_id": "FINA6404P.01",
@@ -27955,7 +32469,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 509
+    "class_number_group_id": 601
   },
   {
     "class_id": "FINA6405P.01",
@@ -27978,7 +32492,7 @@ const classInfo = [
     "course_number": "FINA6405P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 510
+    "class_number_group_id": 602
   },
   {
     "class_id": "FINA6406P.01",
@@ -28058,7 +32572,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 511
+    "class_number_group_id": 603
   },
   {
     "class_id": "FINA6407P.01",
@@ -28102,7 +32616,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 512
+    "class_number_group_id": 604
   },
   {
     "class_id": "FINA6409P.01",
@@ -28125,7 +32639,7 @@ const classInfo = [
     "course_number": "FINA6409P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 513
+    "class_number_group_id": 605
   },
   {
     "class_id": "FINA6409P.02",
@@ -28148,7 +32662,7 @@ const classInfo = [
     "course_number": "FINA6409P",
     "class_number": "02",
     "parsed_time_location": [],
-    "class_number_group_id": 513
+    "class_number_group_id": 605
   },
   {
     "class_id": "FINA6417P.01",
@@ -28171,7 +32685,7 @@ const classInfo = [
     "course_number": "FINA6417P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 514
+    "class_number_group_id": 606
   },
   {
     "class_id": "FINA6420P.01",
@@ -28215,7 +32729,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 515
+    "class_number_group_id": 607
   },
   {
     "class_id": "FINA6420P.02",
@@ -28259,7 +32773,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 516
+    "class_number_group_id": 608
   },
   {
     "class_id": "FINA6421P.01",
@@ -28323,7 +32837,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 517
+    "class_number_group_id": 609
   },
   {
     "class_id": "FINA6423P.01",
@@ -28367,7 +32881,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 518
+    "class_number_group_id": 610
   },
   {
     "class_id": "FL1002.01",
@@ -28416,7 +32930,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 519
+    "class_number_group_id": 611
   },
   {
     "class_id": "FL1002.02",
@@ -28465,7 +32979,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 520
+    "class_number_group_id": 612
   },
   {
     "class_id": "FL1002.03",
@@ -28514,7 +33028,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 521
+    "class_number_group_id": 613
   },
   {
     "class_id": "FL1004.02",
@@ -28556,7 +33070,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 522
+    "class_number_group_id": 614
   },
   {
     "class_id": "FL1004.03",
@@ -28598,7 +33112,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 523
+    "class_number_group_id": 615
   },
   {
     "class_id": "FL1004.04",
@@ -28640,7 +33154,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 522
+    "class_number_group_id": 614
   },
   {
     "class_id": "FL1004.05",
@@ -28682,7 +33196,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 523
+    "class_number_group_id": 615
   },
   {
     "class_id": "FL1004.06",
@@ -28724,7 +33238,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 524
+    "class_number_group_id": 616
   },
   {
     "class_id": "FL1004.07",
@@ -28766,7 +33280,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 522
+    "class_number_group_id": 614
   },
   {
     "class_id": "FL1004.08",
@@ -28808,7 +33322,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 523
+    "class_number_group_id": 615
   },
   {
     "class_id": "FL1004.09",
@@ -28825,7 +33339,7 @@ const classInfo = [
     "teaching_language": "英语",
     "assessment_method": "口试",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 20,
     "maximum_students": 40,
     "target_classes": null,
     "course_number": "FL1004",
@@ -28850,7 +33364,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 522
+    "class_number_group_id": 614
   },
   {
     "class_id": "FL1004.10",
@@ -28892,7 +33406,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 523
+    "class_number_group_id": 615
   },
   {
     "class_id": "FL1004.11",
@@ -28934,7 +33448,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 523
+    "class_number_group_id": 615
   },
   {
     "class_id": "FL1004.12",
@@ -28976,7 +33490,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 524
+    "class_number_group_id": 616
   },
   {
     "class_id": "FL1004.13",
@@ -29018,7 +33532,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 522
+    "class_number_group_id": 614
   },
   {
     "class_id": "FL1004.14",
@@ -29060,7 +33574,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 523
+    "class_number_group_id": 615
   },
   {
     "class_id": "FL1004.15",
@@ -29102,7 +33616,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 525
+    "class_number_group_id": 617
   },
   {
     "class_id": "FL1004.16",
@@ -29144,7 +33658,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 526
+    "class_number_group_id": 618
   },
   {
     "class_id": "FL1004.17",
@@ -29186,7 +33700,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 525
+    "class_number_group_id": 617
   },
   {
     "class_id": "FL1004.18",
@@ -29228,7 +33742,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 526
+    "class_number_group_id": 618
   },
   {
     "class_id": "FL1004.19",
@@ -29270,7 +33784,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 525
+    "class_number_group_id": 617
   },
   {
     "class_id": "FL1004.20",
@@ -29312,7 +33826,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 526
+    "class_number_group_id": 618
   },
   {
     "class_id": "FL1004.21",
@@ -29354,7 +33868,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 525
+    "class_number_group_id": 617
   },
   {
     "class_id": "FL1004.22",
@@ -29396,7 +33910,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 526
+    "class_number_group_id": 618
   },
   {
     "class_id": "FL1004.23",
@@ -29438,7 +33952,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 525
+    "class_number_group_id": 617
   },
   {
     "class_id": "FL1004.24",
@@ -29480,7 +33994,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 526
+    "class_number_group_id": 618
   },
   {
     "class_id": "FL1004.25",
@@ -29522,7 +34036,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 525
+    "class_number_group_id": 617
   },
   {
     "class_id": "FL1004.26",
@@ -29564,7 +34078,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 526
+    "class_number_group_id": 618
   },
   {
     "class_id": "FL1006.01",
@@ -29606,7 +34120,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 527
+    "class_number_group_id": 619
   },
   {
     "class_id": "FL1006.02",
@@ -29648,7 +34162,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 528
+    "class_number_group_id": 620
   },
   {
     "class_id": "FL1006.03",
@@ -29690,7 +34204,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 527
+    "class_number_group_id": 619
   },
   {
     "class_id": "FL1006.04",
@@ -29732,7 +34246,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 528
+    "class_number_group_id": 620
   },
   {
     "class_id": "FL1006.05",
@@ -29774,7 +34288,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 529
+    "class_number_group_id": 621
   },
   {
     "class_id": "FL1006.06",
@@ -29816,7 +34330,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 527
+    "class_number_group_id": 619
   },
   {
     "class_id": "FL1006.07",
@@ -29858,7 +34372,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 528
+    "class_number_group_id": 620
   },
   {
     "class_id": "FL1006.08",
@@ -29900,7 +34414,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 529
+    "class_number_group_id": 621
   },
   {
     "class_id": "FL1006.09",
@@ -29942,7 +34456,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 527
+    "class_number_group_id": 619
   },
   {
     "class_id": "FL1006.10",
@@ -29959,7 +34473,7 @@ const classInfo = [
     "teaching_language": "英语",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 20,
     "maximum_students": 43,
     "target_classes": null,
     "course_number": "FL1006",
@@ -29984,7 +34498,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 528
+    "class_number_group_id": 620
   },
   {
     "class_id": "FL1006.11",
@@ -30026,7 +34540,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 527
+    "class_number_group_id": 619
   },
   {
     "class_id": "FL1006.12",
@@ -30068,7 +34582,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 528
+    "class_number_group_id": 620
   },
   {
     "class_id": "FL1006.13",
@@ -30110,7 +34624,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 529
+    "class_number_group_id": 621
   },
   {
     "class_id": "FL1006.14",
@@ -30152,7 +34666,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 529
+    "class_number_group_id": 621
   },
   {
     "class_id": "FL1006.17",
@@ -30194,7 +34708,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 530
+    "class_number_group_id": 622
   },
   {
     "class_id": "FL1006.18",
@@ -30236,7 +34750,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 531
+    "class_number_group_id": 623
   },
   {
     "class_id": "FL1006.19",
@@ -30278,7 +34792,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 530
+    "class_number_group_id": 622
   },
   {
     "class_id": "FL1006.20",
@@ -30320,7 +34834,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 531
+    "class_number_group_id": 623
   },
   {
     "class_id": "FL1006.21",
@@ -30362,7 +34876,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 531
+    "class_number_group_id": 623
   },
   {
     "class_id": "FL1006.22",
@@ -30404,7 +34918,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 530
+    "class_number_group_id": 622
   },
   {
     "class_id": "FL1006.23",
@@ -30446,7 +34960,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 531
+    "class_number_group_id": 623
   },
   {
     "class_id": "FL1006.24",
@@ -30488,7 +35002,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 530
+    "class_number_group_id": 622
   },
   {
     "class_id": "FL1006.25",
@@ -30530,7 +35044,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 531
+    "class_number_group_id": 623
   },
   {
     "class_id": "FL1008.01",
@@ -30572,7 +35086,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 532
+    "class_number_group_id": 624
   },
   {
     "class_id": "FL1008.02",
@@ -30614,7 +35128,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 533
+    "class_number_group_id": 625
   },
   {
     "class_id": "FL1008.03",
@@ -30656,7 +35170,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 534
+    "class_number_group_id": 626
   },
   {
     "class_id": "FL1008.04",
@@ -30698,7 +35212,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 535
+    "class_number_group_id": 627
   },
   {
     "class_id": "FL1008.05",
@@ -30740,7 +35254,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 532
+    "class_number_group_id": 624
   },
   {
     "class_id": "FL1009.11",
@@ -30782,7 +35296,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 536
+    "class_number_group_id": 628
   },
   {
     "class_id": "FL1011.01",
@@ -30824,7 +35338,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 537
+    "class_number_group_id": 629
   },
   {
     "class_id": "FL1011.02",
@@ -30866,7 +35380,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 538
+    "class_number_group_id": 630
   },
   {
     "class_id": "FL1011.03",
@@ -30908,7 +35422,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 539
+    "class_number_group_id": 631
   },
   {
     "class_id": "FL1011.04",
@@ -30950,7 +35464,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 540
+    "class_number_group_id": 632
   },
   {
     "class_id": "FL1011.05",
@@ -30992,7 +35506,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 541
+    "class_number_group_id": 633
   },
   {
     "class_id": "FL1011.06",
@@ -31034,7 +35548,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 542
+    "class_number_group_id": 634
   },
   {
     "class_id": "FL1011.07",
@@ -31076,7 +35590,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 543
+    "class_number_group_id": 635
   },
   {
     "class_id": "FL1011.08",
@@ -31118,7 +35632,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 544
+    "class_number_group_id": 636
   },
   {
     "class_id": "FL1011.09",
@@ -31160,7 +35674,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 545
+    "class_number_group_id": 637
   },
   {
     "class_id": "FL1011.10",
@@ -31183,7 +35697,7 @@ const classInfo = [
     "course_number": "FL1011",
     "class_number": "10",
     "parsed_time_location": [],
-    "class_number_group_id": 546
+    "class_number_group_id": 638
   },
   {
     "class_id": "FL1015.01",
@@ -31194,7 +35708,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31225,7 +35739,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 547
+    "class_number_group_id": 639
   },
   {
     "class_id": "FL1015.02",
@@ -31236,7 +35750,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31267,7 +35781,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 548
+    "class_number_group_id": 640
   },
   {
     "class_id": "FL1015.03",
@@ -31278,7 +35792,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31309,7 +35823,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 549
+    "class_number_group_id": 641
   },
   {
     "class_id": "FL1015.04",
@@ -31320,7 +35834,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31351,7 +35865,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 550
+    "class_number_group_id": 642
   },
   {
     "class_id": "FL1015.05",
@@ -31362,7 +35876,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31393,7 +35907,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 551
+    "class_number_group_id": 643
   },
   {
     "class_id": "FL1015.06",
@@ -31404,7 +35918,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31435,7 +35949,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 552
+    "class_number_group_id": 644
   },
   {
     "class_id": "FL1015.07",
@@ -31446,7 +35960,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31477,7 +35991,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 547
+    "class_number_group_id": 639
   },
   {
     "class_id": "FL1015.08",
@@ -31488,7 +36002,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31519,7 +36033,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 549
+    "class_number_group_id": 641
   },
   {
     "class_id": "FL1015.09",
@@ -31530,7 +36044,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31561,7 +36075,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 551
+    "class_number_group_id": 643
   },
   {
     "class_id": "FL1015.10",
@@ -31572,7 +36086,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31603,7 +36117,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 552
+    "class_number_group_id": 644
   },
   {
     "class_id": "FL1015.11",
@@ -31614,7 +36128,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31645,7 +36159,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 547
+    "class_number_group_id": 639
   },
   {
     "class_id": "FL1015.12",
@@ -31656,7 +36170,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31687,7 +36201,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 548
+    "class_number_group_id": 640
   },
   {
     "class_id": "FL1015.13",
@@ -31698,7 +36212,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31710,7 +36224,7 @@ const classInfo = [
     "course_number": "FL1015",
     "class_number": "13",
     "parsed_time_location": [],
-    "class_number_group_id": 553
+    "class_number_group_id": 645
   },
   {
     "class_id": "FL1015.14",
@@ -31721,7 +36235,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31733,7 +36247,7 @@ const classInfo = [
     "course_number": "FL1015",
     "class_number": "14",
     "parsed_time_location": [],
-    "class_number_group_id": 553
+    "class_number_group_id": 645
   },
   {
     "class_id": "FL1015.21",
@@ -31744,7 +36258,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31775,7 +36289,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 554
+    "class_number_group_id": 646
   },
   {
     "class_id": "FL1015.22",
@@ -31786,7 +36300,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31817,7 +36331,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 555
+    "class_number_group_id": 647
   },
   {
     "class_id": "FL1015.23",
@@ -31828,7 +36342,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31859,7 +36373,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 556
+    "class_number_group_id": 648
   },
   {
     "class_id": "FL1015.24",
@@ -31870,7 +36384,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31901,7 +36415,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 557
+    "class_number_group_id": 649
   },
   {
     "class_id": "FL1015.25",
@@ -31912,7 +36426,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31943,7 +36457,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 556
+    "class_number_group_id": 648
   },
   {
     "class_id": "FL1015.26",
@@ -31954,7 +36468,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -31985,7 +36499,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 554
+    "class_number_group_id": 646
   },
   {
     "class_id": "FL1015.27",
@@ -31996,7 +36510,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -32027,7 +36541,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 555
+    "class_number_group_id": 647
   },
   {
     "class_id": "FL1016.01",
@@ -32038,7 +36552,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -32069,7 +36583,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 558
+    "class_number_group_id": 650
   },
   {
     "class_id": "FL1016.02",
@@ -32080,7 +36594,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -32111,7 +36625,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 559
+    "class_number_group_id": 651
   },
   {
     "class_id": "FL1016.03",
@@ -32122,7 +36636,7 @@ const classInfo = [
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
-    "class_type": "英语",
+    "class_type": "英语拓展",
     "course_category": null,
     "course_type": "理论课",
     "teaching_language": "中文",
@@ -32153,7 +36667,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 560
+    "class_number_group_id": 652
   },
   {
     "class_id": "FL1102A.01",
@@ -32195,7 +36709,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 561
+    "class_number_group_id": 653
   },
   {
     "class_id": "FL1102A.02",
@@ -32237,7 +36751,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 562
+    "class_number_group_id": 654
   },
   {
     "class_id": "FL1102A.03",
@@ -32279,7 +36793,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 563
+    "class_number_group_id": 655
   },
   {
     "class_id": "FL1102B.01",
@@ -32321,7 +36835,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 564
+    "class_number_group_id": 656
   },
   {
     "class_id": "FL1102B.02",
@@ -32363,7 +36877,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 565
+    "class_number_group_id": 657
   },
   {
     "class_id": "FL1103A.01",
@@ -32405,7 +36919,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 566
+    "class_number_group_id": 658
   },
   {
     "class_id": "FL1105A.01",
@@ -32447,7 +36961,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 567
+    "class_number_group_id": 659
   },
   {
     "class_id": "FL1110A.05",
@@ -32489,7 +37003,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 568
+    "class_number_group_id": 660
   },
   {
     "class_id": "FL1115A.01",
@@ -32531,7 +37045,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 569
+    "class_number_group_id": 661
   },
   {
     "class_id": "FL1115A.02",
@@ -32573,7 +37087,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 570
+    "class_number_group_id": 662
   },
   {
     "class_id": "FL1115A.03",
@@ -32615,7 +37129,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 571
+    "class_number_group_id": 663
   },
   {
     "class_id": "FL1115A.04",
@@ -32657,7 +37171,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 572
+    "class_number_group_id": 664
   },
   {
     "class_id": "FL1115A.05",
@@ -32699,7 +37213,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 573
+    "class_number_group_id": 665
   },
   {
     "class_id": "FL1115A.06",
@@ -32741,7 +37255,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 574
+    "class_number_group_id": 666
   },
   {
     "class_id": "FL1115A.07",
@@ -32783,7 +37297,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 575
+    "class_number_group_id": 667
   },
   {
     "class_id": "FL1115A.08",
@@ -32825,7 +37339,57 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 576
+    "class_number_group_id": 668
+  },
+  {
+    "class_id": "FL1501.02",
+    "course_name": "西南联大英文导读",
+    "department": "102 通识教育中心",
+    "teachers": "任晓涛",
+    "time_location": "1~16周 5505: 1(8,9) 1(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "科技与人文",
+    "course_type": "理论课",
+    "teaching_language": "双语",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "FL1501",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5505",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 669
   },
   {
     "class_id": "FL1502.01",
@@ -32867,7 +37431,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 577
+    "class_number_group_id": 670
   },
   {
     "class_id": "FL1503.01",
@@ -32909,7 +37473,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 578
+    "class_number_group_id": 671
   },
   {
     "class_id": "FL1506.03",
@@ -32958,7 +37522,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 579
+    "class_number_group_id": 672
   },
   {
     "class_id": "FL1507.01",
@@ -33007,7 +37571,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 580
+    "class_number_group_id": 673
   },
   {
     "class_id": "FL1508.01",
@@ -33056,7 +37620,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 581
+    "class_number_group_id": 674
   },
   {
     "class_id": "FL1508.02",
@@ -33106,7 +37670,30 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 582
+    "class_number_group_id": 675
+  },
+  {
+    "class_id": "FORL6102U.86",
+    "course_name": "日常交流英语",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "地点待定: 2(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 20,
+    "target_classes": null,
+    "course_number": "FORL6102U",
+    "class_number": "86",
+    "parsed_time_location": [],
+    "class_number_group_id": 676
   },
   {
     "class_id": "FS1001.01",
@@ -33129,7 +37716,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.02",
@@ -33152,7 +37739,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "02",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.03",
@@ -33175,7 +37762,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "03",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.04",
@@ -33198,7 +37785,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "04",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.05",
@@ -33221,7 +37808,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "05",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.06",
@@ -33244,7 +37831,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "06",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.07",
@@ -33267,7 +37854,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "07",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.08",
@@ -33290,7 +37877,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "08",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.09",
@@ -33313,7 +37900,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "09",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0A",
@@ -33336,7 +37923,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0A",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0B",
@@ -33359,7 +37946,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0B",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0C",
@@ -33382,7 +37969,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0C",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0D",
@@ -33405,7 +37992,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0D",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0E",
@@ -33428,7 +38015,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0E",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0F",
@@ -33451,7 +38038,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0F",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0G",
@@ -33474,7 +38061,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0G",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0H",
@@ -33497,7 +38084,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0H",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0I",
@@ -33520,7 +38107,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0I",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0J",
@@ -33543,7 +38130,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0J",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0K",
@@ -33566,7 +38153,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0K",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0L",
@@ -33589,7 +38176,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0L",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0M",
@@ -33612,7 +38199,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0M",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0N",
@@ -33635,7 +38222,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0N",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0O",
@@ -33658,7 +38245,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0O",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0P",
@@ -33681,7 +38268,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0P",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0R",
@@ -33704,7 +38291,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0R",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0S",
@@ -33727,7 +38314,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0S",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0T",
@@ -33750,7 +38337,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0T",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0U",
@@ -33773,7 +38360,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0U",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0V",
@@ -33796,7 +38383,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0V",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0W",
@@ -33819,7 +38406,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0W",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0X",
@@ -33842,7 +38429,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0X",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0Y",
@@ -33865,7 +38452,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0Y",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.0Z",
@@ -33888,7 +38475,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "0Z",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.10",
@@ -33911,7 +38498,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "10",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.11",
@@ -33934,7 +38521,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "11",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.12",
@@ -33957,7 +38544,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "12",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.13",
@@ -33980,7 +38567,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "13",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.14",
@@ -34003,7 +38590,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "14",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.15",
@@ -34026,7 +38613,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "15",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.16",
@@ -34049,7 +38636,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "16",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.17",
@@ -34072,7 +38659,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "17",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.18",
@@ -34095,7 +38682,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "18",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.19",
@@ -34118,7 +38705,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "19",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1A",
@@ -34141,7 +38728,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1A",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1B",
@@ -34164,7 +38751,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1B",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1C",
@@ -34187,7 +38774,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1C",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1D",
@@ -34210,7 +38797,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1D",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1E",
@@ -34233,7 +38820,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1E",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1F",
@@ -34256,7 +38843,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1F",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1G",
@@ -34279,7 +38866,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1G",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1H",
@@ -34302,7 +38889,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1H",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1I",
@@ -34325,7 +38912,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1I",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1J",
@@ -34348,7 +38935,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1J",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1K",
@@ -34371,7 +38958,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1K",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1L",
@@ -34394,7 +38981,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1L",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1M",
@@ -34417,7 +39004,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1M",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1N",
@@ -34440,7 +39027,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1N",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1O",
@@ -34463,7 +39050,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1O",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1P",
@@ -34486,7 +39073,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1P",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1Q",
@@ -34509,7 +39096,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1Q",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1R",
@@ -34532,7 +39119,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1R",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1S",
@@ -34555,7 +39142,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1S",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1T",
@@ -34578,7 +39165,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1T",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1U",
@@ -34601,7 +39188,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1U",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1V",
@@ -34624,7 +39211,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1V",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1W",
@@ -34647,7 +39234,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1W",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1X",
@@ -34670,7 +39257,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1X",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1Y",
@@ -34693,7 +39280,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1Y",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.1Z",
@@ -34716,7 +39303,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "1Z",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.20",
@@ -34739,7 +39326,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "20",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.21",
@@ -34762,7 +39349,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "21",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.22",
@@ -34785,7 +39372,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "22",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.23",
@@ -34808,7 +39395,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "23",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.24",
@@ -34831,7 +39418,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "24",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.25",
@@ -34854,7 +39441,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "25",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.26",
@@ -34877,7 +39464,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "26",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.27",
@@ -34900,7 +39487,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "27",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.28",
@@ -34923,7 +39510,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "28",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.29",
@@ -34946,7 +39533,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "29",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2A",
@@ -34969,7 +39556,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2A",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2B",
@@ -34992,7 +39579,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2B",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2C",
@@ -35009,13 +39596,13 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 9,
+    "enrolled_students": 8,
     "maximum_students": 9,
     "target_classes": "25级210院01班",
     "course_number": "FS1001",
     "class_number": "2C",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2E",
@@ -35038,7 +39625,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2E",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2F",
@@ -35061,7 +39648,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2F",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2G",
@@ -35084,7 +39671,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2G",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2H",
@@ -35107,7 +39694,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2H",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2J",
@@ -35130,7 +39717,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2J",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2K",
@@ -35153,7 +39740,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2K",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2L",
@@ -35176,7 +39763,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2L",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2M",
@@ -35199,7 +39786,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2M",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2N",
@@ -35222,7 +39809,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2N",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2O",
@@ -35245,7 +39832,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2O",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2P",
@@ -35268,7 +39855,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2P",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2R",
@@ -35291,7 +39878,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2R",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2S",
@@ -35314,7 +39901,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2S",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2T",
@@ -35337,7 +39924,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2T",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2U",
@@ -35360,7 +39947,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2U",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2V",
@@ -35383,7 +39970,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2V",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2W",
@@ -35406,7 +39993,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2W",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2X",
@@ -35429,7 +40016,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2X",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.2Y",
@@ -35452,7 +40039,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "2Y",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.30",
@@ -35475,7 +40062,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "30",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.32",
@@ -35498,7 +40085,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "32",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.33",
@@ -35521,7 +40108,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "33",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.34",
@@ -35544,7 +40131,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "34",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.35",
@@ -35567,7 +40154,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "35",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.36",
@@ -35584,13 +40171,13 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 9,
+    "enrolled_students": 8,
     "maximum_students": 9,
     "target_classes": "25级000院07班",
     "course_number": "FS1001",
     "class_number": "36",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.37",
@@ -35613,7 +40200,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "37",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.38",
@@ -35636,7 +40223,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "38",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.39",
@@ -35659,7 +40246,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "39",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3A",
@@ -35682,7 +40269,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3A",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3B",
@@ -35705,7 +40292,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3B",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3C",
@@ -35728,7 +40315,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3C",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3D",
@@ -35751,7 +40338,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3D",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3E",
@@ -35774,7 +40361,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3E",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3F",
@@ -35797,7 +40384,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3F",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3G",
@@ -35820,7 +40407,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3G",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3H",
@@ -35843,7 +40430,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3H",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3I",
@@ -35866,7 +40453,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3I",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3K",
@@ -35889,7 +40476,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3K",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3L",
@@ -35912,7 +40499,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3L",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3N",
@@ -35935,7 +40522,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3N",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3O",
@@ -35958,7 +40545,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3O",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3P",
@@ -35981,7 +40568,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3P",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3Q",
@@ -36004,7 +40591,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3Q",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3R",
@@ -36027,7 +40614,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3R",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3S",
@@ -36050,7 +40637,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3S",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3T",
@@ -36073,7 +40660,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3T",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3U",
@@ -36096,7 +40683,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3U",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3V",
@@ -36119,7 +40706,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3V",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3W",
@@ -36142,7 +40729,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3W",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3X",
@@ -36165,7 +40752,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3X",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3Y",
@@ -36188,7 +40775,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3Y",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.3Z",
@@ -36211,7 +40798,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "3Z",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.40",
@@ -36234,7 +40821,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "40",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.42",
@@ -36257,7 +40844,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "42",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.43",
@@ -36280,7 +40867,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "43",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.44",
@@ -36303,7 +40890,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "44",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.45",
@@ -36326,7 +40913,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "45",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.46",
@@ -36349,7 +40936,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "46",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.47",
@@ -36372,7 +40959,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "47",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.48",
@@ -36395,7 +40982,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "48",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.49",
@@ -36418,7 +41005,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "49",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4A",
@@ -36441,7 +41028,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4A",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4B",
@@ -36464,7 +41051,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4B",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4C",
@@ -36487,7 +41074,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4C",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4D",
@@ -36510,7 +41097,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4D",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4E",
@@ -36533,7 +41120,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4E",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4F",
@@ -36556,7 +41143,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4F",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4G",
@@ -36579,7 +41166,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4G",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4H",
@@ -36602,7 +41189,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4H",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4I",
@@ -36625,7 +41212,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4I",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4J",
@@ -36648,7 +41235,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4J",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4K",
@@ -36671,7 +41258,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4K",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4L",
@@ -36694,7 +41281,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4L",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4M",
@@ -36717,7 +41304,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4M",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4N",
@@ -36740,7 +41327,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4N",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4O",
@@ -36763,7 +41350,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4O",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4P",
@@ -36786,7 +41373,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4P",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4Q",
@@ -36809,7 +41396,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4Q",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4R",
@@ -36832,7 +41419,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4R",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4S",
@@ -36855,7 +41442,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4S",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4T",
@@ -36878,7 +41465,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4T",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4U",
@@ -36901,7 +41488,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4U",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4V",
@@ -36924,7 +41511,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4V",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4W",
@@ -36947,7 +41534,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4W",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4X",
@@ -36970,7 +41557,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4X",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.4Z",
@@ -36993,7 +41580,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "4Z",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.50",
@@ -37016,7 +41603,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "50",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.51",
@@ -37039,7 +41626,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "51",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.52",
@@ -37062,7 +41649,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "52",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.53",
@@ -37085,7 +41672,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "53",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.54",
@@ -37108,7 +41695,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "54",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.55",
@@ -37131,7 +41718,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "55",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.56",
@@ -37154,7 +41741,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "56",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.57",
@@ -37177,7 +41764,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "57",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.58",
@@ -37200,7 +41787,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "58",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.59",
@@ -37223,7 +41810,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "59",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.60",
@@ -37246,7 +41833,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "60",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.61",
@@ -37269,7 +41856,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "61",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.62",
@@ -37292,7 +41879,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "62",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.63",
@@ -37315,7 +41902,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "63",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.64",
@@ -37338,7 +41925,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "64",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.65",
@@ -37361,7 +41948,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "65",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.66",
@@ -37384,7 +41971,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "66",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.67",
@@ -37407,7 +41994,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "67",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.68",
@@ -37430,7 +42017,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "68",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.69",
@@ -37453,7 +42040,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "69",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.70",
@@ -37476,7 +42063,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "70",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.71",
@@ -37499,7 +42086,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "71",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.72",
@@ -37516,13 +42103,13 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 10,
+    "enrolled_students": 9,
     "maximum_students": 10,
     "target_classes": "25级203院04班",
     "course_number": "FS1001",
     "class_number": "72",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.73",
@@ -37545,7 +42132,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "73",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.74",
@@ -37568,7 +42155,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "74",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.75",
@@ -37591,7 +42178,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "75",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.76",
@@ -37614,7 +42201,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "76",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.77",
@@ -37637,7 +42224,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "77",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.78",
@@ -37660,7 +42247,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "78",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.79",
@@ -37683,7 +42270,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "79",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.80",
@@ -37706,7 +42293,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "80",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.82",
@@ -37729,7 +42316,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "82",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.83",
@@ -37752,7 +42339,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "83",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.84",
@@ -37775,7 +42362,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "84",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.85",
@@ -37798,7 +42385,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "85",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.86",
@@ -37821,7 +42408,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "86",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.87",
@@ -37844,7 +42431,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "87",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.88",
@@ -37867,7 +42454,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "88",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.89",
@@ -37890,7 +42477,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "89",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.8A",
@@ -37913,7 +42500,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "8A",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.8B",
@@ -37936,7 +42523,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "8B",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.90",
@@ -37959,7 +42546,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "90",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.91",
@@ -37982,7 +42569,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "91",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.92",
@@ -38005,7 +42592,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "92",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.93",
@@ -38028,7 +42615,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "93",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.94",
@@ -38051,7 +42638,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "94",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.95",
@@ -38074,7 +42661,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "95",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.96",
@@ -38097,7 +42684,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "96",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.97",
@@ -38120,7 +42707,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "97",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.98",
@@ -38143,7 +42730,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "98",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "FS1001.99",
@@ -38166,7 +42753,7 @@ const classInfo = [
     "course_number": "FS1001",
     "class_number": "99",
     "parsed_time_location": [],
-    "class_number_group_id": 583
+    "class_number_group_id": 677
   },
   {
     "class_id": "GEOL3001.01",
@@ -38183,7 +42770,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 4,
     "maximum_students": 10,
     "target_classes": "23地球化学,23行星科学",
     "course_number": "GEOL3001",
@@ -38228,7 +42815,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 584
+    "class_number_group_id": 678
   },
   {
     "class_id": "GEOL3002.01",
@@ -38245,7 +42832,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 4,
     "maximum_students": 10,
     "target_classes": "23地球化学,23行星科学",
     "course_number": "GEOL3002",
@@ -38288,7 +42875,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 585
+    "class_number_group_id": 679
   },
   {
     "class_id": "GEOP2702.01",
@@ -38305,7 +42892,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 26,
     "maximum_students": 26,
     "target_classes": "24地球物理学(强基)",
     "course_number": "GEOP2702",
@@ -38350,7 +42937,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 586
+    "class_number_group_id": 680
   },
   {
     "class_id": "GEOP3003.01",
@@ -38367,7 +42954,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 19,
     "maximum_students": 19,
     "target_classes": "23地球物理学*",
     "course_number": "GEOP3003",
@@ -38399,7 +42986,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 587
+    "class_number_group_id": 681
   },
   {
     "class_id": "GEOP3004.01",
@@ -38416,7 +43003,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 19,
     "maximum_students": 19,
     "target_classes": "23地球物理学*",
     "course_number": "GEOP3004",
@@ -38443,7 +43030,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 588
+    "class_number_group_id": 682
   },
   {
     "class_id": "GEOP3006.01",
@@ -38460,7 +43047,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 37,
     "maximum_students": 36,
     "target_classes": "23空间探测仪器与技术,23空间物理",
     "course_number": "GEOP3006",
@@ -38507,7 +43094,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 589
+    "class_number_group_id": 683
   },
   {
     "class_id": "GEOP3008.01",
@@ -38524,7 +43111,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 23,
     "target_classes": "23空间物理",
     "course_number": "GEOP3008",
@@ -38550,7 +43137,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 590
+    "class_number_group_id": 684
   },
   {
     "class_id": "GEOP3009.01",
@@ -38567,7 +43154,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 24,
     "maximum_students": 23,
     "target_classes": "23空间物理",
     "course_number": "GEOP3009",
@@ -38652,7 +43239,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 591
+    "class_number_group_id": 685
   },
   {
     "class_id": "GEOP4001.01",
@@ -38695,7 +43282,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 592
+    "class_number_group_id": 686
   },
   {
     "class_id": "GEOP4002.01",
@@ -38718,7 +43305,7 @@ const classInfo = [
     "course_number": "GEOP4002",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 593
+    "class_number_group_id": 687
   },
   {
     "class_id": "HS1503.01",
@@ -38761,7 +43348,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 594
+    "class_number_group_id": 688
   },
   {
     "class_id": "HS1504.02",
@@ -38823,7 +43410,49 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 595
+    "class_number_group_id": 689
+  },
+  {
+    "class_id": "HS1509M.01",
+    "course_name": "经济与社会：如何用决策思维洞察生活",
+    "department": "102 通识教育中心",
+    "teachers": "慕课教师",
+    "time_location": "12~13周 5104: 4(6,7)",
+    "credit": 1.5,
+    "hours": 28,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "经济与法律",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "HS1509M",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 12,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "5104",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 690
   },
   {
     "class_id": "HS1519.01",
@@ -38866,7 +43495,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 596
+    "class_number_group_id": 691
   },
   {
     "class_id": "HS1519.02",
@@ -38909,7 +43538,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 597
+    "class_number_group_id": 692
   },
   {
     "class_id": "HS1520.01",
@@ -38952,7 +43581,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 598
+    "class_number_group_id": 693
   },
   {
     "class_id": "HS1520.04",
@@ -38995,7 +43624,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 599
+    "class_number_group_id": 694
   },
   {
     "class_id": "HS1521.01",
@@ -39038,7 +43667,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 600
+    "class_number_group_id": 695
   },
   {
     "class_id": "HS1524.01",
@@ -39080,7 +43709,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 601
+    "class_number_group_id": 696
   },
   {
     "class_id": "HS1528.02",
@@ -39130,7 +43759,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 602
+    "class_number_group_id": 697
   },
   {
     "class_id": "HS1531.10",
@@ -39173,7 +43802,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 603
+    "class_number_group_id": 698
   },
   {
     "class_id": "HS1531.11",
@@ -39216,7 +43845,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 604
+    "class_number_group_id": 699
   },
   {
     "class_id": "HS1531.12",
@@ -39259,7 +43888,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 605
+    "class_number_group_id": 700
   },
   {
     "class_id": "HS1531.13",
@@ -39302,7 +43931,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 606
+    "class_number_group_id": 701
   },
   {
     "class_id": "HS1531.14",
@@ -39345,7 +43974,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 607
+    "class_number_group_id": 702
   },
   {
     "class_id": "HS1531.15",
@@ -39388,7 +44017,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 608
+    "class_number_group_id": 703
   },
   {
     "class_id": "HS1531.16",
@@ -39431,7 +44060,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 609
+    "class_number_group_id": 704
   },
   {
     "class_id": "HS1531.17",
@@ -39474,7 +44103,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 604
+    "class_number_group_id": 699
   },
   {
     "class_id": "HS1531.18",
@@ -39517,7 +44146,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 610
+    "class_number_group_id": 705
   },
   {
     "class_id": "HS1532.01",
@@ -39560,7 +44189,50 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 611
+    "class_number_group_id": 706
+  },
+  {
+    "class_id": "HS1538.02",
+    "course_name": "西方社会思想简史",
+    "department": "102 通识教育中心",
+    "teachers": "姚德薇",
+    "time_location": "1~14周 5107: 2(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "哲学与社会",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "HS1538",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "5107",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 707
   },
   {
     "class_id": "HS1547.02",
@@ -39578,7 +44250,7 @@ const classInfo = [
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
     "enrolled_students": 0,
-    "maximum_students": 60,
+    "maximum_students": 40,
     "target_classes": null,
     "course_number": "HS1547",
     "class_number": "02",
@@ -39602,7 +44274,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 612
+    "class_number_group_id": 708
   },
   {
     "class_id": "HS1548.01",
@@ -39645,7 +44317,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 613
+    "class_number_group_id": 709
   },
   {
     "class_id": "HS1549.01",
@@ -39688,14 +44360,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 614
+    "class_number_group_id": 710
   },
   {
     "class_id": "HS1550.01",
     "course_name": "绘画基础(素描)",
     "department": "109 艺术教学中心",
     "teachers": "方浩",
-    "time_location": "1~8周 ARTS305: 1(11,12,13)\n9~16周 ARTS305: 1(11,12)",
+    "time_location": "1~7,16周 ARTS305: 1(11,12,13)\n8~15周 ARTS305: 1(11,12)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -39713,27 +44385,8 @@ const classInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 8,
-          "week_type": null
-        },
-        "location": "ARTS305",
-        "campus": 0,
-        "time_slots": [
-          {
-            "day_of_week": 1,
-            "periods": [
-              11,
-              12,
-              13
-            ]
-          }
-        ]
-      },
-      {
-        "week_info": {
-          "start_week": 9,
-          "end_week": 16,
+          "start_week": 8,
+          "end_week": 15,
           "week_type": null
         },
         "location": "ARTS305",
@@ -39749,14 +44402,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 615
+    "class_number_group_id": 711
   },
   {
     "class_id": "HS1550.03",
     "course_name": "绘画基础(素描)",
     "department": "109 艺术教学中心",
     "teachers": "方浩",
-    "time_location": "1~8周 ARTS305: 2(11,12,13)\n9~16周 ARTS305: 2(11,12)",
+    "time_location": "1~7,16周 ARTS305: 2(11,12,13)\n8~15周 ARTS305: 2(11,12)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -39774,27 +44427,8 @@ const classInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 8,
-          "week_type": null
-        },
-        "location": "ARTS305",
-        "campus": 0,
-        "time_slots": [
-          {
-            "day_of_week": 2,
-            "periods": [
-              11,
-              12,
-              13
-            ]
-          }
-        ]
-      },
-      {
-        "week_info": {
-          "start_week": 9,
-          "end_week": 16,
+          "start_week": 8,
+          "end_week": 15,
           "week_type": null
         },
         "location": "ARTS305",
@@ -39810,7 +44444,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 616
+    "class_number_group_id": 712
   },
   {
     "class_id": "HS1551.02",
@@ -39853,14 +44487,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 617
+    "class_number_group_id": 713
   },
   {
     "class_id": "HS1553G.02",
     "course_name": "色彩基础",
     "department": "109 艺术教学中心",
     "teachers": "方浩",
-    "time_location": "1~8周 ARTS305: 3(11,12)\n9~16周 ARTS305: 3(11,12,13)",
+    "time_location": "1~7,16周 ARTS305: 3(11,12,13)\n8~15周 ARTS305: 3(11,12)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -39878,8 +44512,8 @@ const classInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 8,
+          "start_week": 8,
+          "end_week": 15,
           "week_type": null
         },
         "location": "ARTS305",
@@ -39893,28 +44527,9 @@ const classInfo = [
             ]
           }
         ]
-      },
-      {
-        "week_info": {
-          "start_week": 9,
-          "end_week": 16,
-          "week_type": null
-        },
-        "location": "ARTS305",
-        "campus": 0,
-        "time_slots": [
-          {
-            "day_of_week": 3,
-            "periods": [
-              11,
-              12,
-              13
-            ]
-          }
-        ]
       }
     ],
-    "class_number_group_id": 618
+    "class_number_group_id": 714
   },
   {
     "class_id": "HS1554.01",
@@ -39957,7 +44572,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 619
+    "class_number_group_id": 715
   },
   {
     "class_id": "HS1554.03",
@@ -40000,7 +44615,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 620
+    "class_number_group_id": 716
   },
   {
     "class_id": "HS1557.01",
@@ -40042,7 +44657,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 621
+    "class_number_group_id": 717
   },
   {
     "class_id": "HS1559.01",
@@ -40085,7 +44700,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 622
+    "class_number_group_id": 718
   },
   {
     "class_id": "HS1560.01",
@@ -40128,7 +44743,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 623
+    "class_number_group_id": 719
   },
   {
     "class_id": "HS1560.03",
@@ -40171,7 +44786,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 624
+    "class_number_group_id": 720
   },
   {
     "class_id": "HS1561.01",
@@ -40214,7 +44829,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 625
+    "class_number_group_id": 721
   },
   {
     "class_id": "HS1561.03",
@@ -40257,7 +44872,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 626
+    "class_number_group_id": 722
   },
   {
     "class_id": "HS1566.01",
@@ -40300,7 +44915,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 627
+    "class_number_group_id": 723
   },
   {
     "class_id": "HS1568.01",
@@ -40343,7 +44958,30 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 628
+    "class_number_group_id": 724
+  },
+  {
+    "class_id": "HS1577M.01",
+    "course_name": "欧洲文明的现代历程",
+    "department": "102 通识教育中心",
+    "teachers": "慕课教师",
+    "time_location": "8,11周 5102: 3(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "历史与文化",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "HS1577M",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 725
   },
   {
     "class_id": "HS1581.02",
@@ -40386,7 +45024,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 629
+    "class_number_group_id": 726
   },
   {
     "class_id": "HS1584.02",
@@ -40429,7 +45067,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 630
+    "class_number_group_id": 727
   },
   {
     "class_id": "HS1589.01",
@@ -40472,7 +45110,41 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 631
+    "class_number_group_id": 728
+  },
+  {
+    "class_id": "HS1591.01",
+    "course_name": "科学精神",
+    "department": "102 通识教育中心",
+    "teachers": "罗毅,袁岚峰,石云里",
+    "time_location": "3~12周 5205: 1(19:00~21:15)",
+    "credit": 1.5,
+    "hours": 30,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "科技与人文",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "HS1591",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "5205",
+        "campus": 1,
+        "time_slots": []
+      }
+    ],
+    "class_number_group_id": 729
   },
   {
     "class_id": "HS1593.01",
@@ -40515,7 +45187,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 632
+    "class_number_group_id": 730
   },
   {
     "class_id": "HS1594.01",
@@ -40558,7 +45230,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 633
+    "class_number_group_id": 731
   },
   {
     "class_id": "HS1597.02",
@@ -40601,7 +45273,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 634
+    "class_number_group_id": 732
   },
   {
     "class_id": "HS1605.01",
@@ -40644,7 +45316,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 635
+    "class_number_group_id": 733
   },
   {
     "class_id": "HS1606.01",
@@ -40689,7 +45361,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 636
+    "class_number_group_id": 734
   },
   {
     "class_id": "HS1608.01",
@@ -40732,7 +45404,49 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 637
+    "class_number_group_id": 735
+  },
+  {
+    "class_id": "HS1610M.01",
+    "course_name": "中国古典诗词中的品格与修养",
+    "department": "102 通识教育中心",
+    "teachers": "慕课教师",
+    "time_location": "1~16周 5204: 5(8,9)",
+    "credit": 1.5,
+    "hours": 30,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "艺术与审美",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "HS1610M",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5204",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 736
   },
   {
     "class_id": "HS1611.01",
@@ -40794,7 +45508,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 638
+    "class_number_group_id": 737
   },
   {
     "class_id": "HS1612.02",
@@ -40828,7 +45542,7 @@ const classInfo = [
         "time_slots": []
       }
     ],
-    "class_number_group_id": 639
+    "class_number_group_id": 738
   },
   {
     "class_id": "HS1616.01",
@@ -40871,7 +45585,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 640
+    "class_number_group_id": 739
   },
   {
     "class_id": "HS1620.01",
@@ -40914,7 +45628,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 641
+    "class_number_group_id": 740
   },
   {
     "class_id": "HS1620.03",
@@ -40957,7 +45671,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 642
+    "class_number_group_id": 741
   },
   {
     "class_id": "HS1628.01",
@@ -41000,7 +45714,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 643
+    "class_number_group_id": 742
   },
   {
     "class_id": "HS1629.02",
@@ -41034,7 +45748,7 @@ const classInfo = [
         "time_slots": []
       }
     ],
-    "class_number_group_id": 644
+    "class_number_group_id": 743
   },
   {
     "class_id": "HS1635.01",
@@ -41077,7 +45791,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 645
+    "class_number_group_id": 744
   },
   {
     "class_id": "HS1636.02",
@@ -41120,7 +45834,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 646
+    "class_number_group_id": 745
   },
   {
     "class_id": "HS1638.02",
@@ -41163,7 +45877,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 647
+    "class_number_group_id": 746
   },
   {
     "class_id": "HS1639.01",
@@ -41206,7 +45920,49 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 648
+    "class_number_group_id": 747
+  },
+  {
+    "class_id": "HS1641M.01",
+    "course_name": "《红楼梦》的空间艺术",
+    "department": "102 通识教育中心",
+    "teachers": "慕课教师",
+    "time_location": "1~16周 3A206: 5(8,9)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "艺术与审美",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "HS1641M",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "3A206",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 748
   },
   {
     "class_id": "HS1647.01",
@@ -41249,7 +46005,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 649
+    "class_number_group_id": 749
   },
   {
     "class_id": "HS1647.02",
@@ -41292,7 +46048,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 650
+    "class_number_group_id": 750
   },
   {
     "class_id": "HS1647.05",
@@ -41335,7 +46091,50 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 651
+    "class_number_group_id": 751
+  },
+  {
+    "class_id": "HS1648.03",
+    "course_name": "生活中的公共事务",
+    "department": "102 通识教育中心",
+    "teachers": "尚虎平,王善勇,万亮",
+    "time_location": "1~14周 5203: 4(11,12,13)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "经济与法律",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 200,
+    "target_classes": null,
+    "course_number": "HS1648",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "5203",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 752
   },
   {
     "class_id": "HS1651.01",
@@ -41358,7 +46157,7 @@ const classInfo = [
     "course_number": "HS1651",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 652
+    "class_number_group_id": 753
   },
   {
     "class_id": "HS1651.03",
@@ -41381,7 +46180,7 @@ const classInfo = [
     "course_number": "HS1651",
     "class_number": "03",
     "parsed_time_location": [],
-    "class_number_group_id": 652
+    "class_number_group_id": 753
   },
   {
     "class_id": "HS1653.01",
@@ -41404,7 +46203,7 @@ const classInfo = [
     "course_number": "HS1653",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 653
+    "class_number_group_id": 754
   },
   {
     "class_id": "HS1653.03",
@@ -41447,7 +46246,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 654
+    "class_number_group_id": 755
   },
   {
     "class_id": "HS1657.01",
@@ -41490,7 +46289,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 655
+    "class_number_group_id": 756
   },
   {
     "class_id": "HS1657.02",
@@ -41533,7 +46332,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 656
+    "class_number_group_id": 757
   },
   {
     "class_id": "HS1658.01",
@@ -41567,7 +46366,53 @@ const classInfo = [
         "time_slots": []
       }
     ],
-    "class_number_group_id": 657
+    "class_number_group_id": 758
+  },
+  {
+    "class_id": "HS1660M.02",
+    "course_name": "古希腊文明",
+    "department": "102 通识教育中心",
+    "teachers": "慕课教师",
+    "time_location": null,
+    "credit": 1.5,
+    "hours": 30,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "历史与文化",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 0,
+    "target_classes": null,
+    "course_number": "HS1660M",
+    "class_number": "02",
+    "parsed_time_location": [],
+    "class_number_group_id": 759
+  },
+  {
+    "class_id": "HS1662M.02",
+    "course_name": "中华传统文化与人生修养",
+    "department": "102 通识教育中心",
+    "teachers": "慕课教师",
+    "time_location": null,
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "历史与文化",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 0,
+    "target_classes": null,
+    "course_number": "HS1662M",
+    "class_number": "02",
+    "parsed_time_location": [],
+    "class_number_group_id": 760
   },
   {
     "class_id": "HS1665.01",
@@ -41610,7 +46455,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 658
+    "class_number_group_id": 761
   },
   {
     "class_id": "HS1665.03",
@@ -41653,7 +46498,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 659
+    "class_number_group_id": 762
   },
   {
     "class_id": "HS1667.01",
@@ -41696,7 +46541,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 660
+    "class_number_group_id": 763
   },
   {
     "class_id": "HS1668.01",
@@ -41739,7 +46584,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 661
+    "class_number_group_id": 764
   },
   {
     "class_id": "HS1668.02",
@@ -41782,7 +46627,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 662
+    "class_number_group_id": 765
   },
   {
     "class_id": "HS1669.01",
@@ -41825,7 +46670,136 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 663
+    "class_number_group_id": 766
+  },
+  {
+    "class_id": "HS1670.01",
+    "course_name": "现当代舞理论与实践",
+    "department": "109 艺术教学中心",
+    "teachers": "张翊琳",
+    "time_location": "1~14周 ARTS403: 2(11,12,13)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "艺术与审美",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "HS1670",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "ARTS403",
+        "campus": 0,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 767
+  },
+  {
+    "class_id": "HS1671.01",
+    "course_name": "中国古典舞经典作品鉴赏",
+    "department": "109 艺术教学中心",
+    "teachers": "张翊琳",
+    "time_location": "1~14周 3A104: 2(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "艺术与审美",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "HS1671",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A104",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 768
+  },
+  {
+    "class_id": "HS1671.02",
+    "course_name": "中国古典舞经典作品鉴赏",
+    "department": "109 艺术教学中心",
+    "teachers": "张翊琳",
+    "time_location": "1~14周 GH-412: 4(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "艺术与审美",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "HS1671",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "GH-412",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 769
   },
   {
     "class_id": "HS1672.01",
@@ -41868,7 +46842,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 664
+    "class_number_group_id": 770
   },
   {
     "class_id": "HS1673.01",
@@ -41968,7 +46942,50 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 665
+    "class_number_group_id": 771
+  },
+  {
+    "class_id": "HS1674.01",
+    "course_name": "数字公共治理与公共政策常识",
+    "department": "102 通识教育中心",
+    "teachers": "彭小宝,赵树良,高亮,蔡文静",
+    "time_location": "1~14周 5106: 3(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "经济与法律",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "HS1674",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "5106",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 772
   },
   {
     "class_id": "HS2002.01",
@@ -42010,7 +47027,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.02",
@@ -42052,7 +47069,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.03",
@@ -42094,7 +47111,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.04",
@@ -42136,7 +47153,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.05",
@@ -42178,7 +47195,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.06",
@@ -42220,7 +47237,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.07",
@@ -42262,7 +47279,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.08",
@@ -42304,7 +47321,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.09",
@@ -42346,7 +47363,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.10",
@@ -42388,7 +47405,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.11",
@@ -42430,7 +47447,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.12",
@@ -42472,7 +47489,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 667
+    "class_number_group_id": 774
   },
   {
     "class_id": "HS2002.13",
@@ -42514,7 +47531,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.14",
@@ -42556,7 +47573,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.15",
@@ -42598,7 +47615,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.16",
@@ -42640,7 +47657,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.17",
@@ -42682,7 +47699,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.18",
@@ -42724,7 +47741,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.19",
@@ -42766,7 +47783,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.20",
@@ -42808,7 +47825,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.21",
@@ -42850,7 +47867,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.22",
@@ -42892,7 +47909,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.23",
@@ -42934,7 +47951,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.24",
@@ -42976,7 +47993,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.25",
@@ -43018,7 +48035,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.26",
@@ -43060,7 +48077,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.27",
@@ -43102,7 +48119,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.28",
@@ -43144,7 +48161,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 667
+    "class_number_group_id": 774
   },
   {
     "class_id": "HS2002.29",
@@ -43186,7 +48203,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.30",
@@ -43228,7 +48245,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.32",
@@ -43270,7 +48287,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.33",
@@ -43312,7 +48329,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.34",
@@ -43354,7 +48371,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.35",
@@ -43396,7 +48413,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.36",
@@ -43413,7 +48430,7 @@ const classInfo = [
     "teaching_language": null,
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 9,
+    "enrolled_students": 8,
     "maximum_students": 9,
     "target_classes": "25级000院07班",
     "course_number": "HS2002",
@@ -43438,7 +48455,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.37",
@@ -43480,7 +48497,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 667
+    "class_number_group_id": 774
   },
   {
     "class_id": "HS2002.38",
@@ -43522,7 +48539,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.39",
@@ -43564,7 +48581,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "HS2002.40",
@@ -43606,7 +48623,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 666
+    "class_number_group_id": 773
   },
   {
     "class_id": "INEE1501.01",
@@ -43649,14 +48666,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 668
+    "class_number_group_id": 775
   },
   {
     "class_id": "INEE1507.01",
     "course_name": "设计创新实践 II",
     "department": "210 信息科学技术学院",
     "teachers": "李斌,陈志波,李卫平,宋怡",
-    "time_location": "1~4周 中校区创新实践基地: 6(2,3,4)",
+    "time_location": "2~5周 中校区创新实践基地: 6(2,3,4)",
     "credit": 2.0,
     "hours": 70,
     "education_level": "本科",
@@ -43674,8 +48691,8 @@ const classInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 4,
+          "start_week": 2,
+          "end_week": 5,
           "week_type": null
         },
         "location": "中校区创新实践基地",
@@ -43692,7 +48709,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 669
+    "class_number_group_id": 776
   },
   {
     "class_id": "INEE1509.01",
@@ -43735,7 +48752,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 670
+    "class_number_group_id": 777
   },
   {
     "class_id": "INEE1513.01",
@@ -43778,7 +48795,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 671
+    "class_number_group_id": 778
   },
   {
     "class_id": "INEE1515.01",
@@ -43820,7 +48837,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 672
+    "class_number_group_id": 779
   },
   {
     "class_id": "INEE1516.01",
@@ -43863,7 +48880,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 673
+    "class_number_group_id": 780
   },
   {
     "class_id": "INEE1517.01",
@@ -43944,7 +48961,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 674
+    "class_number_group_id": 781
   },
   {
     "class_id": "INEE1518.01",
@@ -43986,7 +49003,93 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 675
+    "class_number_group_id": 782
+  },
+  {
+    "class_id": "INTE6402Q.03",
+    "course_name": "电子信息检索",
+    "department": "302 图书馆",
+    "teachers": "樊亚芳,王青青,张素芳,张雪娟,李琛,范琼,毛杰利,方思越,王叶竹,汤雨微",
+    "time_location": "1~18周 2302: 1(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "INTE6402Q",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "2302",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 783
+  },
+  {
+    "class_id": "INTE6403Q.02",
+    "course_name": "文献管理与信息分析",
+    "department": "302 图书馆",
+    "teachers": "樊亚芳,罗昭锋",
+    "time_location": "1~18周 2103: 1(11,12,13)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "INTE6403Q",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "2103",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 784
   },
   {
     "class_id": "IS1901.02",
@@ -44029,7 +49132,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 676
+    "class_number_group_id": 785
   },
   {
     "class_id": "IS3001.01",
@@ -44153,7 +49256,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 677
+    "class_number_group_id": 786
   },
   {
     "class_id": "IS3003.01",
@@ -44195,7 +49298,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 678
+    "class_number_group_id": 787
   },
   {
     "class_id": "IS3004.01",
@@ -44244,7 +49347,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 679
+    "class_number_group_id": 788
   },
   {
     "class_id": "IS3005.01",
@@ -44325,7 +49428,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 680
+    "class_number_group_id": 789
   },
   {
     "class_id": "IS3006.01",
@@ -44406,7 +49509,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 681
+    "class_number_group_id": 790
   },
   {
     "class_id": "IS4006.01",
@@ -44450,7 +49553,50 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 682
+    "class_number_group_id": 791
+  },
+  {
+    "class_id": "LAW1501.01",
+    "course_name": "例说民法",
+    "department": "102 通识教育中心",
+    "teachers": "卜英浩",
+    "time_location": "1~14周 2104: 5(11,12,13)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "本科",
+    "class_type": "核心通识",
+    "course_category": "经济与法律",
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "LAW1501",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "2104",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 792
   },
   {
     "class_id": "MARX1005.01",
@@ -44473,7 +49619,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.02",
@@ -44496,7 +49642,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "02",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.03",
@@ -44519,7 +49665,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "03",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.04",
@@ -44542,7 +49688,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "04",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.05",
@@ -44565,7 +49711,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "05",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.06",
@@ -44588,7 +49734,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "06",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.07",
@@ -44611,7 +49757,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "07",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.08",
@@ -44634,7 +49780,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "08",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.09",
@@ -44657,7 +49803,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "09",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.10",
@@ -44680,7 +49826,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "10",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.11",
@@ -44703,7 +49849,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "11",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.12",
@@ -44726,7 +49872,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "12",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.13",
@@ -44749,7 +49895,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "13",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.14",
@@ -44772,7 +49918,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "14",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.15",
@@ -44795,7 +49941,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "15",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.16",
@@ -44818,7 +49964,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "16",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.17",
@@ -44841,7 +49987,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "17",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.18",
@@ -44864,7 +50010,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "18",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.19",
@@ -44887,7 +50033,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "19",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.20",
@@ -44910,7 +50056,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "20",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1005.22",
@@ -44933,7 +50079,7 @@ const classInfo = [
     "course_number": "MARX1005",
     "class_number": "22",
     "parsed_time_location": [],
-    "class_number_group_id": 683
+    "class_number_group_id": 793
   },
   {
     "class_id": "MARX1006.01",
@@ -44956,7 +50102,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.02",
@@ -44979,7 +50125,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "02",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.03",
@@ -45002,7 +50148,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "03",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.04",
@@ -45025,7 +50171,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "04",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.05",
@@ -45048,7 +50194,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "05",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.06",
@@ -45071,7 +50217,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "06",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.07",
@@ -45094,7 +50240,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "07",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.08",
@@ -45117,7 +50263,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "08",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.09",
@@ -45140,7 +50286,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "09",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.10",
@@ -45163,7 +50309,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "10",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.11",
@@ -45186,7 +50332,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "11",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.12",
@@ -45209,7 +50355,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "12",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.13",
@@ -45232,7 +50378,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "13",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.14",
@@ -45255,7 +50401,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "14",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.15",
@@ -45278,7 +50424,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "15",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.16",
@@ -45301,7 +50447,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "16",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.17",
@@ -45324,7 +50470,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "17",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.18",
@@ -45347,7 +50493,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "18",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.19",
@@ -45370,7 +50516,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "19",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.20",
@@ -45393,7 +50539,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "20",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1006.21",
@@ -45416,7 +50562,7 @@ const classInfo = [
     "course_number": "MARX1006",
     "class_number": "21",
     "parsed_time_location": [],
-    "class_number_group_id": 684
+    "class_number_group_id": 794
   },
   {
     "class_id": "MARX1010.01",
@@ -45459,7 +50605,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 685
+    "class_number_group_id": 795
   },
   {
     "class_id": "MARX1010.02",
@@ -45502,7 +50648,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 686
+    "class_number_group_id": 796
   },
   {
     "class_id": "MARX1010.03",
@@ -45545,7 +50691,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 687
+    "class_number_group_id": 797
   },
   {
     "class_id": "MARX1010.04",
@@ -45588,7 +50734,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 685
+    "class_number_group_id": 795
   },
   {
     "class_id": "MARX1010.05",
@@ -45631,7 +50777,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 688
+    "class_number_group_id": 798
   },
   {
     "class_id": "MARX1010.06",
@@ -45674,7 +50820,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 686
+    "class_number_group_id": 796
   },
   {
     "class_id": "MARX1010.07",
@@ -45717,7 +50863,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 685
+    "class_number_group_id": 795
   },
   {
     "class_id": "MARX1010.08",
@@ -45760,7 +50906,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 688
+    "class_number_group_id": 798
   },
   {
     "class_id": "MARX1010.09",
@@ -45803,7 +50949,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 688
+    "class_number_group_id": 798
   },
   {
     "class_id": "MARX1010.10",
@@ -45846,7 +50992,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 686
+    "class_number_group_id": 796
   },
   {
     "class_id": "MARX1010.11",
@@ -45889,7 +51035,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 687
+    "class_number_group_id": 797
   },
   {
     "class_id": "MARX1010.12",
@@ -45932,7 +51078,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 685
+    "class_number_group_id": 795
   },
   {
     "class_id": "MARX1010.13",
@@ -45975,7 +51121,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 687
+    "class_number_group_id": 797
   },
   {
     "class_id": "MARX1010.14",
@@ -46018,7 +51164,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 686
+    "class_number_group_id": 796
   },
   {
     "class_id": "MARX1010.15",
@@ -46061,7 +51207,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 685
+    "class_number_group_id": 795
   },
   {
     "class_id": "MARX1010.16",
@@ -46104,7 +51250,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 689
+    "class_number_group_id": 799
   },
   {
     "class_id": "MARX1010.17",
@@ -46147,7 +51293,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 689
+    "class_number_group_id": 799
   },
   {
     "class_id": "MARX1010.18",
@@ -46190,7 +51336,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 690
+    "class_number_group_id": 800
   },
   {
     "class_id": "MARX1010.19",
@@ -46233,7 +51379,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 691
+    "class_number_group_id": 801
   },
   {
     "class_id": "MARX1010.20",
@@ -46276,7 +51422,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 691
+    "class_number_group_id": 801
   },
   {
     "class_id": "MARX1010.21",
@@ -46319,7 +51465,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 692
+    "class_number_group_id": 802
   },
   {
     "class_id": "MARX1010.22",
@@ -46362,7 +51508,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 691
+    "class_number_group_id": 801
   },
   {
     "class_id": "MARX1010.23",
@@ -46405,7 +51551,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 689
+    "class_number_group_id": 799
   },
   {
     "class_id": "MARX1010.24",
@@ -46448,7 +51594,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 690
+    "class_number_group_id": 800
   },
   {
     "class_id": "MARX1010.25",
@@ -46491,7 +51637,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 692
+    "class_number_group_id": 802
   },
   {
     "class_id": "MARX1010.26",
@@ -46534,7 +51680,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 692
+    "class_number_group_id": 802
   },
   {
     "class_id": "MARX1010.27",
@@ -46577,7 +51723,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 692
+    "class_number_group_id": 802
   },
   {
     "class_id": "MARX1010.28",
@@ -46620,7 +51766,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 689
+    "class_number_group_id": 799
   },
   {
     "class_id": "MARX1013.01",
@@ -46637,7 +51783,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 83,
     "maximum_students": 95,
     "target_classes": "24数学学院（大类）*,24数学学院（大类）(强基)",
     "course_number": "MARX1013",
@@ -46663,7 +51809,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 693
+    "class_number_group_id": 803
   },
   {
     "class_id": "MARX1013.02",
@@ -46680,7 +51826,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 84,
     "maximum_students": 95,
     "target_classes": "24数学学院（大类）*",
     "course_number": "MARX1013",
@@ -46706,7 +51852,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 694
+    "class_number_group_id": 804
   },
   {
     "class_id": "MARX1013.03",
@@ -46723,7 +51869,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 81,
     "maximum_students": 95,
     "target_classes": "24数学学院（大类）*,24中法英才班U",
     "course_number": "MARX1013",
@@ -46749,7 +51895,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 694
+    "class_number_group_id": 804
   },
   {
     "class_id": "MARX1013.04",
@@ -46766,7 +51912,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 100,
     "maximum_students": 95,
     "target_classes": "24级203院02班,24级203院01班*",
     "course_number": "MARX1013",
@@ -46792,7 +51938,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 695
+    "class_number_group_id": 805
   },
   {
     "class_id": "MARX1013.05",
@@ -46809,7 +51955,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 91,
     "maximum_students": 95,
     "target_classes": "24级203院03班,24级203院04班",
     "course_number": "MARX1013",
@@ -46835,7 +51981,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 694
+    "class_number_group_id": 804
   },
   {
     "class_id": "MARX1013.06",
@@ -46852,7 +51998,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 98,
     "maximum_students": 95,
     "target_classes": "24天文学*,24金融学,24管理科学,24环境科学与工程,24级203院05班,24级203院06班",
     "course_number": "MARX1013",
@@ -46878,7 +52024,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 695
+    "class_number_group_id": 805
   },
   {
     "class_id": "MARX1013.07",
@@ -46895,7 +52041,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 86,
     "maximum_students": 95,
     "target_classes": "24少院物理Y,24级206院019系01班",
     "course_number": "MARX1013",
@@ -46921,7 +52067,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 696
+    "class_number_group_id": 806
   },
   {
     "class_id": "MARX1013.08",
@@ -46938,7 +52084,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 94,
     "maximum_students": 95,
     "target_classes": "24核工程与核技术,24级206院材料01班,24级206院012系01班*",
     "course_number": "MARX1013",
@@ -46964,7 +52110,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 694
+    "class_number_group_id": 804
   },
   {
     "class_id": "MARX1013.09",
@@ -46981,9 +52127,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 96,
     "maximum_students": 95,
-    "target_classes": "24地空学院物理类（大类）*,24地空学院化学类（大类）,24量子信息科学*,24地球物理学(强基)",
+    "target_classes": "24地空学院物理类（大类）*,24量子信息科学*,24地球物理学(强基)",
     "course_number": "MARX1013",
     "class_number": "09",
     "parsed_time_location": [
@@ -47007,7 +52153,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 696
+    "class_number_group_id": 806
   },
   {
     "class_id": "MARX1013.10",
@@ -47024,7 +52170,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 99,
     "maximum_students": 95,
     "target_classes": "24工商管理,24统计学*,24网络与新媒体*,24大数据管理与应用",
     "course_number": "MARX1013",
@@ -47050,7 +52196,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 694
+    "class_number_group_id": 804
   },
   {
     "class_id": "MARX1013.11",
@@ -47067,9 +52213,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 79,
     "maximum_students": 95,
-    "target_classes": "24级206院003系01班,24级206院003系02班",
+    "target_classes": "24地空学院化学类（大类）,24级206院003系01班,24级206院003系02班",
     "course_number": "MARX1013",
     "class_number": "11",
     "parsed_time_location": [
@@ -47093,7 +52239,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 693
+    "class_number_group_id": 803
   },
   {
     "class_id": "MARX1013.12",
@@ -47110,9 +52256,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 100,
     "maximum_students": 95,
-    "target_classes": "24生命科学学院（大类）*,24临床医学*,24中国科大-协和医学英才班U",
+    "target_classes": "24生命科学学院（大类）*,24测控技术与仪器,24临床医学*,24中国科大-协和医学英才班U",
     "course_number": "MARX1013",
     "class_number": "12",
     "parsed_time_location": [
@@ -47136,7 +52282,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 697
+    "class_number_group_id": 807
   },
   {
     "class_id": "MARX1013.13",
@@ -47153,7 +52299,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 98,
     "maximum_students": 95,
     "target_classes": "24人工智能*",
     "course_number": "MARX1013",
@@ -47179,14 +52325,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 698
+    "class_number_group_id": 808
   },
   {
     "class_id": "MARX1013.14",
     "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
     "department": "220 马克思主义学院",
-    "teachers": "虎旭昕",
-    "time_location": "1~16周 3C302: 4(8,9,10)",
+    "teachers": "陆婷",
+    "time_location": "1~16周 3C202: 5(8,9,10)",
     "credit": 2.5,
     "hours": 50,
     "education_level": "本科",
@@ -47196,7 +52342,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 98,
     "maximum_students": 95,
     "target_classes": "24自动化",
     "course_number": "MARX1013",
@@ -47208,11 +52354,11 @@ const classInfo = [
           "end_week": 16,
           "week_type": null
         },
-        "location": "3C302",
+        "location": "3C202",
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 4,
+            "day_of_week": 5,
             "periods": [
               8,
               9,
@@ -47222,7 +52368,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 699
+    "class_number_group_id": 809
   },
   {
     "class_id": "MARX1013.15",
@@ -47239,7 +52385,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 89,
     "maximum_students": 95,
     "target_classes": "24王小谟网络空间科技英才班T,24信息安全*,24网络空间安全*",
     "course_number": "MARX1013",
@@ -47265,7 +52411,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 698
+    "class_number_group_id": 808
   },
   {
     "class_id": "MARX1013.16",
@@ -47282,7 +52428,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 82,
     "maximum_students": 95,
     "target_classes": "24理论与应用力学,24信息科技英才班T,24电子信息工程",
     "course_number": "MARX1013",
@@ -47308,7 +52454,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 698
+    "class_number_group_id": 808
   },
   {
     "class_id": "MARX1013.17",
@@ -47325,7 +52471,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 100,
     "maximum_students": 95,
     "target_classes": "24电子信息工程,24工程物理",
     "course_number": "MARX1013",
@@ -47351,7 +52497,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 699
+    "class_number_group_id": 810
   },
   {
     "class_id": "MARX1013.18",
@@ -47368,7 +52514,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 100,
     "maximum_students": 95,
     "target_classes": "24安全工程,24应用物理学,24电子科学与技术*",
     "course_number": "MARX1013",
@@ -47394,7 +52540,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 699
+    "class_number_group_id": 810
   },
   {
     "class_id": "MARX1013.19",
@@ -47411,9 +52557,9 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 100,
     "maximum_students": 95,
-    "target_classes": "24能源与动力工程,24测控技术与仪器,24机器人工程",
+    "target_classes": "24能源与动力工程,24机器人工程",
     "course_number": "MARX1013",
     "class_number": "19",
     "parsed_time_location": [
@@ -47437,53 +52583,10 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 697
+    "class_number_group_id": 807
   },
   {
     "class_id": "MARX1013.20",
-    "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
-    "department": "220 马克思主义学院",
-    "teachers": "陆婷",
-    "time_location": "1~16周 3C202: 5(8,9,10)",
-    "credit": 2.5,
-    "hours": 50,
-    "education_level": "本科",
-    "class_type": "计划内与自由选修",
-    "course_category": null,
-    "course_type": "理论课",
-    "teaching_language": "中文",
-    "assessment_method": "笔试（开卷）",
-    "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
-    "maximum_students": 95,
-    "target_classes": "24计算机科学与技术*",
-    "course_number": "MARX1013",
-    "class_number": "20",
-    "parsed_time_location": [
-      {
-        "week_info": {
-          "start_week": 1,
-          "end_week": 16,
-          "week_type": null
-        },
-        "location": "3C202",
-        "campus": 2,
-        "time_slots": [
-          {
-            "day_of_week": 5,
-            "periods": [
-              8,
-              9,
-              10
-            ]
-          }
-        ]
-      }
-    ],
-    "class_number_group_id": 700
-  },
-  {
-    "class_id": "MARX1013.21",
     "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
     "department": "220 马克思主义学院",
     "teachers": "陈晨煜婷",
@@ -47497,11 +52600,11 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 100,
     "maximum_students": 95,
     "target_classes": "24计算机科学与技术*,24数据科学与大数据技术*",
     "course_number": "MARX1013",
-    "class_number": "21",
+    "class_number": "20",
     "parsed_time_location": [
       {
         "week_info": {
@@ -47523,7 +52626,50 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 698
+    "class_number_group_id": 808
+  },
+  {
+    "class_id": "MARX1013.21",
+    "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+    "department": "220 马克思主义学院",
+    "teachers": "虎旭昕",
+    "time_location": "1~16周 3C302: 4(8,9,10)",
+    "credit": 2.5,
+    "hours": 50,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 90,
+    "maximum_students": 95,
+    "target_classes": "24计算机科学与技术*",
+    "course_number": "MARX1013",
+    "class_number": "21",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "3C302",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 810
   },
   {
     "class_id": "MARX1013.22",
@@ -47540,7 +52686,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 99,
     "maximum_students": 95,
     "target_classes": "24计算机科学与技术*",
     "course_number": "MARX1013",
@@ -47566,7 +52712,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 697
+    "class_number_group_id": 807
   },
   {
     "class_id": "MARX1501M.01",
@@ -47589,7 +52735,7 @@ const classInfo = [
     "course_number": "MARX1501M",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 701
+    "class_number_group_id": 811
   },
   {
     "class_id": "MARX1503.01",
@@ -47612,7 +52758,76 @@ const classInfo = [
     "course_number": "MARX1503",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 702
+    "class_number_group_id": 812
+  },
+  {
+    "class_id": "MARX6102U.59",
+    "course_name": "新时代中国特色社会主义理论与实践",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 7(1,2)\n郭可信楼109: 7(3,4)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MARX6102U",
+    "class_number": "59",
+    "parsed_time_location": [],
+    "class_number_group_id": 813
+  },
+  {
+    "class_id": "MARX6103U.22",
+    "course_name": "马克思恩格斯列宁经典著作选读",
+    "department": "050 MF中心（金融专硕）",
+    "teachers": "刘海龙",
+    "time_location": "国金院 2#302: 5(2,3,4,5)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "公选课",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 55,
+    "target_classes": null,
+    "course_number": "MARX6103U",
+    "class_number": "22",
+    "parsed_time_location": [],
+    "class_number_group_id": 814
+  },
+  {
+    "class_id": "MARX6103U.23",
+    "course_name": "马克思恩格斯列宁经典著作选读",
+    "department": "050 MF中心（金融专硕）",
+    "teachers": "丁浩",
+    "time_location": "国金院 2#301: 5(6,7,8,9)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "公选课",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 55,
+    "target_classes": null,
+    "course_number": "MARX6103U",
+    "class_number": "23",
+    "parsed_time_location": [],
+    "class_number_group_id": 814
   },
   {
     "class_id": "MATH1002.01",
@@ -47668,7 +52883,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 703
+    "class_number_group_id": 815
   },
   {
     "class_id": "MATH1002.02",
@@ -47724,7 +52939,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 703
+    "class_number_group_id": 815
   },
   {
     "class_id": "MATH1004.01",
@@ -47774,7 +52989,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 704
+    "class_number_group_id": 816
   },
   {
     "class_id": "MATH1004.02",
@@ -47824,7 +53039,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 704
+    "class_number_group_id": 816
   },
   {
     "class_id": "MATH1007.01",
@@ -47880,7 +53095,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 705
+    "class_number_group_id": 817
   },
   {
     "class_id": "MATH1007.02",
@@ -47936,7 +53151,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 705
+    "class_number_group_id": 817
   },
   {
     "class_id": "MATH1007.03",
@@ -47992,7 +53207,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 706
+    "class_number_group_id": 818
   },
   {
     "class_id": "MATH1007.04",
@@ -48048,7 +53263,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 705
+    "class_number_group_id": 817
   },
   {
     "class_id": "MATH1007.05",
@@ -48104,7 +53319,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 707
+    "class_number_group_id": 819
   },
   {
     "class_id": "MATH1007.06",
@@ -48160,7 +53375,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 707
+    "class_number_group_id": 819
   },
   {
     "class_id": "MATH1007.07",
@@ -48216,7 +53431,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 707
+    "class_number_group_id": 819
   },
   {
     "class_id": "MATH1007.08",
@@ -48272,7 +53487,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 707
+    "class_number_group_id": 819
   },
   {
     "class_id": "MATH1007.09",
@@ -48328,7 +53543,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 707
+    "class_number_group_id": 819
   },
   {
     "class_id": "MATH1007.10",
@@ -48384,7 +53599,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 708
+    "class_number_group_id": 820
   },
   {
     "class_id": "MATH1007.11",
@@ -48440,7 +53655,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 708
+    "class_number_group_id": 820
   },
   {
     "class_id": "MATH1007.12",
@@ -48496,7 +53711,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 708
+    "class_number_group_id": 820
   },
   {
     "class_id": "MATH1007.13",
@@ -48552,7 +53767,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 708
+    "class_number_group_id": 820
   },
   {
     "class_id": "MATH1007.14",
@@ -48608,7 +53823,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 708
+    "class_number_group_id": 820
   },
   {
     "class_id": "MATH1007.15",
@@ -48664,7 +53879,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 708
+    "class_number_group_id": 820
   },
   {
     "class_id": "MATH1007.16",
@@ -48720,7 +53935,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 708
+    "class_number_group_id": 820
   },
   {
     "class_id": "MATH1009.09",
@@ -48769,7 +53984,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 709
+    "class_number_group_id": 821
   },
   {
     "class_id": "MATH1009.10",
@@ -48818,7 +54033,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 710
+    "class_number_group_id": 822
   },
   {
     "class_id": "MATH1009.11",
@@ -48867,7 +54082,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 710
+    "class_number_group_id": 822
   },
   {
     "class_id": "MATH1009.12",
@@ -48916,7 +54131,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 710
+    "class_number_group_id": 822
   },
   {
     "class_id": "MATH1009.13",
@@ -48965,7 +54180,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 710
+    "class_number_group_id": 822
   },
   {
     "class_id": "MATH1009.14",
@@ -49014,7 +54229,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 710
+    "class_number_group_id": 822
   },
   {
     "class_id": "MATH1009.15",
@@ -49063,7 +54278,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 709
+    "class_number_group_id": 821
   },
   {
     "class_id": "MATH1009.16",
@@ -49137,7 +54352,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 711
+    "class_number_group_id": 823
   },
   {
     "class_id": "MATH1009.17",
@@ -49186,7 +54401,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 712
+    "class_number_group_id": 824
   },
   {
     "class_id": "MATH1009.18",
@@ -49235,7 +54450,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 709
+    "class_number_group_id": 821
   },
   {
     "class_id": "MATH1009.19",
@@ -49284,7 +54499,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 709
+    "class_number_group_id": 821
   },
   {
     "class_id": "MATH1009.20",
@@ -49333,7 +54548,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 713
+    "class_number_group_id": 825
   },
   {
     "class_id": "MATH1012.01",
@@ -49389,7 +54604,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 714
+    "class_number_group_id": 826
   },
   {
     "class_id": "MATH2001.05",
@@ -49438,7 +54653,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 715
+    "class_number_group_id": 827
   },
   {
     "class_id": "MATH2001.06",
@@ -49487,13 +54702,13 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 716
+    "class_number_group_id": 828
   },
   {
     "class_id": "MATH2503.01",
     "course_name": "数学物理方法",
     "department": "005 近代力学系",
-    "teachers": "刘浩然",
+    "teachers": "宋兆强,刘浩然",
     "time_location": "1~16周 3A302: 1(3,4,5) 3(1,2)",
     "credit": 4.0,
     "hours": 80,
@@ -49537,7 +54752,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 717
+    "class_number_group_id": 829
   },
   {
     "class_id": "MATH2802.01",
@@ -49579,7 +54794,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 718
+    "class_number_group_id": 830
   },
   {
     "class_id": "MATH3001.01",
@@ -49628,7 +54843,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 719
+    "class_number_group_id": 831
   },
   {
     "class_id": "MATH3001.02",
@@ -49677,7 +54892,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 719
+    "class_number_group_id": 831
   },
   {
     "class_id": "MATH3002.01",
@@ -49726,7 +54941,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 720
+    "class_number_group_id": 832
   },
   {
     "class_id": "MATH3002.02",
@@ -49775,7 +54990,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 720
+    "class_number_group_id": 832
   },
   {
     "class_id": "MATH3006.01",
@@ -49792,7 +55007,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 38,
     "maximum_students": 100,
     "target_classes": "23概率统计",
     "course_number": "MATH3006",
@@ -49825,7 +55040,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 721
+    "class_number_group_id": 833
   },
   {
     "class_id": "MATH3007.02",
@@ -49875,7 +55090,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 722
+    "class_number_group_id": 834
   },
   {
     "class_id": "MATH3007.03",
@@ -49925,7 +55140,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 723
+    "class_number_group_id": 835
   },
   {
     "class_id": "MATH3008.01",
@@ -49974,7 +55189,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 724
+    "class_number_group_id": 836
   },
   {
     "class_id": "MATH3008.02",
@@ -50023,7 +55238,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 724
+    "class_number_group_id": 836
   },
   {
     "class_id": "MATH3013.01",
@@ -50073,7 +55288,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 725
+    "class_number_group_id": 837
   },
   {
     "class_id": "MATH3014.01",
@@ -50123,7 +55338,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 726
+    "class_number_group_id": 838
   },
   {
     "class_id": "MATH3701.01",
@@ -50172,7 +55387,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 727
+    "class_number_group_id": 839
   },
   {
     "class_id": "MATH3702e.01",
@@ -50222,7 +55437,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 728
+    "class_number_group_id": 840
   },
   {
     "class_id": "MATH4001.01",
@@ -50272,7 +55487,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 729
+    "class_number_group_id": 841
   },
   {
     "class_id": "MATH4002.01",
@@ -50322,7 +55537,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 730
+    "class_number_group_id": 842
   },
   {
     "class_id": "MATH4004.01",
@@ -50398,7 +55613,1872 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 731
+    "class_number_group_id": 843
+  },
+  {
+    "class_id": "MATH5008P.01",
+    "course_name": "随机过程",
+    "department": "001 数学科学学院",
+    "teachers": "张土生",
+    "time_location": "1~16周 5502: 1(6,7) 3(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "MATH5008P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5502",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 844
+  },
+  {
+    "class_id": "MATH5009P.01",
+    "course_name": "现代偏微分方程",
+    "department": "001 数学科学学院",
+    "teachers": "章俊彦",
+    "time_location": "1~16周 5402: 2(3,4,5) 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "MATH5009P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5402",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 845
+  },
+  {
+    "class_id": "MATH5012P.01",
+    "course_name": "代数数论",
+    "department": "001 数学科学学院",
+    "teachers": "吴志翔",
+    "time_location": "1~16周 5202: 1(3,4,5) 3(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 70,
+    "target_classes": null,
+    "course_number": "MATH5012P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5202",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 846
+  },
+  {
+    "class_id": "MATH5013P.01",
+    "course_name": "黎曼几何",
+    "department": "001 数学科学学院",
+    "teachers": "刘世平",
+    "time_location": "1~16周 5504: 2(6,7) 4(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "MATH5013P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5504",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 847
+  },
+  {
+    "class_id": "MATH5014P.01",
+    "course_name": "遍历理论初步",
+    "department": "001 数学科学学院",
+    "teachers": "邵松,马啸",
+    "time_location": "1~16周 5203: 1(8,9,10) 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 70,
+    "target_classes": null,
+    "course_number": "MATH5014P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5203",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 848
+  },
+  {
+    "class_id": "MATH5015P.01",
+    "course_name": "最优化算法",
+    "department": "001 数学科学学院",
+    "teachers": "陈士祥,宋艳枝",
+    "time_location": "1~16周 5502: 2(3,4) 4(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 160,
+    "target_classes": null,
+    "course_number": "MATH5015P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5502",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 849
+  },
+  {
+    "class_id": "MATH5017P.01",
+    "course_name": "调和分析",
+    "department": "001 数学科学学院",
+    "teachers": "郭经纬",
+    "time_location": "1~16周 5306: 3(6,7); 5407: 5(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 70,
+    "target_classes": null,
+    "course_number": "MATH5017P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5306",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 850
+  },
+  {
+    "class_id": "MATH5018P.01",
+    "course_name": "李代数及其表示理论",
+    "department": "001 数学科学学院",
+    "teachers": "陈洪佳",
+    "time_location": "1~16周 5203: 2(8,9,10) 4(8,9)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 70,
+    "target_classes": null,
+    "course_number": "MATH5018P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5203",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 851
+  },
+  {
+    "class_id": "MATH5020P.01",
+    "course_name": "代数图论",
+    "department": "001 数学科学学院",
+    "teachers": "库伦",
+    "time_location": "1~16周 MS310: 1(6,7) 2(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 25,
+    "target_classes": null,
+    "course_number": "MATH5020P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "MS310",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 852
+  },
+  {
+    "class_id": "MATH6104P.01",
+    "course_name": "代数几何进阶",
+    "department": "001 数学科学学院",
+    "teachers": "许金兴",
+    "time_location": "1~16周 5103: 3(3,4,5); 5402: 1(8,9)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6104P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5103",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 853
+  },
+  {
+    "class_id": "MATH6106P.01",
+    "course_name": "黎曼曲面",
+    "department": "001 数学科学学院",
+    "teachers": "周春辉",
+    "time_location": "1~16周 5401: 1(8,9,10); 5403: 3(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 70,
+    "target_classes": null,
+    "course_number": "MATH6106P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5401",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 854
+  },
+  {
+    "class_id": "MATH6402P.01",
+    "course_name": "高等泛函分析",
+    "department": "001 数学科学学院",
+    "teachers": "廖羽晨",
+    "time_location": "1~16周 5402: 2(6,7) 4(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6402P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5402",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 855
+  },
+  {
+    "class_id": "MATH6403P.01",
+    "course_name": "同调代数",
+    "department": "001 数学科学学院",
+    "teachers": "王凯,胡海刚",
+    "time_location": "1~16周 5203: 2(6,7) 5(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "MATH6403P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5203",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 856
+  },
+  {
+    "class_id": "MATH6407P.01",
+    "course_name": "几何分析",
+    "department": "001 数学科学学院",
+    "teachers": "李宇",
+    "time_location": "1~16周 5402: 1(3,4,5); 5502: 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6407P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5402",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 857
+  },
+  {
+    "class_id": "MATH6418P.01",
+    "course_name": "非线性偏微分方程数值方法",
+    "department": "001 数学科学学院",
+    "teachers": "蒋琰",
+    "time_location": "1~16周 1102: 1(3,4,5) 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6418P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "1102",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 858
+  },
+  {
+    "class_id": "MATH6419P.01",
+    "course_name": "数字几何处理",
+    "department": "001 数学科学学院",
+    "teachers": "方清",
+    "time_location": "1~16周 2621: 2(8,9,10) 5(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6419P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2621",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 859
+  },
+  {
+    "class_id": "MATH6420P.01",
+    "course_name": "数字图像处理",
+    "department": "001 数学科学学院",
+    "teachers": "郭玉东",
+    "time_location": "1~16周 5204: 2(6,7) 5(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "MATH6420P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5204",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 860
+  },
+  {
+    "class_id": "MATH6422P.01",
+    "course_name": "计算代数几何",
+    "department": "001 数学科学学院",
+    "teachers": "陈发来",
+    "time_location": "1~16周 2421: 1(8,9,10) 3(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6422P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2421",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 861
+  },
+  {
+    "class_id": "MATH6426P.01",
+    "course_name": "极值与加性组合",
+    "department": "001 数学科学学院",
+    "teachers": "陈峻",
+    "time_location": "1~16周 MS310: 1(3,4) 3(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6426P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "MS310",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 862
+  },
+  {
+    "class_id": "MATH6430P.02",
+    "course_name": "量子场论",
+    "department": "001 数学科学学院",
+    "teachers": "胡森",
+    "time_location": "1~16周 2509: 2(8,9,10) 4(8,9)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6430P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2509",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 863
+  },
+  {
+    "class_id": "MATH6431P.01",
+    "course_name": "几何深度学习",
+    "department": "001 数学科学学院",
+    "teachers": "傅孝明",
+    "time_location": "1~13周 2106: 2(11,12) 3(11,12)\n1~14周 2106: 1(11,12)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "MATH6431P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "location": "2106",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "2106",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 864
+  },
+  {
+    "class_id": "MATH6437P.01",
+    "course_name": "辛拓扑初步",
+    "department": "001 数学科学学院",
+    "teachers": "韩齐",
+    "time_location": "1~16周 2206: 1(3,4,5) 3(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH6437P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2206",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 865
+  },
+  {
+    "class_id": "MATH7401P.01",
+    "course_name": "分析学选讲",
+    "department": "001 数学科学学院",
+    "teachers": "李俊钢",
+    "time_location": "1~16周 5201: 3(6,7); 5501: 1(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7401P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5201",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 866
+  },
+  {
+    "class_id": "MATH7402P.01",
+    "course_name": "分析学前沿讲座",
+    "department": "001 数学科学学院",
+    "teachers": "王谢平",
+    "time_location": "1~16周 5402: 2(8,9,10); 5407: 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7402P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5402",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 867
+  },
+  {
+    "class_id": "MATH7407P.01",
+    "course_name": "代数几何选讲",
+    "department": "001 数学科学学院",
+    "teachers": "刘永强,李家俊",
+    "time_location": "1~16周 5401: 1(6,7) 4(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7407P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5401",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 868
+  },
+  {
+    "class_id": "MATH7410P.01",
+    "course_name": "几何学选讲",
+    "department": "001 数学科学学院",
+    "teachers": "许斌",
+    "time_location": "1~16周 5204: 4(6,7); 5404: 2(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7410P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5204",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 869
+  },
+  {
+    "class_id": "MATH7418P.02",
+    "course_name": "科学计算选讲",
+    "department": "001 数学科学学院",
+    "teachers": "赵泉",
+    "time_location": "1~16周 1102: 2(8,9,10); 1302: 5(3,4)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7418P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "1102",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 870
+  },
+  {
+    "class_id": "MATH7419P.01",
+    "course_name": "高精度数值方法选讲",
+    "department": "001 数学科学学院",
+    "teachers": "熊涛",
+    "time_location": "1~16周 5301: 4(8,9,10); 5302: 1(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7419P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5301",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 871
+  },
+  {
+    "class_id": "MATH7425P.01",
+    "course_name": "图论选讲",
+    "department": "001 数学科学学院",
+    "teachers": "刘西之,马杰,杨梦溪",
+    "time_location": "1~16周 2605: 2(8,9,10) 4(8,9)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7425P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2605",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 872
+  },
+  {
+    "class_id": "MATH7429P.01",
+    "course_name": "几何拓扑及高阶Teichmüller理论选讲",
+    "department": "001 数学科学学院",
+    "teachers": "孙哲",
+    "time_location": "1~16周 5403: 2(6,7); 5404: 4(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7429P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5403",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 873
+  },
+  {
+    "class_id": "MATH7430P.01",
+    "course_name": "微分几何选讲",
+    "department": "001 数学科学学院",
+    "teachers": "俞建青",
+    "time_location": "1~16周 1301: 2(6,7) 5(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7430P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "1301",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 874
+  },
+  {
+    "class_id": "MATH7432P.02",
+    "course_name": "几何与物理专题选讲",
+    "department": "001 数学科学学院",
+    "teachers": "李轩莹,王镇",
+    "time_location": "1~16周 5104: 3(6,7); 5403: 1(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MATH7432P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5104",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 875
+  },
+  {
+    "class_id": "MBAD6002U.06",
+    "course_name": "商务伦理",
+    "department": "034 MBA中心",
+    "teachers": "徐毅",
+    "time_location": "6~9周 2605: 5(08:30~12:10)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6002U",
+    "class_number": "06",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 9,
+          "week_type": null
+        },
+        "location": "2605",
+        "campus": 1,
+        "time_slots": []
+      }
+    ],
+    "class_number_group_id": 876
+  },
+  {
+    "class_id": "MBAD6003P.03",
+    "course_name": "管理信息系统",
+    "department": "034 MBA中心",
+    "teachers": "李涛",
+    "time_location": "1~4周 1302: 1(08:30~18:20)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6003P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "1302",
+        "campus": 1,
+        "time_slots": []
+      }
+    ],
+    "class_number_group_id": 877
+  },
+  {
+    "class_id": "MBAD6005P.08",
+    "course_name": "企业决策模拟",
+    "department": "034 MBA中心",
+    "teachers": "安南",
+    "time_location": "5~7(单),8~9周 1302: 1(08:30~18:20)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6005P",
+    "class_number": "08",
+    "parsed_time_location": [],
+    "class_number_group_id": 878
+  },
+  {
+    "class_id": "MBAD6006P.01",
+    "course_name": "商业研究方法",
+    "department": "034 MBA中心",
+    "teachers": "马步青",
+    "time_location": "5~9,11~13周 2606: 4(14:00~18:00)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6006P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 879
+  },
+  {
+    "class_id": "MBAD6012P.03",
+    "course_name": "财务管理",
+    "department": "034 MBA中心",
+    "teachers": "付思文",
+    "time_location": "5~8周 2506: 2(08:30~18:20)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6012P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "2506",
+        "campus": 1,
+        "time_slots": []
+      }
+    ],
+    "class_number_group_id": 880
+  },
+  {
+    "class_id": "MBAD6014P.04",
+    "course_name": "运营管理",
+    "department": "034 MBA中心",
+    "teachers": "孔祥印",
+    "time_location": "1~4周 2506: 2(08:30~18:20)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6014P",
+    "class_number": "04",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "2506",
+        "campus": 1,
+        "time_slots": []
+      }
+    ],
+    "class_number_group_id": 881
+  },
+  {
+    "class_id": "MBAD6402P.01",
+    "course_name": "证券投资",
+    "department": "034 MBA中心",
+    "teachers": "张力",
+    "time_location": "9~11(单),12~13周 2506: 2(08:30~18:20)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6402P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 882
+  },
+  {
+    "class_id": "MBAD6405P.02",
+    "course_name": "电子商务",
+    "department": "034 MBA中心",
+    "teachers": "孙灿",
+    "time_location": "1~4周 2605: 5(08:30~18:20)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6405P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "2605",
+        "campus": 1,
+        "time_slots": []
+      }
+    ],
+    "class_number_group_id": 883
+  },
+  {
+    "class_id": "MBAD6406P.03",
+    "course_name": "大数据与商业分析",
+    "department": "034 MBA中心",
+    "teachers": "李涛",
+    "time_location": "1~4周 2404: 4(08:30~18:20)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6406P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "2404",
+        "campus": 1,
+        "time_slots": []
+      }
+    ],
+    "class_number_group_id": 884
+  },
+  {
+    "class_id": "MBAD6415P.01",
+    "course_name": "服务营销管理",
+    "department": "034 MBA中心",
+    "teachers": "安南",
+    "time_location": "11~14周 1302: 1(08:30~18:20)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MBAD6415P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "1302",
+        "campus": 1,
+        "time_slots": []
+      }
+    ],
+    "class_number_group_id": 885
+  },
+  {
+    "class_id": "MCEN6201U.04",
+    "course_name": "专业英语(材料与化工)",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼309: 2(3,4)\n郭可信楼309: 4(3,4)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MCEN6201U",
+    "class_number": "04",
+    "parsed_time_location": [],
+    "class_number_group_id": 886
   },
   {
     "class_id": "ME2002.01",
@@ -50415,7 +57495,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 26,
     "maximum_students": 29,
     "target_classes": "23机械设计制造及其自动化,23测控技术与仪器",
     "course_number": "ME2002",
@@ -50441,7 +57521,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 732
+    "class_number_group_id": 887
   },
   {
     "class_id": "ME2004.01",
@@ -50458,7 +57538,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 3,
     "maximum_students": 29,
     "target_classes": "23机械设计制造及其自动化,23测控技术与仪器",
     "course_number": "ME2004",
@@ -50484,14 +57564,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 733
+    "class_number_group_id": 888
   },
   {
     "class_id": "ME2007.01",
     "course_name": "工程力学实验",
     "department": "209 工程科学学院",
     "teachers": "朱雨建,徐旭",
-    "time_location": "3~16周 西区力四楼实验室: 3(11,12)",
+    "time_location": "3~16周 西区力四楼实验室: 1(11,12)",
     "credit": 0.5,
     "hours": 20,
     "education_level": "本科",
@@ -50501,7 +57581,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "实验操作",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 194,
     "maximum_students": 125,
     "target_classes": "24理论与应用力学,24能源与动力工程,24测控技术与仪器,24安全工程,24机器人工程",
     "course_number": "ME2007",
@@ -50517,7 +57597,7 @@ const classInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 3,
+            "day_of_week": 1,
             "periods": [
               11,
               12
@@ -50526,7 +57606,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 734
+    "class_number_group_id": 889
   },
   {
     "class_id": "ME2008.01",
@@ -50543,7 +57623,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 25,
     "target_classes": "24安全工程",
     "course_number": "ME2008",
@@ -50588,7 +57668,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 735
+    "class_number_group_id": 890
   },
   {
     "class_id": "ME2010.01",
@@ -50605,7 +57685,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 54,
     "maximum_students": 40,
     "target_classes": "24能源与动力工程",
     "course_number": "ME2010",
@@ -50638,7 +57718,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 736
+    "class_number_group_id": 891
   },
   {
     "class_id": "ME2010.02",
@@ -50655,7 +57735,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 40,
     "target_classes": "23材料物理,23材料化学,24安全工程",
     "course_number": "ME2010",
@@ -50688,7 +57768,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 736
+    "class_number_group_id": 891
   },
   {
     "class_id": "ME2010.03",
@@ -50705,7 +57785,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 29,
     "maximum_students": 50,
     "target_classes": "24理论与应用力学,24钱学森力学科技英才班T",
     "course_number": "ME2010",
@@ -50738,7 +57818,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 736
+    "class_number_group_id": 891
   },
   {
     "class_id": "ME2010.04",
@@ -50755,7 +57835,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 80,
     "maximum_students": 50,
     "target_classes": "24测控技术与仪器,24机器人工程",
     "course_number": "ME2010",
@@ -50788,7 +57868,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 737
+    "class_number_group_id": 892
   },
   {
     "class_id": "ME2010.05",
@@ -50805,7 +57885,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 50,
     "target_classes": "24理论与应用力学(强基)",
     "course_number": "ME2010",
@@ -50838,7 +57918,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 736
+    "class_number_group_id": 891
   },
   {
     "class_id": "ME2011.01",
@@ -50881,7 +57961,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 738
+    "class_number_group_id": 893
   },
   {
     "class_id": "ME2011.02",
@@ -50924,7 +58004,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 738
+    "class_number_group_id": 893
   },
   {
     "class_id": "ME2011.03",
@@ -50967,7 +58047,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 739
+    "class_number_group_id": 894
   },
   {
     "class_id": "ME2012.01",
@@ -51029,7 +58109,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 740
+    "class_number_group_id": 895
   },
   {
     "class_id": "ME2012.02",
@@ -51072,7 +58152,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 741
+    "class_number_group_id": 896
   },
   {
     "class_id": "ME2012.03",
@@ -51115,7 +58195,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 741
+    "class_number_group_id": 896
   },
   {
     "class_id": "ME2012.04",
@@ -51158,7 +58238,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 741
+    "class_number_group_id": 896
   },
   {
     "class_id": "ME2012.05",
@@ -51201,7 +58281,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 741
+    "class_number_group_id": 896
   },
   {
     "class_id": "ME2013.01",
@@ -51218,7 +58298,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 29,
     "maximum_students": 30,
     "target_classes": "24理论与应用力学,24钱学森力学科技英才班T",
     "course_number": "ME2013",
@@ -51250,7 +58330,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 742
+    "class_number_group_id": 897
   },
   {
     "class_id": "ME2013.02",
@@ -51267,7 +58347,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 30,
     "target_classes": "24理论与应用力学,24钱学森力学科技英才班T",
     "course_number": "ME2013",
@@ -51324,7 +58404,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 743
+    "class_number_group_id": 898
   },
   {
     "class_id": "ME2014.01",
@@ -51341,7 +58421,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 113,
     "maximum_students": 65,
     "target_classes": "24理论与应用力学,24能源与动力工程,24安全工程",
     "course_number": "ME2014",
@@ -51367,7 +58447,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 744
+    "class_number_group_id": 899
   },
   {
     "class_id": "ME3002.01",
@@ -51384,7 +58464,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 6,
     "maximum_students": 25,
     "target_classes": "23安全工程",
     "course_number": "ME3002",
@@ -51443,7 +58523,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 745
+    "class_number_group_id": 900
   },
   {
     "class_id": "ME3003.01",
@@ -51460,7 +58540,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 6,
     "maximum_students": 25,
     "target_classes": "23安全工程",
     "course_number": "ME3003",
@@ -51492,7 +58572,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 746
+    "class_number_group_id": 901
   },
   {
     "class_id": "ME3004.01",
@@ -51509,7 +58589,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 44,
     "maximum_students": 45,
     "target_classes": "23能源与动力工程",
     "course_number": "ME3004",
@@ -51541,7 +58621,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 747
+    "class_number_group_id": 902
   },
   {
     "class_id": "ME3005.01",
@@ -51558,7 +58638,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 43,
     "maximum_students": 45,
     "target_classes": "23能源与动力工程",
     "course_number": "ME3005",
@@ -51590,7 +58670,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 748
+    "class_number_group_id": 903
   },
   {
     "class_id": "ME3006.01",
@@ -51607,7 +58687,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 81,
     "maximum_students": 14,
     "target_classes": "24测控技术与仪器,24机器人工程",
     "course_number": "ME3006",
@@ -51640,7 +58720,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 749
+    "class_number_group_id": 904
   },
   {
     "class_id": "ME3009.01",
@@ -51657,7 +58737,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 29,
     "maximum_students": 29,
     "target_classes": "23机械设计制造及其自动化,23测控技术与仪器",
     "course_number": "ME3009",
@@ -51689,7 +58769,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 750
+    "class_number_group_id": 905
   },
   {
     "class_id": "ME3010.01",
@@ -51706,7 +58786,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 3,
     "maximum_students": 29,
     "target_classes": "23机械设计制造及其自动化,23测控技术与仪器",
     "course_number": "ME3010",
@@ -51739,7 +58819,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 751
+    "class_number_group_id": 906
   },
   {
     "class_id": "ME3011.01",
@@ -51756,7 +58836,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 26,
     "maximum_students": 29,
     "target_classes": "23机械设计制造及其自动化,23测控技术与仪器",
     "course_number": "ME3011",
@@ -51782,7 +58862,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 752
+    "class_number_group_id": 907
   },
   {
     "class_id": "ME4005.01",
@@ -51844,7 +58924,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 753
+    "class_number_group_id": 908
   },
   {
     "class_id": "ME4006.01",
@@ -51867,7 +58947,7 @@ const classInfo = [
     "course_number": "ME4006",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 754
+    "class_number_group_id": 909
   },
   {
     "class_id": "ME4009.01",
@@ -51884,7 +58964,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 16,
     "maximum_students": 50,
     "target_classes": "24理论与应用力学,24钱学森力学科技英才班T",
     "course_number": "ME4009",
@@ -51929,14 +59009,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 755
+    "class_number_group_id": 910
   },
   {
     "class_id": "ME4009.02",
     "course_name": "基础力学进阶",
     "department": "005 近代力学系",
     "teachers": "邓华夏",
-    "time_location": "1~14周 3A311: 2(8,9,10)",
+    "time_location": "1~14周 3A202: 2(8,9,10)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -51946,7 +59026,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 23,
     "maximum_students": 29,
     "target_classes": "24理论与应用力学(强基)",
     "course_number": "ME4009",
@@ -51958,7 +59038,7 @@ const classInfo = [
           "end_week": 14,
           "week_type": null
         },
-        "location": "3A311",
+        "location": "3A202",
         "campus": 2,
         "time_slots": [
           {
@@ -51972,7 +59052,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 756
+    "class_number_group_id": 911
   },
   {
     "class_id": "ME4011.01",
@@ -52015,7 +59095,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 757
+    "class_number_group_id": 912
   },
   {
     "class_id": "ME4013.01",
@@ -52058,7 +59138,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 758
+    "class_number_group_id": 913
   },
   {
     "class_id": "ME4016.01",
@@ -52100,7 +59180,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 759
+    "class_number_group_id": 914
   },
   {
     "class_id": "ME4017.01",
@@ -52149,7 +59229,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 760
+    "class_number_group_id": 915
   },
   {
     "class_id": "ME4018.01",
@@ -52198,7 +59278,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 761
+    "class_number_group_id": 916
   },
   {
     "class_id": "ME4019.01",
@@ -52246,7 +59326,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 762
+    "class_number_group_id": 917
   },
   {
     "class_id": "ME4020.01",
@@ -52289,7 +59369,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 763
+    "class_number_group_id": 918
   },
   {
     "class_id": "ME4021.01",
@@ -52331,7 +59411,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 764
+    "class_number_group_id": 919
   },
   {
     "class_id": "ME4022.01",
@@ -52380,7 +59460,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 765
+    "class_number_group_id": 920
   },
   {
     "class_id": "ME4031.01",
@@ -52423,7 +59503,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 766
+    "class_number_group_id": 921
   },
   {
     "class_id": "MED1501.01",
@@ -52485,7 +59565,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 767
+    "class_number_group_id": 922
   },
   {
     "class_id": "MED1502.02",
@@ -52528,7 +59608,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 768
+    "class_number_group_id": 923
   },
   {
     "class_id": "MED1503G.01",
@@ -52609,7 +59689,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 769
+    "class_number_group_id": 924
   },
   {
     "class_id": "MED1504.02",
@@ -52653,7 +59733,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 770
+    "class_number_group_id": 925
   },
   {
     "class_id": "MED1506.01",
@@ -52715,7 +59795,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 771
+    "class_number_group_id": 926
   },
   {
     "class_id": "MED2003.01",
@@ -52732,7 +59812,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 7,
     "target_classes": "24临床医学*",
     "course_number": "MED2003",
@@ -52843,7 +59923,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 772
+    "class_number_group_id": 927
   },
   {
     "class_id": "MED2004.01",
@@ -52860,7 +59940,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 7,
     "target_classes": "24临床医学*",
     "course_number": "MED2004",
@@ -52886,7 +59966,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 773
+    "class_number_group_id": 928
   },
   {
     "class_id": "MED2006.01",
@@ -52928,7 +60008,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 774
+    "class_number_group_id": 929
   },
   {
     "class_id": "MED2007.01",
@@ -52945,7 +60025,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 12,
     "target_classes": "23临床医学",
     "course_number": "MED2007",
@@ -52971,7 +60051,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 775
+    "class_number_group_id": 930
   },
   {
     "class_id": "MED2008.01",
@@ -53014,7 +60094,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 776
+    "class_number_group_id": 931
   },
   {
     "class_id": "MED3013.01",
@@ -53037,7 +60117,7 @@ const classInfo = [
     "course_number": "MED3013",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 777
+    "class_number_group_id": 932
   },
   {
     "class_id": "MED3014.01",
@@ -53054,13 +60134,13 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "机考",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 12,
     "target_classes": "23临床医学",
     "course_number": "MED3014",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 778
+    "class_number_group_id": 933
   },
   {
     "class_id": "MED3015.01",
@@ -53083,7 +60163,7 @@ const classInfo = [
     "course_number": "MED3015",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 779
+    "class_number_group_id": 934
   },
   {
     "class_id": "MED3016.01",
@@ -53145,7 +60225,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 780
+    "class_number_group_id": 935
   },
   {
     "class_id": "MED3017.01",
@@ -53208,7 +60288,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 781
+    "class_number_group_id": 936
   },
   {
     "class_id": "MED3019.01",
@@ -53225,7 +60305,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "机考",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 12,
     "target_classes": "23临床医学",
     "course_number": "MED3019",
@@ -53251,7 +60331,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 782
+    "class_number_group_id": 937
   },
   {
     "class_id": "MED3020.01",
@@ -53268,7 +60348,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "机考",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 12,
     "target_classes": "23临床医学",
     "course_number": "MED3020",
@@ -53315,7 +60395,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 783
+    "class_number_group_id": 938
   },
   {
     "class_id": "MED3022.01",
@@ -53413,7 +60493,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 784
+    "class_number_group_id": 939
   },
   {
     "class_id": "MED3024.01",
@@ -53475,7 +60555,142 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 785
+    "class_number_group_id": 940
+  },
+  {
+    "class_id": "MED3025.02",
+    "course_name": "临床实习",
+    "department": "910 生命科学与医学部",
+    "teachers": "王玉兰",
+    "time_location": "1~18周 附一院临床轮转: 1(1,2,3,4,5) 1(6,7,8,9,10) 2(1,2,3,4,5) 2(6,7,8,9,10) 3(1,2,3,4,5) 3(6,7,8,9,10) 4(1,2,3,4,5) 4(6,7,8,9,10) 5(1,2,3,4,5) 5(6,7,8,9,10)",
+    "credit": 52.0,
+    "hours": 2080,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "实践课",
+    "teaching_language": "中文",
+    "assessment_method": "实验操作",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 7,
+    "maximum_students": 7,
+    "target_classes": "21临床医学*",
+    "course_number": "MED3025",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "附一院临床轮转",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 941
   },
   {
     "class_id": "MED3029.01",
@@ -53492,13 +60707,13 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "机考",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 12,
     "target_classes": "23临床医学",
     "course_number": "MED3029",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 786
+    "class_number_group_id": 942
   },
   {
     "class_id": "MED3030.01",
@@ -53515,7 +60730,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 12,
     "target_classes": "23临床医学",
     "course_number": "MED3030",
@@ -53561,7 +60776,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 787
+    "class_number_group_id": 943
   },
   {
     "class_id": "MED3031.01",
@@ -53623,7 +60838,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 788
+    "class_number_group_id": 944
   },
   {
     "class_id": "MEMA6302P.01",
@@ -53646,7 +60861,7 @@ const classInfo = [
     "course_number": "MEMA6302P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 789
+    "class_number_group_id": 945
   },
   {
     "class_id": "MEMA6305P.01",
@@ -53669,7 +60884,7 @@ const classInfo = [
     "course_number": "MEMA6305P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 790
+    "class_number_group_id": 946
   },
   {
     "class_id": "MEMA6306P.01",
@@ -53713,7 +60928,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 791
+    "class_number_group_id": 947
   },
   {
     "class_id": "MEMA6307P.01",
@@ -53757,7 +60972,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 792
+    "class_number_group_id": 948
   },
   {
     "class_id": "MEMA6308P.01",
@@ -53780,7 +60995,7 @@ const classInfo = [
     "course_number": "MEMA6308P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 793
+    "class_number_group_id": 949
   },
   {
     "class_id": "MEMA6418P.01",
@@ -53833,7 +61048,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 794
+    "class_number_group_id": 950
   },
   {
     "class_id": "MEMA6426P.01",
@@ -53856,7 +61071,7 @@ const classInfo = [
     "course_number": "MEMA6426P",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 795
+    "class_number_group_id": 951
   },
   {
     "class_id": "MEMA6427P.01",
@@ -53900,7 +61115,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 796
+    "class_number_group_id": 952
   },
   {
     "class_id": "MNSC1502.01",
@@ -53942,14 +61157,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 797
+    "class_number_group_id": 953
   },
   {
     "class_id": "MNSC1503.01",
     "course_name": "管理逻辑",
     "department": "016 管理科学系",
     "teachers": "郭晓龙",
-    "time_location": "1~10周 5106: 5(6,7)",
+    "time_location": "3~12周 5106: 5(6,7)",
     "credit": 1.0,
     "hours": 20,
     "education_level": "本科",
@@ -53967,8 +61182,8 @@ const classInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 10,
+          "start_week": 3,
+          "end_week": 12,
           "week_type": null
         },
         "location": "5106",
@@ -53984,7 +61199,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 798
+    "class_number_group_id": 954
   },
   {
     "class_id": "MNSC2001.01",
@@ -54001,7 +61216,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 21,
     "maximum_students": 80,
     "target_classes": "23工商管理*,24金融学,24管理科学,23人工智能*,24大数据管理与应用",
     "course_number": "MNSC2001",
@@ -54035,7 +61250,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 799
+    "class_number_group_id": 955
   },
   {
     "class_id": "MNSC2003.01",
@@ -54052,7 +61267,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 10,
     "maximum_students": 60,
     "target_classes": "24管理科学,24大数据管理与应用",
     "course_number": "MNSC2003",
@@ -54085,7 +61300,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 800
+    "class_number_group_id": 956
   },
   {
     "class_id": "MNSC3003.01",
@@ -54102,7 +61317,7 @@ const classInfo = [
     "teaching_language": "双语",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 6,
     "maximum_students": 60,
     "target_classes": "23管理科学*",
     "course_number": "MNSC3003",
@@ -54147,7 +61362,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 801
+    "class_number_group_id": 957
   },
   {
     "class_id": "MNSC3004.01",
@@ -54164,7 +61379,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 9,
     "maximum_students": 60,
     "target_classes": "23金融学,24管理科学,24大数据管理与应用",
     "course_number": "MNSC3004",
@@ -54209,7 +61424,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 802
+    "class_number_group_id": 958
   },
   {
     "class_id": "MNSC3006.01",
@@ -54226,7 +61441,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 60,
     "target_classes": "23管理科学*",
     "course_number": "MNSC3006",
@@ -54259,7 +61474,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 803
+    "class_number_group_id": 959
   },
   {
     "class_id": "MNSC3007.01",
@@ -54276,7 +61491,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 7,
     "maximum_students": 60,
     "target_classes": "23管理科学*",
     "course_number": "MNSC3007",
@@ -54302,7 +61517,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 804
+    "class_number_group_id": 960
   },
   {
     "class_id": "MNSC3008.01",
@@ -54319,7 +61534,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 1,
     "maximum_students": 60,
     "target_classes": "24工商管理,24金融学,24管理科学,24大数据管理与应用",
     "course_number": "MNSC3008",
@@ -54345,7 +61560,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 805
+    "class_number_group_id": 961
   },
   {
     "class_id": "MNSC3009.01",
@@ -54362,7 +61577,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 60,
     "target_classes": "24大数据管理与应用",
     "course_number": "MNSC3009",
@@ -54388,7 +61603,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 806
+    "class_number_group_id": 962
   },
   {
     "class_id": "MNSC3010.01",
@@ -54405,7 +61620,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 12,
     "maximum_students": 60,
     "target_classes": "24大数据管理与应用",
     "course_number": "MNSC3010",
@@ -54437,7 +61652,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 807
+    "class_number_group_id": 963
   },
   {
     "class_id": "MNSC4002.01",
@@ -54531,7 +61746,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 808
+    "class_number_group_id": 964
   },
   {
     "class_id": "MNSC4004.01",
@@ -54590,7 +61805,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 809
+    "class_number_group_id": 965
   },
   {
     "class_id": "MNSC4006.01",
@@ -54639,14 +61854,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 810
+    "class_number_group_id": 966
   },
   {
     "class_id": "MNSC4007.01",
     "course_name": "供应链金融A",
     "department": "016 管理科学系",
     "teachers": "郭晓龙",
-    "time_location": "1~14周 2403: 1(8,9,10)",
+    "time_location": "3~16周 5205: 1(8,9,10)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -54664,11 +61879,11 @@ const classInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 14,
+          "start_week": 3,
+          "end_week": 16,
           "week_type": null
         },
-        "location": "2403",
+        "location": "5205",
         "campus": 1,
         "time_slots": [
           {
@@ -54682,7 +61897,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 811
+    "class_number_group_id": 967
   },
   {
     "class_id": "MNSC4009.01",
@@ -54731,7 +61946,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 812
+    "class_number_group_id": 968
   },
   {
     "class_id": "MNSC4010.01",
@@ -54781,7 +61996,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 813
+    "class_number_group_id": 969
   },
   {
     "class_id": "MSE4000.01",
@@ -54892,7 +62107,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 814
+    "class_number_group_id": 970
   },
   {
     "class_id": "MSE4001.01",
@@ -54942,7 +62157,1237 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 815
+    "class_number_group_id": 971
+  },
+  {
+    "class_id": "MSEN6002P.01",
+    "course_name": "固体材料结构学",
+    "department": "014 材料科学与工程系",
+    "teachers": "张文华,杜平武,周仕明",
+    "time_location": "13~18周 G3-110: 3(3,4,5)\n1~6周 G3-110: 3(3,4,5)\n7~12周 G3-110: 3(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "MSEN6002P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 13,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 6,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 7,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 972
+  },
+  {
+    "class_id": "MSEN6003P.01",
+    "course_name": "材料物理",
+    "department": "014 材料科学与工程系",
+    "teachers": "季恒星,金洪昌",
+    "time_location": "1~4周 GT-C102: 2(6,7) 4(6,7,8)\n5~16周 GT-C102: 2(6,7) 4(6,7,8)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 180,
+    "target_classes": null,
+    "course_number": "MSEN6003P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "location": "GT-C102",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "GT-C102",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 973
+  },
+  {
+    "class_id": "MSEN6006P.01",
+    "course_name": "薄膜材料科学与技术",
+    "department": "014 材料科学与工程系",
+    "teachers": "傅正平",
+    "time_location": "1~18周 G3-108: 1(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "MSEN6006P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-108",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 974
+  },
+  {
+    "class_id": "MSEN6007P.01",
+    "course_name": "晶体材料制备原理与技术",
+    "department": "014 材料科学与工程系",
+    "teachers": "丁锦文",
+    "time_location": "1~15周 G2-B303: 6(2,3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "MSEN6007P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "G2-B303",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 975
+  },
+  {
+    "class_id": "MSEN6008P.01",
+    "course_name": "材料的力学与热学性能",
+    "department": "014 材料科学与工程系",
+    "teachers": "王成威",
+    "time_location": "1~18周 G3-110: 2(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 150,
+    "target_classes": null,
+    "course_number": "MSEN6008P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G3-110",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 976
+  },
+  {
+    "class_id": "MSEN6008P.02",
+    "course_name": "材料的力学与热学性能",
+    "department": "014 材料科学与工程系",
+    "teachers": "张洁",
+    "time_location": "1~18周 GX-C1001: 2(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 150,
+    "target_classes": null,
+    "course_number": "MSEN6008P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "GX-C1001",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 976
+  },
+  {
+    "class_id": "MSEN6011P.01",
+    "course_name": "陶瓷科学与工艺学",
+    "department": "014 材料科学与工程系",
+    "teachers": "占忠亮,姚雨",
+    "time_location": "1~15周 GX-C1001: 2(9,10) 2(11,12)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 200,
+    "target_classes": null,
+    "course_number": "MSEN6011P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "GX-C1001",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 977
+  },
+  {
+    "class_id": "MSEN6012P.01",
+    "course_name": "固体化学",
+    "department": "014 材料科学与工程系",
+    "teachers": "初宝进,龙冉",
+    "time_location": "1~5周 G2-B403: 1(3,4,5) 4(3,4,5)\n6~10周 G2-B403: 1(3,4,5) 4(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "MSEN6012P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 5,
+          "week_type": null
+        },
+        "location": "G2-B403",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "G2-B403",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 978
+  },
+  {
+    "class_id": "MSEN6013P.01",
+    "course_name": "溶胶凝胶化学与工程引论",
+    "department": "014 材料科学与工程系",
+    "teachers": "张树辰,程位任",
+    "time_location": "11~14周 G3-108: 5(6,7,8)\n1~10周 G3-108: 5(6,7,8)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "MSEN6013P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "G3-108",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "G3-108",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 979
+  },
+  {
+    "class_id": "MSEN6015P.01",
+    "course_name": "材料中的速率过程",
+    "department": "014 材料科学与工程系",
+    "teachers": "陈初升",
+    "time_location": "1~18周 G2-B403: 5(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "MSEN6015P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "G2-B403",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 980
+  },
+  {
+    "class_id": "MSEN6101P.01",
+    "course_name": "材料科学的化学基础",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 1(8,9)\n郭可信楼109: 3(8,9)\n郭可信楼109: 5(8,9)",
+    "credit": 5.0,
+    "hours": 98,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6101P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 981
+  },
+  {
+    "class_id": "MSEN6102P.01",
+    "course_name": "材料中的扩散与相变",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 2(1,2)\n郭可信楼109: 5(1,2)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6102P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 982
+  },
+  {
+    "class_id": "MSEN6103P.02",
+    "course_name": "合金热力学",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼108: 2(8,9)\n郭可信楼108: 4(8,9)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 90,
+    "target_classes": null,
+    "course_number": "MSEN6103P",
+    "class_number": "02",
+    "parsed_time_location": [],
+    "class_number_group_id": 983
+  },
+  {
+    "class_id": "MSEN6105P.01",
+    "course_name": "数学物理方程",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 6(6,7)\n郭可信楼109: 6(8,9)",
+    "credit": 3.0,
+    "hours": 50,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6105P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 984
+  },
+  {
+    "class_id": "MSEN6106P.01",
+    "course_name": "数值分析",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 7(6,7)\n郭可信楼109: 7(8,9)",
+    "credit": 2.0,
+    "hours": 50,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6106P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 985
+  },
+  {
+    "class_id": "MSEN6108P.01",
+    "course_name": "材料的力学行为",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 3(1,2)\n郭可信楼109: 4(1,2)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6108P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 986
+  },
+  {
+    "class_id": "MSEN6109P.01",
+    "course_name": "凝固理论及技术",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109（上到20周）: 3(1,2)\n郭可信楼109（上到20周）: 4(1,2)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6109P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 987
+  },
+  {
+    "class_id": "MSEN6110P.01",
+    "course_name": "腐蚀电化学原理",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼107: 1(11,12)\n郭可信楼107: 4(11,12)\n郭可信楼107: 5(11,12)\n郭可信楼107: 6(11,12)\n郭可信楼107: 7(11,12)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MSEN6110P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 988
+  },
+  {
+    "class_id": "MSEN6111P.01",
+    "course_name": "高温氧化理论",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼108: 1(1,2)\n郭可信楼108: 3(11,12)",
+    "credit": 2.0,
+    "hours": 32,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 90,
+    "target_classes": null,
+    "course_number": "MSEN6111P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 989
+  },
+  {
+    "class_id": "MSEN6114P.01",
+    "course_name": "弹塑性力学",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信108: 1(11,12)\n郭可信108: 4(11,12)\n郭可信108: 5(11,12)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 90,
+    "target_classes": null,
+    "course_number": "MSEN6114P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 990
+  },
+  {
+    "class_id": "MSEN6116P.01",
+    "course_name": "材料疲劳与断裂",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼310: 2(8,9)\n郭可信楼310: 4(8,9)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 200,
+    "target_classes": null,
+    "course_number": "MSEN6116P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 991
+  },
+  {
+    "class_id": "MSEN6402P.02",
+    "course_name": "半导体器件原理",
+    "department": "014 材料科学与工程系",
+    "teachers": "向斌",
+    "time_location": "1~14周 GT-C102: 2(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "MSEN6402P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "GT-C102",
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 992
+  },
+  {
+    "class_id": "MSEN6406P.02",
+    "course_name": "无机新能源材料与应用",
+    "department": "014 材料科学与工程系",
+    "teachers": "陈立锋",
+    "time_location": "1~8周 GH-104: 1(9,10) 1(11,12,13)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 250,
+    "target_classes": null,
+    "course_number": "MSEN6406P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "GH-104",
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 993
+  },
+  {
+    "class_id": "MSEN6500P.01",
+    "course_name": "复合材料导论",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼107: 2(1,2)\n郭可信楼107: 5(1,2)",
+    "credit": 2.0,
+    "hours": 32,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MSEN6500P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 994
+  },
+  {
+    "class_id": "MSEN6501P.01",
+    "course_name": "材料摩擦学与耐磨性",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼108: 1(6,7)\n郭可信楼108: 3(6,7)\n郭可信楼108: 5(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 90,
+    "target_classes": null,
+    "course_number": "MSEN6501P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 995
+  },
+  {
+    "class_id": "MSEN6502P.01",
+    "course_name": "高温合金与金属间化合物",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 2(6,7)\n郭可信楼109: 4(6,7)",
+    "credit": 2.0,
+    "hours": 32,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6502P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 996
+  },
+  {
+    "class_id": "MSEN6504P.01",
+    "course_name": "现代材料焊接与连接工程学",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼107: 1(6,7)\n郭可信楼107: 3(6,7)\n郭可信楼107: 5(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MSEN6504P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 997
+  },
+  {
+    "class_id": "MSEN6505P.01",
+    "course_name": "透射电子显微学",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 1(3,4)\n郭可信楼109: 3(3,4)",
+    "credit": 2.0,
+    "hours": 32,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6505P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 998
+  },
+  {
+    "class_id": "MSEN6508P.01",
+    "course_name": "现代材料分析方法",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 1(6,7)\n郭可信楼109: 3(6,7)\n郭可信楼109: 5(6,7)",
+    "credit": 2.0,
+    "hours": 36,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6508P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 999
+  },
+  {
+    "class_id": "MSEN6509P.01",
+    "course_name": "材料的力学实验技术",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼108: 2(3,4)\n郭可信楼108: 4(3,4)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 90,
+    "target_classes": null,
+    "course_number": "MSEN6509P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1000
+  },
+  {
+    "class_id": "MSEN6510P.02",
+    "course_name": "科技论文写作与发表",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼310: 2(6,7)\n郭可信楼310: 4(6,7)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 200,
+    "target_classes": null,
+    "course_number": "MSEN6510P",
+    "class_number": "02",
+    "parsed_time_location": [],
+    "class_number_group_id": 1001
+  },
+  {
+    "class_id": "MSEN6511P.01",
+    "course_name": "材料学科文献资源获取与检索",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 2(3,4)\n郭可信楼109: 4(3,4)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "MSEN6511P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1002
+  },
+  {
+    "class_id": "MSEN7110P.01",
+    "course_name": "半导体光催化",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼108: 1(1,2)\n郭可信楼108: 2(1,2)\n郭可信楼108: 5(1,2)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 90,
+    "target_classes": null,
+    "course_number": "MSEN7110P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1003
+  },
+  {
+    "class_id": "MSEN7111P.01",
+    "course_name": "化工过程强化",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼309: 2(6,7)\n郭可信楼309: 4(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MSEN7111P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1004
+  },
+  {
+    "class_id": "MSEN7112P.01",
+    "course_name": "凝聚态物理",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼309: 1(6,7)\n郭可信楼309: 3(6,7)\n郭可信楼309: 5(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MSEN7112P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1005
+  },
+  {
+    "class_id": "MSEN7119P.01",
+    "course_name": "材料科学基础",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼107: 1(8,9)\n郭可信楼107: 3(8,9)\n郭可信楼107: 5(8,9)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MSEN7119P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1006
+  },
+  {
+    "class_id": "MSEN7120P.01",
+    "course_name": "计算材料学",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼309: 2(1,2)\n郭可信楼309: 5(1,2)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "MSEN7120P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1007
   },
   {
     "class_id": "NNM1501.02",
@@ -54985,7 +63430,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 816
+    "class_number_group_id": 1008
   },
   {
     "class_id": "NNM1503.02",
@@ -55028,7 +63473,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 817
+    "class_number_group_id": 1009
   },
   {
     "class_id": "NNM2001.01",
@@ -55071,7 +63516,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 818
+    "class_number_group_id": 1010
   },
   {
     "class_id": "NNM2004.01",
@@ -55114,7 +63559,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 819
+    "class_number_group_id": 1011
   },
   {
     "class_id": "NNM2005.01",
@@ -55131,7 +63576,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 2,
     "maximum_students": 40,
     "target_classes": "24网络与新媒体*",
     "course_number": "NNM2005",
@@ -55157,7 +63602,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 820
+    "class_number_group_id": 1012
   },
   {
     "class_id": "NNM2006.01",
@@ -55200,7 +63645,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 821
+    "class_number_group_id": 1013
   },
   {
     "class_id": "NNM2010.01",
@@ -55217,7 +63662,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 2,
     "maximum_students": 40,
     "target_classes": "24网络与新媒体*",
     "course_number": "NNM2010",
@@ -55243,14 +63688,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 822
+    "class_number_group_id": 1014
   },
   {
     "class_id": "NNM3001.01",
     "course_name": "沉浸式媒体：VR/AR/MR",
     "department": "025 科技传播系",
     "teachers": "张燕翔",
-    "time_location": "1~10周 实验课在北区融合楼三楼数字文化中心: 4(7,8,9,10)\n1~12周 5106: 2(11,12,13)",
+    "time_location": "1~10周 实验课在北区融合楼三楼数字文化中心: 3(2,3,4,5)\n1~12周 5106: 2(11,12,13)",
     "credit": 3.0,
     "hours": 80,
     "education_level": "本科",
@@ -55260,7 +63705,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 2,
     "maximum_students": 40,
     "target_classes": "24网络与新媒体*",
     "course_number": "NNM3001",
@@ -55276,12 +63721,12 @@ const classInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 4,
+            "day_of_week": 3,
             "periods": [
-              7,
-              8,
-              9,
-              10
+              2,
+              3,
+              4,
+              5
             ]
           }
         ]
@@ -55306,7 +63751,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 823
+    "class_number_group_id": 1015
   },
   {
     "class_id": "NNM3002.01",
@@ -55323,7 +63768,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 19,
     "maximum_students": 40,
     "target_classes": "23网络与新媒体*",
     "course_number": "NNM3002",
@@ -55370,7 +63815,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 824
+    "class_number_group_id": 1016
   },
   {
     "class_id": "NNM3003.01",
@@ -55387,7 +63832,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 22,
     "maximum_students": 40,
     "target_classes": "23网络与新媒体*",
     "course_number": "NNM3003",
@@ -55451,7 +63896,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 825
+    "class_number_group_id": 1017
   },
   {
     "class_id": "NNM3004.01",
@@ -55468,7 +63913,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 19,
     "maximum_students": 40,
     "target_classes": "23网络与新媒体*",
     "course_number": "NNM3004",
@@ -55494,7 +63939,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 826
+    "class_number_group_id": 1018
   },
   {
     "class_id": "NNM3005.01",
@@ -55511,7 +63956,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 21,
     "maximum_students": 40,
     "target_classes": "23网络与新媒体*",
     "course_number": "NNM3005",
@@ -55537,7 +63982,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 827
+    "class_number_group_id": 1019
   },
   {
     "class_id": "NNM4001.01",
@@ -55600,7 +64045,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 828
+    "class_number_group_id": 1020
   },
   {
     "class_id": "NNM4003.01",
@@ -55643,7 +64088,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 829
+    "class_number_group_id": 1021
   },
   {
     "class_id": "NSE2001.01",
@@ -55660,7 +64105,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 67,
     "maximum_students": 70,
     "target_classes": "23赵忠尧应用物理科技英才班T,24核工程与核技术,24工程物理",
     "course_number": "NSE2001",
@@ -55705,7 +64150,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 830
+    "class_number_group_id": 1022
   },
   {
     "class_id": "NSE2002.01",
@@ -55722,7 +64167,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 34,
     "maximum_students": 50,
     "target_classes": "23核工程与核技术",
     "course_number": "NSE2002",
@@ -55755,7 +64200,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 831
+    "class_number_group_id": 1023
   },
   {
     "class_id": "NSE3001.01",
@@ -55772,7 +64217,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 45,
     "maximum_students": 90,
     "target_classes": "23核工程与核技术,23工程物理,23医学物理,23粒子物理与原子核物理",
     "course_number": "NSE3001",
@@ -55805,7 +64250,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 832
+    "class_number_group_id": 1024
   },
   {
     "class_id": "NSE3006.01",
@@ -55822,7 +64267,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 35,
     "maximum_students": 70,
     "target_classes": "23核工程与核技术",
     "course_number": "NSE3006",
@@ -55848,7 +64293,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 833
+    "class_number_group_id": 1025
   },
   {
     "class_id": "NSE3007.01",
@@ -55909,7 +64354,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 834
+    "class_number_group_id": 1026
   },
   {
     "class_id": "NSE3008.01",
@@ -55953,7 +64398,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 835
+    "class_number_group_id": 1027
   },
   {
     "class_id": "NSE3009.01",
@@ -55970,7 +64415,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 15,
     "maximum_students": 50,
     "target_classes": "23工程物理",
     "course_number": "NSE3009",
@@ -56061,7 +64506,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 836
+    "class_number_group_id": 1028
   },
   {
     "class_id": "NSE4003.01",
@@ -56185,7 +64630,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 837
+    "class_number_group_id": 1029
   },
   {
     "class_id": "NSE4006.01",
@@ -56234,7 +64679,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 838
+    "class_number_group_id": 1030
   },
   {
     "class_id": "NSE4015.01",
@@ -56277,7 +64722,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 839
+    "class_number_group_id": 1031
   },
   {
     "class_id": "NSE4018.01",
@@ -56320,7 +64765,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 840
+    "class_number_group_id": 1032
   },
   {
     "class_id": "NSE4020.01",
@@ -56382,7 +64827,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 841
+    "class_number_group_id": 1033
   },
   {
     "class_id": "NSE4022.01",
@@ -56444,7 +64889,193 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 842
+    "class_number_group_id": 1034
+  },
+  {
+    "class_id": "NSTE6002P.01",
+    "course_name": "同步辐射光源物理引论",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "徐卫",
+    "time_location": "2~15周 3A102: 2(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "NSTE6002P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "3A102",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1035
+  },
+  {
+    "class_id": "NSTE6007P.01",
+    "course_name": "同步辐射技术及应用",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "闫文盛,王占东,戚泽明,叶逸凡,关勇,徐文杰",
+    "time_location": "2~17周 3B102: 2(1,2) 5(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 115,
+    "target_classes": null,
+    "course_number": "NSTE6007P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 17,
+          "week_type": null
+        },
+        "location": "3B102",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              1,
+              2
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1036
+  },
+  {
+    "class_id": "NSTE6009P.01",
+    "course_name": "反应动力学与同步辐射光电离质谱",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "赵龙",
+    "time_location": "9~16周 3A203: 3(1,2) 5(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "NSTE6009P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "3A203",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1037
+  },
+  {
+    "class_id": "NSTE6012P.01",
+    "course_name": "质子重离子加速器",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "唐靖宇,邹野",
+    "time_location": "1~11,13~14周 3A316: 2(3,4,5) 4(1,2)\n1~11,13~14周 3A316: 4(1,2)\n1~14周 3A316: 2(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "NSTE6012P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A316",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1038
   },
   {
     "class_id": "NSTE6102P.01",
@@ -56494,7 +65125,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 843
+    "class_number_group_id": 1039
   },
   {
     "class_id": "NSTE6104P.01",
@@ -56537,7 +65168,213 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 844
+    "class_number_group_id": 1040
+  },
+  {
+    "class_id": "NSTE6404P.01",
+    "course_name": "加速器控制技术",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "刘功发",
+    "time_location": "2~16周 3A209: 1(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "NSTE6404P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "3A209",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1041
+  },
+  {
+    "class_id": "NSTE6414P.01",
+    "course_name": "大电流能量技术与应用",
+    "department": "168 合肥物质研究院",
+    "teachers": null,
+    "time_location": null,
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "NSTE6414P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1042
+  },
+  {
+    "class_id": "NSTE6415P.01",
+    "course_name": "电路理论基础与应用",
+    "department": "168 合肥物质研究院",
+    "teachers": null,
+    "time_location": null,
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "NSTE6415P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1043
+  },
+  {
+    "class_id": "NSTE6417P.01",
+    "course_name": "加速器束流诊断",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "冷用斌,罗箐",
+    "time_location": "1~11,13~16周 3A210: 2(6,7)\n1~14周 3A210: 2(6,7) 5(6,7)\n1~14周 3A210: 5(6,7)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 24,
+    "target_classes": null,
+    "course_number": "NSTE6417P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A210",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A210",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1044
+  },
+  {
+    "class_id": "NSTE6419P.01",
+    "course_name": "面向先进光源的人工智能技术导论",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "孙喆",
+    "time_location": "5~16周 3A209: 1(6,7) 4(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 30,
+    "target_classes": null,
+    "course_number": "NSTE6419P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "3A209",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1045
   },
   {
     "class_id": "NSTE6501P.01",
@@ -56580,7 +65417,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 845
+    "class_number_group_id": 1046
   },
   {
     "class_id": "NSTE6502P.01",
@@ -56624,7 +65461,259 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 846
+    "class_number_group_id": 1047
+  },
+  {
+    "class_id": "NSTE7003P.01",
+    "course_name": "自由电子激光物理导论",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "黄瑞萱",
+    "time_location": "3A110: 1(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "NSTE7003P",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1048
+  },
+  {
+    "class_id": "NSTE7004P.01",
+    "course_name": "文献阅读与分析",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "陈双明",
+    "time_location": "1~14周 3A310: 2(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "NSTE7004P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A310",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1049
+  },
+  {
+    "class_id": "NSTE7004P.02",
+    "course_name": "文献阅读与分析",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "宋礼",
+    "time_location": "1~14周 3A210: 4(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "NSTE7004P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A210",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1050
+  },
+  {
+    "class_id": "NSTE7005P.01",
+    "course_name": "同步辐射应用进展",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "姚涛,郑旭升",
+    "time_location": "7~16周 3A104: 3(6,7) 4(6,7)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "NSTE7005P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 7,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "3A104",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1051
+  },
+  {
+    "class_id": "NSTE7005P.02",
+    "course_name": "同步辐射应用进展",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "姚涛,郑旭升",
+    "time_location": "7~16周 3A109: 2(9,10) 3(3,4)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "其他",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "NSTE7005P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 7,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "3A109",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1052
+  },
+  {
+    "class_id": "NSTE7006P.01",
+    "course_name": "核技术工程前沿进展",
+    "department": "231 国家同步辐射实验室",
+    "teachers": "王琳,王秋平,朱俊发,白正贺,唐靖宇,刘建北,冯光耀",
+    "time_location": "1~17周 3B201: 5(6,7,8,9,10)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "NSTE7006P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 17,
+          "week_type": null
+        },
+        "location": "3B201",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1053
   },
   {
     "class_id": "PE00101.01",
@@ -56666,7 +65755,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 847
+    "class_number_group_id": 1054
   },
   {
     "class_id": "PE00101.02",
@@ -56708,7 +65797,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 848
+    "class_number_group_id": 1055
   },
   {
     "class_id": "PE00101.03",
@@ -56750,7 +65839,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 849
+    "class_number_group_id": 1056
   },
   {
     "class_id": "PE00101.04",
@@ -56792,7 +65881,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 850
+    "class_number_group_id": 1057
   },
   {
     "class_id": "PE00102.01",
@@ -56834,7 +65923,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 851
+    "class_number_group_id": 1058
   },
   {
     "class_id": "PE00102.02",
@@ -56876,7 +65965,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 852
+    "class_number_group_id": 1059
   },
   {
     "class_id": "PE00102.03",
@@ -56918,7 +66007,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 853
+    "class_number_group_id": 1060
   },
   {
     "class_id": "PE00102.04",
@@ -56960,7 +66049,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 854
+    "class_number_group_id": 1061
   },
   {
     "class_id": "PE00102.05",
@@ -57002,7 +66091,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 855
+    "class_number_group_id": 1062
   },
   {
     "class_id": "PE00102.06",
@@ -57044,7 +66133,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 856
+    "class_number_group_id": 1063
   },
   {
     "class_id": "PE00102.08",
@@ -57086,7 +66175,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 857
+    "class_number_group_id": 1064
   },
   {
     "class_id": "PE00103.01",
@@ -57128,7 +66217,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 858
+    "class_number_group_id": 1065
   },
   {
     "class_id": "PE00103.02",
@@ -57170,7 +66259,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 859
+    "class_number_group_id": 1066
   },
   {
     "class_id": "PE00103.03",
@@ -57212,7 +66301,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 860
+    "class_number_group_id": 1067
   },
   {
     "class_id": "PE00103.04",
@@ -57254,7 +66343,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 861
+    "class_number_group_id": 1068
   },
   {
     "class_id": "PE00104.01",
@@ -57296,7 +66385,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 862
+    "class_number_group_id": 1069
   },
   {
     "class_id": "PE00104.02",
@@ -57338,7 +66427,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 863
+    "class_number_group_id": 1070
   },
   {
     "class_id": "PE00104.04",
@@ -57380,7 +66469,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 864
+    "class_number_group_id": 1071
   },
   {
     "class_id": "PE00105.01",
@@ -57422,7 +66511,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 865
+    "class_number_group_id": 1072
   },
   {
     "class_id": "PE00105.02",
@@ -57464,7 +66553,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 866
+    "class_number_group_id": 1073
   },
   {
     "class_id": "PE00105.03",
@@ -57506,7 +66595,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 867
+    "class_number_group_id": 1074
   },
   {
     "class_id": "PE00105.04",
@@ -57548,7 +66637,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 866
+    "class_number_group_id": 1073
   },
   {
     "class_id": "PE00105.05",
@@ -57590,7 +66679,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 867
+    "class_number_group_id": 1074
   },
   {
     "class_id": "PE00105.06",
@@ -57632,7 +66721,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 868
+    "class_number_group_id": 1075
   },
   {
     "class_id": "PE00105.07",
@@ -57674,7 +66763,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 869
+    "class_number_group_id": 1076
   },
   {
     "class_id": "PE00105.08",
@@ -57716,7 +66805,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 868
+    "class_number_group_id": 1075
   },
   {
     "class_id": "PE00105.09",
@@ -57758,7 +66847,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 869
+    "class_number_group_id": 1076
   },
   {
     "class_id": "PE00105.10",
@@ -57800,7 +66889,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 865
+    "class_number_group_id": 1072
   },
   {
     "class_id": "PE00106.01",
@@ -57842,7 +66931,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 870
+    "class_number_group_id": 1077
   },
   {
     "class_id": "PE00106.02",
@@ -57884,7 +66973,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 871
+    "class_number_group_id": 1078
   },
   {
     "class_id": "PE00106.03",
@@ -57926,7 +67015,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 872
+    "class_number_group_id": 1079
   },
   {
     "class_id": "PE00106.04",
@@ -57968,7 +67057,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 873
+    "class_number_group_id": 1080
   },
   {
     "class_id": "PE00106.05",
@@ -58010,7 +67099,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 874
+    "class_number_group_id": 1081
   },
   {
     "class_id": "PE00106.06",
@@ -58052,7 +67141,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 871
+    "class_number_group_id": 1078
   },
   {
     "class_id": "PE00106.07",
@@ -58094,7 +67183,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 872
+    "class_number_group_id": 1079
   },
   {
     "class_id": "PE00107.01",
@@ -58136,7 +67225,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 875
+    "class_number_group_id": 1082
   },
   {
     "class_id": "PE00107.02",
@@ -58178,7 +67267,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 876
+    "class_number_group_id": 1083
   },
   {
     "class_id": "PE00107.03",
@@ -58220,7 +67309,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 877
+    "class_number_group_id": 1084
   },
   {
     "class_id": "PE00107.04",
@@ -58262,7 +67351,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 876
+    "class_number_group_id": 1083
   },
   {
     "class_id": "PE00107.05",
@@ -58304,7 +67393,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 878
+    "class_number_group_id": 1085
   },
   {
     "class_id": "PE00108.01",
@@ -58346,7 +67435,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 879
+    "class_number_group_id": 1086
   },
   {
     "class_id": "PE00108.02",
@@ -58388,7 +67477,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 880
+    "class_number_group_id": 1087
   },
   {
     "class_id": "PE00108.05",
@@ -58430,7 +67519,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 881
+    "class_number_group_id": 1088
   },
   {
     "class_id": "PE00109.01",
@@ -58472,7 +67561,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 882
+    "class_number_group_id": 1089
   },
   {
     "class_id": "PE00109.02",
@@ -58514,7 +67603,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 883
+    "class_number_group_id": 1090
   },
   {
     "class_id": "PE00109.03",
@@ -58556,7 +67645,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 884
+    "class_number_group_id": 1091
   },
   {
     "class_id": "PE00109.04",
@@ -58598,7 +67687,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 885
+    "class_number_group_id": 1092
   },
   {
     "class_id": "PE00109.05",
@@ -58640,7 +67729,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 885
+    "class_number_group_id": 1092
   },
   {
     "class_id": "PE00109.06",
@@ -58682,7 +67771,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 886
+    "class_number_group_id": 1093
   },
   {
     "class_id": "PE00110.01",
@@ -58724,7 +67813,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 887
+    "class_number_group_id": 1094
   },
   {
     "class_id": "PE00110.02",
@@ -58766,7 +67855,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 888
+    "class_number_group_id": 1095
   },
   {
     "class_id": "PE00110.03",
@@ -58808,7 +67897,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 889
+    "class_number_group_id": 1096
   },
   {
     "class_id": "PE00110.04",
@@ -58850,7 +67939,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 889
+    "class_number_group_id": 1096
   },
   {
     "class_id": "PE00110.05",
@@ -58892,7 +67981,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 890
+    "class_number_group_id": 1097
   },
   {
     "class_id": "PE00110.06",
@@ -58934,7 +68023,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 891
+    "class_number_group_id": 1098
   },
   {
     "class_id": "PE00110.07",
@@ -58976,7 +68065,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 892
+    "class_number_group_id": 1099
   },
   {
     "class_id": "PE00110.08",
@@ -59018,7 +68107,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 893
+    "class_number_group_id": 1100
   },
   {
     "class_id": "PE00111.01",
@@ -59060,7 +68149,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 894
+    "class_number_group_id": 1101
   },
   {
     "class_id": "PE00111.02",
@@ -59102,7 +68191,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 895
+    "class_number_group_id": 1102
   },
   {
     "class_id": "PE00111.03",
@@ -59144,7 +68233,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 896
+    "class_number_group_id": 1103
   },
   {
     "class_id": "PE00111.04",
@@ -59186,7 +68275,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 897
+    "class_number_group_id": 1104
   },
   {
     "class_id": "PE00111.05",
@@ -59228,7 +68317,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 898
+    "class_number_group_id": 1105
   },
   {
     "class_id": "PE00112.01",
@@ -59270,7 +68359,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 899
+    "class_number_group_id": 1106
   },
   {
     "class_id": "PE00113.01",
@@ -59312,7 +68401,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 900
+    "class_number_group_id": 1107
   },
   {
     "class_id": "PE00113.02",
@@ -59354,7 +68443,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 901
+    "class_number_group_id": 1108
   },
   {
     "class_id": "PE00113.03",
@@ -59396,7 +68485,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 902
+    "class_number_group_id": 1109
   },
   {
     "class_id": "PE00113.04",
@@ -59438,7 +68527,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 900
+    "class_number_group_id": 1107
   },
   {
     "class_id": "PE00113.05",
@@ -59480,7 +68569,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 901
+    "class_number_group_id": 1108
   },
   {
     "class_id": "PE00114.01",
@@ -59522,7 +68611,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 903
+    "class_number_group_id": 1110
   },
   {
     "class_id": "PE00114.02",
@@ -59564,7 +68653,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 904
+    "class_number_group_id": 1111
   },
   {
     "class_id": "PE00114.03",
@@ -59606,7 +68695,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 905
+    "class_number_group_id": 1112
   },
   {
     "class_id": "PE00115.01",
@@ -59648,7 +68737,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 906
+    "class_number_group_id": 1113
   },
   {
     "class_id": "PE00115.02",
@@ -59690,7 +68779,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 907
+    "class_number_group_id": 1114
   },
   {
     "class_id": "PE00115.03",
@@ -59732,7 +68821,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 908
+    "class_number_group_id": 1115
   },
   {
     "class_id": "PE00115.04",
@@ -59774,7 +68863,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 908
+    "class_number_group_id": 1115
   },
   {
     "class_id": "PE00115.05",
@@ -59816,7 +68905,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 909
+    "class_number_group_id": 1116
   },
   {
     "class_id": "PE00115.06",
@@ -59858,7 +68947,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 906
+    "class_number_group_id": 1113
   },
   {
     "class_id": "PE00115.07",
@@ -59900,7 +68989,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 910
+    "class_number_group_id": 1117
   },
   {
     "class_id": "PE00116.01",
@@ -59942,7 +69031,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 911
+    "class_number_group_id": 1118
   },
   {
     "class_id": "PE00116.02",
@@ -59984,7 +69073,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 912
+    "class_number_group_id": 1119
   },
   {
     "class_id": "PE00116.03",
@@ -60026,7 +69115,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 913
+    "class_number_group_id": 1120
   },
   {
     "class_id": "PE00116.06",
@@ -60068,7 +69157,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 914
+    "class_number_group_id": 1121
   },
   {
     "class_id": "PE00117.01",
@@ -60110,7 +69199,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 915
+    "class_number_group_id": 1122
   },
   {
     "class_id": "PE00117.02",
@@ -60152,7 +69241,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 916
+    "class_number_group_id": 1123
   },
   {
     "class_id": "PE00118.03",
@@ -60194,7 +69283,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 917
+    "class_number_group_id": 1124
   },
   {
     "class_id": "PE00119.01",
@@ -60236,7 +69325,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 918
+    "class_number_group_id": 1125
   },
   {
     "class_id": "PE00119.02",
@@ -60278,7 +69367,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 919
+    "class_number_group_id": 1126
   },
   {
     "class_id": "PE00119.03",
@@ -60320,7 +69409,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 920
+    "class_number_group_id": 1127
   },
   {
     "class_id": "PE00119.04",
@@ -60362,7 +69451,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 921
+    "class_number_group_id": 1128
   },
   {
     "class_id": "PE00119.05",
@@ -60404,7 +69493,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 918
+    "class_number_group_id": 1125
   },
   {
     "class_id": "PE00119.06",
@@ -60446,7 +69535,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 921
+    "class_number_group_id": 1128
   },
   {
     "class_id": "PE00119.07",
@@ -60488,7 +69577,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 922
+    "class_number_group_id": 1129
   },
   {
     "class_id": "PE00119.08",
@@ -60530,7 +69619,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 921
+    "class_number_group_id": 1128
   },
   {
     "class_id": "PE00119.09",
@@ -60572,7 +69661,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 922
+    "class_number_group_id": 1129
   },
   {
     "class_id": "PE00119.10",
@@ -60614,7 +69703,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 922
+    "class_number_group_id": 1129
   },
   {
     "class_id": "PE00119.11",
@@ -60656,7 +69745,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 921
+    "class_number_group_id": 1128
   },
   {
     "class_id": "PE00119.12",
@@ -60698,7 +69787,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 919
+    "class_number_group_id": 1126
   },
   {
     "class_id": "PE00120.01",
@@ -60740,7 +69829,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 923
+    "class_number_group_id": 1130
   },
   {
     "class_id": "PE00120.02",
@@ -60782,7 +69871,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 924
+    "class_number_group_id": 1131
   },
   {
     "class_id": "PE00120.03",
@@ -60824,7 +69913,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 925
+    "class_number_group_id": 1132
   },
   {
     "class_id": "PE00120.04",
@@ -60866,7 +69955,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 926
+    "class_number_group_id": 1133
   },
   {
     "class_id": "PE00120.05",
@@ -60908,7 +69997,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 927
+    "class_number_group_id": 1134
   },
   {
     "class_id": "PE00120.07",
@@ -60950,7 +70039,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 924
+    "class_number_group_id": 1131
   },
   {
     "class_id": "PE00122.01",
@@ -60992,7 +70081,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 928
+    "class_number_group_id": 1135
   },
   {
     "class_id": "PE00122.02",
@@ -61034,7 +70123,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 929
+    "class_number_group_id": 1136
   },
   {
     "class_id": "PE00122.03",
@@ -61076,7 +70165,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 930
+    "class_number_group_id": 1137
   },
   {
     "class_id": "PE00124.02",
@@ -61118,7 +70207,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 931
+    "class_number_group_id": 1138
   },
   {
     "class_id": "PE00125w.01",
@@ -61160,7 +70249,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 932
+    "class_number_group_id": 1139
   },
   {
     "class_id": "PE00125w.02",
@@ -61202,7 +70291,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 933
+    "class_number_group_id": 1140
   },
   {
     "class_id": "PE00126w.01",
@@ -61244,7 +70333,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 934
+    "class_number_group_id": 1141
   },
   {
     "class_id": "PE00126w.03",
@@ -61286,7 +70375,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 935
+    "class_number_group_id": 1142
   },
   {
     "class_id": "PE00127.01",
@@ -61328,7 +70417,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 936
+    "class_number_group_id": 1143
   },
   {
     "class_id": "PE00127.02",
@@ -61370,7 +70459,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 937
+    "class_number_group_id": 1144
   },
   {
     "class_id": "PE00127.03",
@@ -61412,7 +70501,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 938
+    "class_number_group_id": 1145
   },
   {
     "class_id": "PE00127.04",
@@ -61454,7 +70543,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 939
+    "class_number_group_id": 1146
   },
   {
     "class_id": "PE00127.05",
@@ -61496,7 +70585,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 940
+    "class_number_group_id": 1147
   },
   {
     "class_id": "PE00127.06",
@@ -61538,7 +70627,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 941
+    "class_number_group_id": 1148
   },
   {
     "class_id": "PE00127.07",
@@ -61580,7 +70669,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 942
+    "class_number_group_id": 1149
   },
   {
     "class_id": "PE00127.08",
@@ -61622,7 +70711,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 943
+    "class_number_group_id": 1150
   },
   {
     "class_id": "PE00127.09",
@@ -61664,7 +70753,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 940
+    "class_number_group_id": 1147
   },
   {
     "class_id": "PE00127.10",
@@ -61706,7 +70795,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 942
+    "class_number_group_id": 1149
   },
   {
     "class_id": "PE00127.11",
@@ -61748,7 +70837,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 936
+    "class_number_group_id": 1143
   },
   {
     "class_id": "PE00127.12",
@@ -61790,7 +70879,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 938
+    "class_number_group_id": 1145
   },
   {
     "class_id": "PE00127.13",
@@ -61832,7 +70921,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 944
+    "class_number_group_id": 1151
   },
   {
     "class_id": "PE00127.14",
@@ -61874,7 +70963,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 943
+    "class_number_group_id": 1150
   },
   {
     "class_id": "PE00127.15",
@@ -61916,7 +71005,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 940
+    "class_number_group_id": 1147
   },
   {
     "class_id": "PE00127.16",
@@ -61958,7 +71047,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 945
+    "class_number_group_id": 1152
   },
   {
     "class_id": "PE00127.17",
@@ -62000,7 +71089,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 946
+    "class_number_group_id": 1153
   },
   {
     "class_id": "PE00127.18",
@@ -62042,7 +71131,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 937
+    "class_number_group_id": 1144
   },
   {
     "class_id": "PE00128w.01",
@@ -62084,7 +71173,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 947
+    "class_number_group_id": 1154
   },
   {
     "class_id": "PE00128w.02",
@@ -62126,7 +71215,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 948
+    "class_number_group_id": 1155
   },
   {
     "class_id": "PE00130w.01",
@@ -62168,7 +71257,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 949
+    "class_number_group_id": 1156
   },
   {
     "class_id": "PE00131w.01",
@@ -62210,7 +71299,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 950
+    "class_number_group_id": 1157
   },
   {
     "class_id": "PE00131w.02",
@@ -62252,7 +71341,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 951
+    "class_number_group_id": 1158
   },
   {
     "class_id": "PE00132.01",
@@ -62294,7 +71383,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 952
+    "class_number_group_id": 1159
   },
   {
     "class_id": "PE00132.02",
@@ -62336,7 +71425,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 953
+    "class_number_group_id": 1160
   },
   {
     "class_id": "PE00132.03",
@@ -62378,7 +71467,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 954
+    "class_number_group_id": 1161
   },
   {
     "class_id": "PE00132.04",
@@ -62401,7 +71490,7 @@ const classInfo = [
     "course_number": "PE00132",
     "class_number": "04",
     "parsed_time_location": [],
-    "class_number_group_id": 955
+    "class_number_group_id": 1162
   },
   {
     "class_id": "PE00132.05",
@@ -62443,7 +71532,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 956
+    "class_number_group_id": 1163
   },
   {
     "class_id": "PE00133.01",
@@ -62485,7 +71574,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 957
+    "class_number_group_id": 1164
   },
   {
     "class_id": "PE00133.02",
@@ -62527,7 +71616,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 958
+    "class_number_group_id": 1165
   },
   {
     "class_id": "PE00133.03",
@@ -62569,7 +71658,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 959
+    "class_number_group_id": 1166
   },
   {
     "class_id": "PE00139.01",
@@ -62611,7 +71700,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 960
+    "class_number_group_id": 1167
   },
   {
     "class_id": "PE00139.02",
@@ -62653,7 +71742,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 961
+    "class_number_group_id": 1168
   },
   {
     "class_id": "PE00139.03",
@@ -62695,7 +71784,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 961
+    "class_number_group_id": 1168
   },
   {
     "class_id": "PE00139.05",
@@ -62737,7 +71826,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 960
+    "class_number_group_id": 1167
   },
   {
     "class_id": "PE00140.01",
@@ -62779,7 +71868,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 962
+    "class_number_group_id": 1169
   },
   {
     "class_id": "PE00141.02",
@@ -62821,7 +71910,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 963
+    "class_number_group_id": 1170
   },
   {
     "class_id": "PE00145.01",
@@ -62863,7 +71952,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 964
+    "class_number_group_id": 1171
   },
   {
     "class_id": "PE00146.01",
@@ -62905,7 +71994,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 965
+    "class_number_group_id": 1172
   },
   {
     "class_id": "PE00146.02",
@@ -62947,7 +72036,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 966
+    "class_number_group_id": 1173
   },
   {
     "class_id": "PE00146.03",
@@ -62989,7 +72078,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 967
+    "class_number_group_id": 1174
   },
   {
     "class_id": "PE00148.01",
@@ -63031,7 +72120,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 968
+    "class_number_group_id": 1175
   },
   {
     "class_id": "PE00152.01",
@@ -63073,7 +72162,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 969
+    "class_number_group_id": 1176
   },
   {
     "class_id": "PE00527.03",
@@ -63115,7 +72204,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 970
+    "class_number_group_id": 1177
   },
   {
     "class_id": "PE00528.02",
@@ -63157,7 +72246,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 971
+    "class_number_group_id": 1178
   },
   {
     "class_id": "PE00530.02",
@@ -63199,7 +72288,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 972
+    "class_number_group_id": 1179
   },
   {
     "class_id": "PE00531.01",
@@ -63241,7 +72330,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 973
+    "class_number_group_id": 1180
   },
   {
     "class_id": "PE00531.02",
@@ -63283,7 +72372,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 974
+    "class_number_group_id": 1181
   },
   {
     "class_id": "PE00531.04",
@@ -63325,7 +72414,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 975
+    "class_number_group_id": 1182
   },
   {
     "class_id": "PE00532.01",
@@ -63367,7 +72456,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 976
+    "class_number_group_id": 1183
   },
   {
     "class_id": "PE00532.02",
@@ -63409,7 +72498,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 977
+    "class_number_group_id": 1184
   },
   {
     "class_id": "PE1501.02",
@@ -63451,7 +72540,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 978
+    "class_number_group_id": 1185
   },
   {
     "class_id": "PE1502.02",
@@ -63493,7 +72582,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 979
+    "class_number_group_id": 1186
   },
   {
     "class_id": "PE1901.02",
@@ -63535,7 +72624,76 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 980
+    "class_number_group_id": 1187
+  },
+  {
+    "class_id": "PHIL6101U.36",
+    "course_name": "自然辩证法概论",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼309: 1(3,4)\n郭可信楼309: 3(3,4)\n郭可信楼309: 5(3,4)",
+    "credit": 1.0,
+    "hours": 20,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "PHIL6101U",
+    "class_number": "36",
+    "parsed_time_location": [],
+    "class_number_group_id": 1188
+  },
+  {
+    "class_id": "PHIL6301U.18",
+    "course_name": "工程伦理",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼309: 1(3,4)\n郭可信楼309: 3(3,4)\n郭可信楼309: 5(3,4)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "PHIL6301U",
+    "class_number": "18",
+    "parsed_time_location": [],
+    "class_number_group_id": 1189
+  },
+  {
+    "class_id": "PHIL7101U.21",
+    "course_name": "中国马克思主义与当代",
+    "department": "169 金属所",
+    "teachers": null,
+    "time_location": "郭可信楼109: 6(1,2)\n郭可信楼109: 6(3,4)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 110,
+    "target_classes": null,
+    "course_number": "PHIL7101U",
+    "class_number": "21",
+    "parsed_time_location": [],
+    "class_number_group_id": 1190
   },
   {
     "class_id": "PHYS1001A.16",
@@ -63585,7 +72743,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 981
+    "class_number_group_id": 1191
   },
   {
     "class_id": "PHYS1001B.02",
@@ -63634,7 +72792,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 982
+    "class_number_group_id": 1192
   },
   {
     "class_id": "PHYS1001B.03",
@@ -63683,7 +72841,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 983
+    "class_number_group_id": 1193
   },
   {
     "class_id": "PHYS1001B.04",
@@ -63732,7 +72890,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 984
+    "class_number_group_id": 1194
   },
   {
     "class_id": "PHYS1001B.05",
@@ -63781,7 +72939,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 985
+    "class_number_group_id": 1195
   },
   {
     "class_id": "PHYS1001B.06",
@@ -63830,7 +72988,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 986
+    "class_number_group_id": 1196
   },
   {
     "class_id": "PHYS1001B.07",
@@ -63879,7 +73037,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 987
+    "class_number_group_id": 1197
   },
   {
     "class_id": "PHYS1001B.08",
@@ -63928,7 +73086,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 986
+    "class_number_group_id": 1196
   },
   {
     "class_id": "PHYS1001B.09",
@@ -63977,7 +73135,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 986
+    "class_number_group_id": 1196
   },
   {
     "class_id": "PHYS1001B.10",
@@ -64026,7 +73184,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 988
+    "class_number_group_id": 1198
   },
   {
     "class_id": "PHYS1001B.11",
@@ -64075,7 +73233,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 986
+    "class_number_group_id": 1196
   },
   {
     "class_id": "PHYS1001B.12",
@@ -64124,7 +73282,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 987
+    "class_number_group_id": 1197
   },
   {
     "class_id": "PHYS1001B.13",
@@ -64173,7 +73331,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 985
+    "class_number_group_id": 1195
   },
   {
     "class_id": "PHYS1001B.14",
@@ -64222,7 +73380,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 985
+    "class_number_group_id": 1195
   },
   {
     "class_id": "PHYS1001B.15",
@@ -64271,7 +73429,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 985
+    "class_number_group_id": 1195
   },
   {
     "class_id": "PHYS1001B.16",
@@ -64320,7 +73478,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 986
+    "class_number_group_id": 1196
   },
   {
     "class_id": "PHYS1001B.17",
@@ -64369,7 +73527,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 988
+    "class_number_group_id": 1198
   },
   {
     "class_id": "PHYS1002A.02",
@@ -64418,7 +73576,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 989
+    "class_number_group_id": 1199
   },
   {
     "class_id": "PHYS1002A.03",
@@ -64467,7 +73625,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 989
+    "class_number_group_id": 1199
   },
   {
     "class_id": "PHYS1002A.04",
@@ -64516,7 +73674,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 990
+    "class_number_group_id": 1200
   },
   {
     "class_id": "PHYS1002A.05",
@@ -64565,7 +73723,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 990
+    "class_number_group_id": 1200
   },
   {
     "class_id": "PHYS1002A.06",
@@ -64614,7 +73772,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 989
+    "class_number_group_id": 1199
   },
   {
     "class_id": "PHYS1002A.07",
@@ -64663,7 +73821,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 990
+    "class_number_group_id": 1200
   },
   {
     "class_id": "PHYS1002A.08",
@@ -64712,7 +73870,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 989
+    "class_number_group_id": 1199
   },
   {
     "class_id": "PHYS1002A.09",
@@ -64761,7 +73919,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 991
+    "class_number_group_id": 1201
   },
   {
     "class_id": "PHYS1002A.10",
@@ -64810,7 +73968,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 991
+    "class_number_group_id": 1201
   },
   {
     "class_id": "PHYS1002A.11",
@@ -64859,7 +74017,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 991
+    "class_number_group_id": 1201
   },
   {
     "class_id": "PHYS1002B.02",
@@ -64909,7 +74067,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 992
+    "class_number_group_id": 1202
   },
   {
     "class_id": "PHYS1002B.03",
@@ -64959,7 +74117,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 993
+    "class_number_group_id": 1203
   },
   {
     "class_id": "PHYS1002B.04",
@@ -65009,7 +74167,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 994
+    "class_number_group_id": 1204
   },
   {
     "class_id": "PHYS1002B.05",
@@ -65059,7 +74217,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 995
+    "class_number_group_id": 1205
   },
   {
     "class_id": "PHYS1002B.06",
@@ -65109,7 +74267,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 996
+    "class_number_group_id": 1206
   },
   {
     "class_id": "PHYS1002B.07",
@@ -65159,7 +74317,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 997
+    "class_number_group_id": 1207
   },
   {
     "class_id": "PHYS1002B.08",
@@ -65209,7 +74367,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 996
+    "class_number_group_id": 1206
   },
   {
     "class_id": "PHYS1002B.09",
@@ -65259,7 +74417,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 996
+    "class_number_group_id": 1206
   },
   {
     "class_id": "PHYS1002B.10",
@@ -65309,7 +74467,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 998
+    "class_number_group_id": 1208
   },
   {
     "class_id": "PHYS1002B.11",
@@ -65359,7 +74517,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 996
+    "class_number_group_id": 1206
   },
   {
     "class_id": "PHYS1002B.12",
@@ -65409,7 +74567,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 997
+    "class_number_group_id": 1207
   },
   {
     "class_id": "PHYS1002B.13",
@@ -65459,7 +74617,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 995
+    "class_number_group_id": 1205
   },
   {
     "class_id": "PHYS1002B.14",
@@ -65509,7 +74667,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 995
+    "class_number_group_id": 1205
   },
   {
     "class_id": "PHYS1002B.15",
@@ -65559,7 +74717,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 995
+    "class_number_group_id": 1205
   },
   {
     "class_id": "PHYS1002B.16",
@@ -65609,7 +74767,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 996
+    "class_number_group_id": 1206
   },
   {
     "class_id": "PHYS1002B.17",
@@ -65659,7 +74817,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 999
+    "class_number_group_id": 1209
   },
   {
     "class_id": "PHYS1003A.08",
@@ -65735,7 +74893,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1000
+    "class_number_group_id": 1210
   },
   {
     "class_id": "PHYS1003B.06",
@@ -65752,7 +74910,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 40,
     "maximum_students": 46,
     "target_classes": "24理论与应用力学",
     "course_number": "PHYS1003B",
@@ -65785,7 +74943,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1001
+    "class_number_group_id": 1211
   },
   {
     "class_id": "PHYS1003B.07",
@@ -65802,7 +74960,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 61,
     "maximum_students": 46,
     "target_classes": "24核工程与核技术,24工程物理",
     "course_number": "PHYS1003B",
@@ -65835,14 +74993,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1002
+    "class_number_group_id": 1212
   },
   {
     "class_id": "PHYS1003B.08",
     "course_name": "光学B",
     "department": "203 物理学院",
     "teachers": "蒋景华",
-    "time_location": "1~8周 3A408: 2(8,9,10) 4(6,7)",
+    "time_location": "1~8周 3A311: 2(8,9,10) 4(6,7)",
     "credit": 2.0,
     "hours": 40,
     "education_level": "本科",
@@ -65852,7 +75010,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 58,
     "maximum_students": 46,
     "target_classes": "24能源与动力工程,24安全工程",
     "course_number": "PHYS1003B",
@@ -65864,7 +75022,7 @@ const classInfo = [
           "end_week": 8,
           "week_type": null
         },
-        "location": "3A408",
+        "location": "3A311",
         "campus": 2,
         "time_slots": [
           {
@@ -65885,13 +75043,13 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1003
+    "class_number_group_id": 1213
   },
   {
     "class_id": "PHYS1003B.09",
     "course_name": "光学B",
     "department": "203 物理学院",
-    "teachers": "苑光辉",
+    "teachers": "周志远",
     "time_location": "1~8周 3A313: 3(6,7) 5(3,4,5)",
     "credit": 2.0,
     "hours": 40,
@@ -65902,7 +75060,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 48,
     "maximum_students": 46,
     "target_classes": "24生命科学学院（大类）*,24临床医学*",
     "course_number": "PHYS1003B",
@@ -65935,7 +75093,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1002
+    "class_number_group_id": 1212
   },
   {
     "class_id": "PHYS1003B.10",
@@ -65952,7 +75110,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 35,
     "maximum_students": 46,
     "target_classes": "24生命科学学院（大类）*,24中国科大-协和医学英才班U",
     "course_number": "PHYS1003B",
@@ -65985,7 +75143,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1004
+    "class_number_group_id": 1214
   },
   {
     "class_id": "PHYS1003B.11",
@@ -66002,7 +75160,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 50,
     "maximum_students": 46,
     "target_classes": "24数学学院（大类）*",
     "course_number": "PHYS1003B",
@@ -66035,7 +75193,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1005
+    "class_number_group_id": 1215
   },
   {
     "class_id": "PHYS1003B.12",
@@ -66052,7 +75210,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 57,
     "maximum_students": 46,
     "target_classes": "24数学学院（大类）*",
     "course_number": "PHYS1003B",
@@ -66085,7 +75243,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1005
+    "class_number_group_id": 1215
   },
   {
     "class_id": "PHYS1003B.13",
@@ -66102,7 +75260,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 63,
     "maximum_students": 46,
     "target_classes": "24数学学院（大类）*,24中法英才班U",
     "course_number": "PHYS1003B",
@@ -66135,7 +75293,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1005
+    "class_number_group_id": 1215
   },
   {
     "class_id": "PHYS1003B.14",
@@ -66152,7 +75310,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 63,
     "maximum_students": 46,
     "target_classes": "24数学学院（大类）*,24地空学院化学类（大类）",
     "course_number": "PHYS1003B",
@@ -66185,7 +75343,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1006
+    "class_number_group_id": 1216
   },
   {
     "class_id": "PHYS1004A.02",
@@ -66234,7 +75392,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1007
+    "class_number_group_id": 1217
   },
   {
     "class_id": "PHYS1004A.03",
@@ -66283,7 +75441,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1007
+    "class_number_group_id": 1217
   },
   {
     "class_id": "PHYS1004A.04",
@@ -66332,7 +75490,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1007
+    "class_number_group_id": 1217
   },
   {
     "class_id": "PHYS1004A.05",
@@ -66381,7 +75539,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1008
+    "class_number_group_id": 1218
   },
   {
     "class_id": "PHYS1004A.06",
@@ -66430,7 +75588,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1008
+    "class_number_group_id": 1218
   },
   {
     "class_id": "PHYS1004A.07",
@@ -66479,7 +75637,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1007
+    "class_number_group_id": 1217
   },
   {
     "class_id": "PHYS1004A.08",
@@ -66528,7 +75686,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1009
+    "class_number_group_id": 1219
   },
   {
     "class_id": "PHYS1004A.09",
@@ -66577,7 +75735,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1009
+    "class_number_group_id": 1219
   },
   {
     "class_id": "PHYS1004A.10",
@@ -66626,7 +75784,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1009
+    "class_number_group_id": 1219
   },
   {
     "class_id": "PHYS1004A.11",
@@ -66675,7 +75833,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1009
+    "class_number_group_id": 1219
   },
   {
     "class_id": "PHYS1004A.12",
@@ -66724,7 +75882,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1009
+    "class_number_group_id": 1219
   },
   {
     "class_id": "PHYS1004B.07",
@@ -66800,7 +75958,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1010
+    "class_number_group_id": 1220
   },
   {
     "class_id": "PHYS1004C.08",
@@ -66849,7 +76007,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1011
+    "class_number_group_id": 1221
   },
   {
     "class_id": "PHYS1004H.01",
@@ -66898,7 +76056,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1012
+    "class_number_group_id": 1222
   },
   {
     "class_id": "PHYS1005A.02",
@@ -66915,7 +76073,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 34,
     "maximum_students": 47,
     "target_classes": "24级203院02班",
     "course_number": "PHYS1005A",
@@ -66948,7 +76106,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1013
+    "class_number_group_id": 1223
   },
   {
     "class_id": "PHYS1005A.03",
@@ -66965,7 +76123,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 35,
     "maximum_students": 47,
     "target_classes": "24应用物理学,24级203院03班",
     "course_number": "PHYS1005A",
@@ -66998,7 +76156,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1013
+    "class_number_group_id": 1223
   },
   {
     "class_id": "PHYS1005A.04",
@@ -67015,7 +76173,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 36,
     "maximum_students": 47,
     "target_classes": "24级203院04班",
     "course_number": "PHYS1005A",
@@ -67048,7 +76206,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1013
+    "class_number_group_id": 1223
   },
   {
     "class_id": "PHYS1005A.05",
@@ -67065,7 +76223,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 31,
     "maximum_students": 47,
     "target_classes": "24级203院05班",
     "course_number": "PHYS1005A",
@@ -67098,7 +76256,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1014
+    "class_number_group_id": 1224
   },
   {
     "class_id": "PHYS1005A.06",
@@ -67115,7 +76273,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 35,
     "maximum_students": 47,
     "target_classes": "24级203院06班",
     "course_number": "PHYS1005A",
@@ -67148,7 +76306,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1014
+    "class_number_group_id": 1224
   },
   {
     "class_id": "PHYS1005A.07",
@@ -67165,7 +76323,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 63,
     "maximum_students": 47,
     "target_classes": "24级203院01班*",
     "course_number": "PHYS1005A",
@@ -67198,7 +76356,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1013
+    "class_number_group_id": 1223
   },
   {
     "class_id": "PHYS1005A.08",
@@ -67215,7 +76373,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 60,
     "maximum_students": 70,
     "target_classes": "24严济慈物理科技英才班T",
     "course_number": "PHYS1005A",
@@ -67268,7 +76426,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1015
+    "class_number_group_id": 1225
   },
   {
     "class_id": "PHYS1005A.09",
@@ -67285,7 +76443,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 70,
     "maximum_students": 47,
     "target_classes": "24量子信息科学*,24少院物理Y",
     "course_number": "PHYS1005A",
@@ -67318,7 +76476,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1013
+    "class_number_group_id": 1223
   },
   {
     "class_id": "PHYS1005B.02",
@@ -67335,7 +76493,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 48,
     "maximum_students": 58,
     "target_classes": "24生命科学学院（大类）*,24临床医学*",
     "course_number": "PHYS1005B",
@@ -67368,7 +76526,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1016
+    "class_number_group_id": 1226
   },
   {
     "class_id": "PHYS1005B.03",
@@ -67385,7 +76543,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 35,
     "maximum_students": 58,
     "target_classes": "24生命科学学院（大类）*,24中国科大-协和医学英才班U",
     "course_number": "PHYS1005B",
@@ -67418,7 +76576,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1017
+    "class_number_group_id": 1227
   },
   {
     "class_id": "PHYS1005B.04",
@@ -67435,7 +76593,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 65,
     "maximum_students": 58,
     "target_classes": "24核工程与核技术,24工程物理",
     "course_number": "PHYS1005B",
@@ -67468,7 +76626,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1016
+    "class_number_group_id": 1226
   },
   {
     "class_id": "PHYS1005B.05",
@@ -67485,7 +76643,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 54,
     "maximum_students": 58,
     "target_classes": "24数学学院（大类）*",
     "course_number": "PHYS1005B",
@@ -67518,7 +76676,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1018
+    "class_number_group_id": 1228
   },
   {
     "class_id": "PHYS1005B.06",
@@ -67535,7 +76693,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 52,
     "maximum_students": 58,
     "target_classes": "24数学学院（大类）*",
     "course_number": "PHYS1005B",
@@ -67568,7 +76726,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1018
+    "class_number_group_id": 1228
   },
   {
     "class_id": "PHYS1005B.07",
@@ -67585,7 +76743,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 58,
     "maximum_students": 58,
     "target_classes": "24数学学院（大类）*,24中法英才班U",
     "course_number": "PHYS1005B",
@@ -67618,7 +76776,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1018
+    "class_number_group_id": 1228
   },
   {
     "class_id": "PHYS1005B.08",
@@ -67635,7 +76793,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 66,
     "maximum_students": 58,
     "target_classes": "24数学学院（大类）*,24地空学院化学类（大类）",
     "course_number": "PHYS1005B",
@@ -67668,7 +76826,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1019
+    "class_number_group_id": 1229
   },
   {
     "class_id": "PHYS1005B.09",
@@ -67685,7 +76843,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 56,
     "maximum_students": 58,
     "target_classes": "24地空学院物理类（大类）*,24地球物理学(强基)",
     "course_number": "PHYS1005B",
@@ -67718,7 +76876,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1019
+    "class_number_group_id": 1229
   },
   {
     "class_id": "PHYS1007.01",
@@ -67767,7 +76925,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1020
+    "class_number_group_id": 1230
   },
   {
     "class_id": "PHYS1008A.01",
@@ -67790,7 +76948,7 @@ const classInfo = [
     "course_number": "PHYS1008A",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 1021
+    "class_number_group_id": 1231
   },
   {
     "class_id": "PHYS1008A.02",
@@ -67813,7 +76971,7 @@ const classInfo = [
     "course_number": "PHYS1008A",
     "class_number": "02",
     "parsed_time_location": [],
-    "class_number_group_id": 1021
+    "class_number_group_id": 1231
   },
   {
     "class_id": "PHYS1008A.03",
@@ -67836,7 +76994,7 @@ const classInfo = [
     "course_number": "PHYS1008A",
     "class_number": "03",
     "parsed_time_location": [],
-    "class_number_group_id": 1021
+    "class_number_group_id": 1231
   },
   {
     "class_id": "PHYS1008A.04",
@@ -67879,7 +77037,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1022
+    "class_number_group_id": 1232
   },
   {
     "class_id": "PHYS1008A.05",
@@ -67902,13 +77060,13 @@ const classInfo = [
     "course_number": "PHYS1008A",
     "class_number": "05",
     "parsed_time_location": [],
-    "class_number_group_id": 1021
+    "class_number_group_id": 1231
   },
   {
     "class_id": "PHYS1008A.06",
     "course_name": "大学物理-基础实验A",
     "department": "042 物理实验教学中心",
-    "teachers": "蔡俊,张华洋,浦其荣,吴玉椿,王中平,梁燕,张权,韦先涛,赵伟,赵霞,郭玉刚,祝巍,刘应玲,张增明,曾华凌,王晓方,向斌,李传锋,张宪锋,代如成,曲广媛,李恒一,陈向东,张汇,张乔枫,孙晓宇,蔡洪冰,宋国锋,岳盈,王鹤,陶小平",
+    "teachers": "郭玉刚,张华洋,陶小平,浦其荣,吴玉椿,王中平,梁燕,张权,韦先涛,赵伟,赵霞,祝巍,刘应玲,张增明,曾华凌,王晓方,向斌,李传锋,张宪锋,代如成,曲广媛,李恒一,陈向东,张汇,张乔枫,孙晓宇,蔡洪冰,宋国锋,岳盈,王鹤,蔡俊",
     "time_location": "东区1教基础物理实验室下午2：00到5:00: 2(6,7,8,9)",
     "credit": 1.5,
     "hours": 60,
@@ -67925,7 +77083,7 @@ const classInfo = [
     "course_number": "PHYS1008A",
     "class_number": "06",
     "parsed_time_location": [],
-    "class_number_group_id": 1021
+    "class_number_group_id": 1231
   },
   {
     "class_id": "PHYS1008B+.01",
@@ -67948,7 +77106,7 @@ const classInfo = [
     "course_number": "PHYS1008B+",
     "class_number": "01",
     "parsed_time_location": [],
-    "class_number_group_id": 1023
+    "class_number_group_id": 1233
   },
   {
     "class_id": "PHYS1008B.01",
@@ -67991,7 +77149,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1024
+    "class_number_group_id": 1234
   },
   {
     "class_id": "PHYS1008B.02",
@@ -68034,7 +77192,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1024
+    "class_number_group_id": 1234
   },
   {
     "class_id": "PHYS1008B.03",
@@ -68077,7 +77235,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1025
+    "class_number_group_id": 1235
   },
   {
     "class_id": "PHYS1008B.04",
@@ -68120,7 +77278,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1025
+    "class_number_group_id": 1235
   },
   {
     "class_id": "PHYS1008B.05",
@@ -68143,7 +77301,7 @@ const classInfo = [
     "course_number": "PHYS1008B",
     "class_number": "05",
     "parsed_time_location": [],
-    "class_number_group_id": 1026
+    "class_number_group_id": 1236
   },
   {
     "class_id": "PHYS1008B.06",
@@ -68166,7 +77324,7 @@ const classInfo = [
     "course_number": "PHYS1008B",
     "class_number": "06",
     "parsed_time_location": [],
-    "class_number_group_id": 1026
+    "class_number_group_id": 1236
   },
   {
     "class_id": "PHYS1008B.07",
@@ -68209,7 +77367,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1027
+    "class_number_group_id": 1237
   },
   {
     "class_id": "PHYS1008B.08",
@@ -68252,7 +77410,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1027
+    "class_number_group_id": 1237
   },
   {
     "class_id": "PHYS1008B.09",
@@ -68275,7 +77433,7 @@ const classInfo = [
     "course_number": "PHYS1008B",
     "class_number": "09",
     "parsed_time_location": [],
-    "class_number_group_id": 1026
+    "class_number_group_id": 1236
   },
   {
     "class_id": "PHYS1008B.10",
@@ -68298,7 +77456,7 @@ const classInfo = [
     "course_number": "PHYS1008B",
     "class_number": "10",
     "parsed_time_location": [],
-    "class_number_group_id": 1026
+    "class_number_group_id": 1236
   },
   {
     "class_id": "PHYS1010.01",
@@ -68315,7 +77473,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 86,
     "maximum_students": 80,
     "target_classes": "24王小谟网络空间科技英才班T,24信息安全*,24网络空间安全*",
     "course_number": "PHYS1010",
@@ -68347,7 +77505,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1028
+    "class_number_group_id": 1238
   },
   {
     "class_id": "PHYS1010.02",
@@ -68364,7 +77522,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 72,
     "maximum_students": 80,
     "target_classes": "24电子信息工程",
     "course_number": "PHYS1010",
@@ -68396,7 +77554,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1029
+    "class_number_group_id": 1239
   },
   {
     "class_id": "PHYS1010.03",
@@ -68413,7 +77571,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 55,
     "maximum_students": 80,
     "target_classes": "24电子信息工程",
     "course_number": "PHYS1010",
@@ -68445,7 +77603,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1030
+    "class_number_group_id": 1240
   },
   {
     "class_id": "PHYS1010.04",
@@ -68462,7 +77620,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 77,
     "maximum_students": 80,
     "target_classes": "24计算机科学与技术*",
     "course_number": "PHYS1010",
@@ -68494,7 +77652,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1031
+    "class_number_group_id": 1241
   },
   {
     "class_id": "PHYS1010.05",
@@ -68511,7 +77669,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 79,
     "maximum_students": 80,
     "target_classes": "24计算机科学与技术*",
     "course_number": "PHYS1010",
@@ -68543,7 +77701,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1031
+    "class_number_group_id": 1241
   },
   {
     "class_id": "PHYS1010.06",
@@ -68560,7 +77718,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 76,
     "maximum_students": 80,
     "target_classes": "24计算机科学与技术*",
     "course_number": "PHYS1010",
@@ -68592,7 +77750,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1031
+    "class_number_group_id": 1241
   },
   {
     "class_id": "PHYS1010.07",
@@ -68609,7 +77767,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 88,
     "maximum_students": 80,
     "target_classes": "24自动化",
     "course_number": "PHYS1010",
@@ -68641,7 +77799,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1032
+    "class_number_group_id": 1242
   },
   {
     "class_id": "PHYS1010.08",
@@ -68658,7 +77816,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 44,
     "maximum_students": 80,
     "target_classes": "24数据科学与大数据技术*",
     "course_number": "PHYS1010",
@@ -68690,7 +77848,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1033
+    "class_number_group_id": 1243
   },
   {
     "class_id": "PHYS1010.09",
@@ -68707,7 +77865,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 46,
     "maximum_students": 80,
     "target_classes": "24人工智能*",
     "course_number": "PHYS1010",
@@ -68739,7 +77897,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1034
+    "class_number_group_id": 1244
   },
   {
     "class_id": "PHYS1010.10",
@@ -68756,7 +77914,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 54,
     "maximum_students": 80,
     "target_classes": "24人工智能*",
     "course_number": "PHYS1010",
@@ -68788,7 +77946,30 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1035
+    "class_number_group_id": 1245
+  },
+  {
+    "class_id": "PHYS2701.01",
+    "course_name": "物理创新能力提升实验I",
+    "department": "042 物理实验教学中心",
+    "teachers": "项国勇,陶小平,浦其荣,王中平,赵伟,赵霞,张增明,曲广媛,何俊峰,彭晨晖,陈文翔,孙晓宇,许劲松",
+    "time_location": null,
+    "credit": 4.0,
+    "hours": 160,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "实验课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 139,
+    "maximum_students": 130,
+    "target_classes": "25严济慈物理科技英才班T,25物理学院（大类）(强基)",
+    "course_number": "PHYS2701",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1246
   },
   {
     "class_id": "PHYS3002.01",
@@ -68805,7 +77986,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "大作业（论文、报告、项目或作品等）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 14,
     "maximum_students": 32,
     "target_classes": "23量子信息科学*",
     "course_number": "PHYS3002",
@@ -68831,7 +78012,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1036
+    "class_number_group_id": 1247
   },
   {
     "class_id": "PHYS3005.01",
@@ -68907,7 +78088,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1037
+    "class_number_group_id": 1248
   },
   {
     "class_id": "PHYS4001.01",
@@ -69009,7 +78190,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1038
+    "class_number_group_id": 1249
   },
   {
     "class_id": "PHYS4002.01",
@@ -69085,7 +78266,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1039
+    "class_number_group_id": 1250
   },
   {
     "class_id": "PHYS4006.01",
@@ -69161,7 +78342,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1040
+    "class_number_group_id": 1251
   },
   {
     "class_id": "PHYS4007.01",
@@ -69204,7 +78385,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1041
+    "class_number_group_id": 1252
   },
   {
     "class_id": "PHYS4008.01",
@@ -69252,7 +78433,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1042
+    "class_number_group_id": 1253
   },
   {
     "class_id": "PHYS4009.01",
@@ -69300,7 +78481,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1043
+    "class_number_group_id": 1254
   },
   {
     "class_id": "PHYS4010.01",
@@ -69343,7 +78524,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1044
+    "class_number_group_id": 1255
   },
   {
     "class_id": "PHYS4502.01",
@@ -69417,7 +78598,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1045
+    "class_number_group_id": 1256
   },
   {
     "class_id": "PHYS4701.04",
@@ -69459,7 +78640,329 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1046
+    "class_number_group_id": 1257
+  },
+  {
+    "class_id": "PHYS4702.01",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "陶靖",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 10,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "01",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.02",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "张增明",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 11,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "02",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.03",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "朱文光",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 10,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "03",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.04",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "韩良",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 10,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "04",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.05",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "张榕京",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 10,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "05",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.06",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "陈文翔",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 10,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "06",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.07",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "石发展",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 9,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "07",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.08",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "许小冶",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 11,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "08",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.09",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "王双",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 9,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "09",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.10",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "许劲松",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 10,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "10",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.11",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "项国勇",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 8,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "11",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.12",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "张一飞",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 10,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "12",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.13",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "吴雨生",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 9,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "13",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
+  },
+  {
+    "class_id": "PHYS4702.14",
+    "course_name": "物理创新能力导引",
+    "department": "203 物理学院",
+    "teachers": "胡晓敏",
+    "time_location": null,
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "本科",
+    "class_type": "计划内与自由选修",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 10,
+    "maximum_students": 10,
+    "target_classes": "25严济慈物理科技英才班T",
+    "course_number": "PHYS4702",
+    "class_number": "14",
+    "parsed_time_location": [],
+    "class_number_group_id": 1258
   },
   {
     "class_id": "PHYS4703.01",
@@ -69522,7 +79025,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1047
+    "class_number_group_id": 1259
   },
   {
     "class_id": "PHYS4703.02",
@@ -69584,7 +79087,57 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1048
+    "class_number_group_id": 1260
+  },
+  {
+    "class_id": "PHYS5001P.04",
+    "course_name": "高等量子力学",
+    "department": "004 近代物理系",
+    "teachers": "王文阁",
+    "time_location": "1~16周 2321: 1(3,4,5) 4(1,2)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 150,
+    "target_classes": null,
+    "course_number": "PHYS5001P",
+    "class_number": "04",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2321",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1261
   },
   {
     "class_id": "PHYS5001P.05",
@@ -69627,7 +79180,500 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1049
+    "class_number_group_id": 1262
+  },
+  {
+    "class_id": "PHYS5002P.01",
+    "course_name": "广义相对论与宇宙学",
+    "department": "004 近代物理系",
+    "teachers": "李明哲",
+    "time_location": "1~16周 2321: 2(3,4,5) 5(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "PHYS5002P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2321",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1263
+  },
+  {
+    "class_id": "PHYS5006P.01",
+    "course_name": "自旋动力学",
+    "department": "004 近代物理系",
+    "teachers": "王鹏飞,李兆凯,尹春明",
+    "time_location": "1~16周 2607: 1(3,4,5) 3(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "PHYS5006P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2607",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1264
+  },
+  {
+    "class_id": "PHYS5051P.02",
+    "course_name": "粒子探测技术",
+    "department": "004 近代物理系",
+    "teachers": "刘建北,张云龙",
+    "time_location": "1~16周 2603: 2(8,9,10) 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "PHYS5051P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2603",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1265
+  },
+  {
+    "class_id": "PHYS5101P.01",
+    "course_name": "现代原子与分子物理导论",
+    "department": "004 近代物理系",
+    "teachers": "苑震生,盛东,张进一",
+    "time_location": "1~16周 5404: 1(8,9,10) 3(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 80,
+    "target_classes": null,
+    "course_number": "PHYS5101P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5404",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1266
+  },
+  {
+    "class_id": "PHYS5102P.01",
+    "course_name": "现代原子物理",
+    "department": "004 近代物理系",
+    "teachers": "卢征天,蒋蔚",
+    "time_location": "1~16周 5502: 2(8,9,10) 5(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 75,
+    "target_classes": null,
+    "course_number": "PHYS5102P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5502",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1267
+  },
+  {
+    "class_id": "PHYS5251P.03",
+    "course_name": "量子信息导论",
+    "department": "004 近代物理系",
+    "teachers": "郁司夏,徐飞虎",
+    "time_location": "1~16周 2421: 2(3,4,5) 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "本研贯通",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "PHYS5251P",
+    "class_number": "03",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2421",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1268
+  },
+  {
+    "class_id": "PHYS6005P.01",
+    "course_name": "弦理论(I)",
+    "department": "004 近代物理系",
+    "teachers": "卢建新",
+    "time_location": "1~16周 2307: 2(6,7) 4(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 20,
+    "target_classes": null,
+    "course_number": "PHYS6005P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2307",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1269
+  },
+  {
+    "class_id": "PHYS6052P.01",
+    "course_name": "原子核物理导论",
+    "department": "004 近代物理系",
+    "teachers": "浦实,李阳,张一飞",
+    "time_location": "1~16周 2621: 2(3,4,5) 4(3,4)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 65,
+    "target_classes": null,
+    "course_number": "PHYS6052P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2621",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1270
+  },
+  {
+    "class_id": "PHYS6054P.01",
+    "course_name": "对撞物理",
+    "department": "004 近代物理系",
+    "teachers": "彭海平,Baroncelli Antonio",
+    "time_location": "1~16周 2507: 1(8,9,10) 3(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 45,
+    "target_classes": null,
+    "course_number": "PHYS6054P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2507",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1271
+  },
+  {
+    "class_id": "PHYS6055P.01",
+    "course_name": "高能物理实验数据分析",
+    "department": "004 近代物理系",
+    "teachers": "徐来林,刘衍文",
+    "time_location": "1~16周 2408: 2(3,4,5); 2602: 4(3,4)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 24,
+    "target_classes": null,
+    "course_number": "PHYS6055P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2408",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1272
   },
   {
     "class_id": "PHYS6154P.01",
@@ -69677,7 +79723,207 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1050
+    "class_number_group_id": 1273
+  },
+  {
+    "class_id": "PHYS6208P.01",
+    "course_name": "量子信息与量子计算",
+    "department": "004 近代物理系",
+    "teachers": "Dieter Suter",
+    "time_location": "1~16周 2621: 2(6,7) 4(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 100,
+    "target_classes": null,
+    "course_number": "PHYS6208P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2621",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1274
+  },
+  {
+    "class_id": "PHYS6401P.01",
+    "course_name": "量子场论(II)",
+    "department": "004 近代物理系",
+    "teachers": "高道能,张扬",
+    "time_location": "1~16周 5504: 2(8,9,10) 4(6,7)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "PHYS6401P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5504",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1275
+  },
+  {
+    "class_id": "PHYS6404P.01",
+    "course_name": "量子多体理论(II)",
+    "department": "004 近代物理系",
+    "teachers": "刘国柱",
+    "time_location": "1~16周 5502: 2(6,7) 5(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "PHYS6404P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5502",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1276
+  },
+  {
+    "class_id": "PHYS6454P.01",
+    "course_name": "超越标准模型",
+    "department": "004 近代物理系",
+    "teachers": "彭海平,徐来林,鲁楠,丁桂军,黄治雄",
+    "time_location": "1~12周 2421: 5(3,4,5) 5(6,7)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "PHYS6454P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "location": "2421",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1277
   },
   {
     "class_id": "PHYS6482P.01",
@@ -69720,7 +79966,57 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1051
+    "class_number_group_id": 1278
+  },
+  {
+    "class_id": "PHYS6503P.01",
+    "course_name": "量子力学导论",
+    "department": "004 近代物理系",
+    "teachers": "樊逢佳,夏慷蔚",
+    "time_location": "1~16周 2621: 1(6,7) 5(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "笔试（闭卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 120,
+    "target_classes": null,
+    "course_number": "PHYS6503P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2621",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1279
   },
   {
     "class_id": "PHYS6552P.01",
@@ -69770,7 +80066,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1052
+    "class_number_group_id": 1280
   },
   {
     "class_id": "PHYS6553P.01",
@@ -69820,7 +80116,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1053
+    "class_number_group_id": 1281
   },
   {
     "class_id": "PHYS6556P.01",
@@ -69869,7 +80165,107 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1054
+    "class_number_group_id": 1282
+  },
+  {
+    "class_id": "PHYS7051P.01",
+    "course_name": "粒子物理实验前沿(英)",
+    "department": "004 近代物理系",
+    "teachers": "赵政国,吴雨生,Yoshitaka Kuno",
+    "time_location": "1~16周 2421: 1(6,7) 3(3,4,5)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "英语",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 50,
+    "target_classes": null,
+    "course_number": "PHYS7051P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "2421",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1283
+  },
+  {
+    "class_id": "PHYS7052P.01",
+    "course_name": "超对称理论",
+    "department": "004 近代物理系",
+    "teachers": "张仁友",
+    "time_location": "1~16周 5103: 2(6,7) 4(8,9,10)",
+    "credit": 4.0,
+    "hours": 80,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 45,
+    "target_classes": null,
+    "course_number": "PHYS7052P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "location": "5103",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1284
   },
   {
     "class_id": "PHYS7556P.01",
@@ -69919,7 +80315,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1055
+    "class_number_group_id": 1285
   },
   {
     "class_id": "PLNT3004.01",
@@ -69936,7 +80332,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 6,
     "maximum_students": 6,
     "target_classes": "23行星科学",
     "course_number": "PLNT3004",
@@ -69962,7 +80358,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1056
+    "class_number_group_id": 1286
   },
   {
     "class_id": "PLNT3005.01",
@@ -69979,7 +80375,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 6,
     "maximum_students": 6,
     "target_classes": "23行星科学",
     "course_number": "PLNT3005",
@@ -70005,7 +80401,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1057
+    "class_number_group_id": 1287
   },
   {
     "class_id": "PLNT3006.01",
@@ -70022,7 +80418,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（半开卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 6,
     "maximum_students": 53,
     "target_classes": "23行星科学,22空间物理,23空间物理",
     "course_number": "PLNT3006",
@@ -70066,7 +80462,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1058
+    "class_number_group_id": 1288
   },
   {
     "class_id": "PLNT4001.01",
@@ -70160,13 +80556,905 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1059
+    "class_number_group_id": 1289
+  },
+  {
+    "class_id": "REEN6402P.01",
+    "course_name": "固废污染控制与清洁转化",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "刘武军",
+    "time_location": "3~15周 2503: 5(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "REEN6402P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "2503",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1290
+  },
+  {
+    "class_id": "REEN6403P.01",
+    "course_name": "双碳研究前沿进展",
+    "department": "240 环境科学与工程系（直属）",
+    "teachers": "刘江涛",
+    "time_location": "2~14周 2204: 2(11,12,13)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "专业",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 40,
+    "target_classes": null,
+    "course_number": "REEN6403P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "2204",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1291
+  },
+  {
+    "class_id": "SAFE6001P.01",
+    "course_name": "安全科学原理",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "张晓磊,居晓宇,胡伟兆",
+    "time_location": "11~15周 3A205: 2(6,7) 5(3,4)\n1~5周 3A205: 2(6,7) 5(3,4)\n6~10周 3A205: 2(6,7) 5(3,4)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6001P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "3A205",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 5,
+          "week_type": null
+        },
+        "location": "3A205",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "3A205",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1292
+  },
+  {
+    "class_id": "SAFE6001P.02",
+    "course_name": "安全科学原理",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "张晓磊,居晓宇,胡伟兆",
+    "time_location": "11~15周 3A102: 2(6,7) 5(3,4)\n1~5周 3A102: 2(6,7) 5(3,4)\n6~10周 3A102: 2(6,7) 5(3,4)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6001P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "3A102",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 5,
+          "week_type": null
+        },
+        "location": "3A102",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "3A102",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1292
+  },
+  {
+    "class_id": "SAFE6101P.02",
+    "course_name": "火灾学",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "宋卫国,陈海翔",
+    "time_location": "1~15周 3A109: 2(3,4) 3(1,2)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6101P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "3A109",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1293
+  },
+  {
+    "class_id": "SAFE6102P.01",
+    "course_name": "灭火技术原理及应用",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "王喜世,倪小敏",
+    "time_location": "1~18周 3A318: 1(8,9,10)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6102P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "3A318",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1294
+  },
+  {
+    "class_id": "SAFE6105P.01",
+    "course_name": "火灾化学",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "宋磊,邢伟义",
+    "time_location": "1~18周 3A110: 3(11,12,13)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6105P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "3A110",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1295
+  },
+  {
+    "class_id": "SAFE6401Q.01",
+    "course_name": "舌尖上美食与食品安全",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "桂宙,朱纪欣",
+    "time_location": "1~14周 3A205: 5(8,9,10)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "笔试（开卷）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6401Q",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A205",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1296
+  },
+  {
+    "class_id": "SAFE6402P.01",
+    "course_name": "安全工程材料制备与应用基础",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "汪碧波,宋磊",
+    "time_location": "1~18周 3A318: 4(3,4,5)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6402P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "3A318",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1297
+  },
+  {
+    "class_id": "SAFE6403P.01",
+    "course_name": "能源火灾安全理论及方法学",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "段强领",
+    "time_location": "1~15周 3A318: 1(3,4) 1(6,7)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6403P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "3A318",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1298
+  },
+  {
+    "class_id": "SAFE6415P.01",
+    "course_name": "安全文化学",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "谢启源",
+    "time_location": "1~18周 3A102: 2(11,12,13)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6415P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "3A102",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1299
+  },
+  {
+    "class_id": "SAFE6418P.01",
+    "course_name": "公共安全学",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "石龙,潘月磊",
+    "time_location": "1~18周 3A109: 1(11,12,13)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6418P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "3A109",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1300
+  },
+  {
+    "class_id": "SAFE6419P.01",
+    "course_name": "火灾安全人工智能",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "张晓磊,张启兴",
+    "time_location": "11~15周 3A205: 2(8,9) 5(1,2)\n1~10周 3A205: 2(8,9) 5(1,2)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE6419P",
+    "class_number": "01",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "3A205",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "location": "3A205",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1301
+  },
+  {
+    "class_id": "SAFE7005P.02",
+    "course_name": "应用数学基础",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "金汉锋",
+    "time_location": "1~14周 3A107: 3(3,4,5)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE7005P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A107",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1302
+  },
+  {
+    "class_id": "SAFE7006P.02",
+    "course_name": "安全科学与工程前沿",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "刘乃安,杨立中",
+    "time_location": "1~15周 3A110: 2(1,2) 4(6,7)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE7006P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "location": "3A110",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              1,
+              2
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1303
+  },
+  {
+    "class_id": "SAFE7007P.02",
+    "course_name": "智能安全材料与传感",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "朱纪欣,余彬",
+    "time_location": "1~18周 3A110: 4(8,9,10)",
+    "credit": 3.0,
+    "hours": 60,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE7007P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "location": "3A110",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1304
+  },
+  {
+    "class_id": "SAFE7008P.02",
+    "course_name": "安全工程数值计算方法",
+    "department": "232 火灾安全全国重点实验室",
+    "teachers": "肖华华",
+    "time_location": "1~14周 3A102: 4(11,12,13)",
+    "credit": 2.0,
+    "hours": 40,
+    "education_level": "研究生",
+    "class_type": "基础",
+    "course_category": null,
+    "course_type": "理论课",
+    "teaching_language": "中文",
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "undergraduate_graduate_together": 0,
+    "enrolled_students": 0,
+    "maximum_students": 60,
+    "target_classes": null,
+    "course_number": "SAFE7008P",
+    "class_number": "02",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "location": "3A102",
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "class_number_group_id": 1305
   },
   {
     "class_id": "STAT2002.11",
     "course_name": "概率论与数理统计",
     "department": "017 统计与金融系",
-    "teachers": "冯群强",
+    "teachers": "刘杰",
     "time_location": "1~15周 5503: 3(6,7) 5(3,4)",
     "credit": 3.0,
     "hours": 60,
@@ -70209,14 +81497,14 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1060
+    "class_number_group_id": 1306
   },
   {
     "class_id": "STAT2002.17",
     "course_name": "概率论与数理统计",
     "department": "017 统计与金融系",
-    "teachers": "刘杰",
-    "time_location": "1~15周 5501: 1(6,7) 3(3,4)",
+    "teachers": "冯群强,贺百花",
+    "time_location": "1~8周 5501: 1(6,7) 3(3,4)\n8~15周 5501: 1(6,7) 3(3,4)",
     "credit": 3.0,
     "hours": 60,
     "education_level": "本科",
@@ -70235,6 +81523,31 @@ const classInfo = [
       {
         "week_info": {
           "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "location": "5501",
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 8,
           "end_week": 15,
           "week_type": null
         },
@@ -70258,7 +81571,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1061
+    "class_number_group_id": 1307
   },
   {
     "class_id": "STAT2002.18",
@@ -70275,7 +81588,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 74,
     "maximum_students": 90,
     "target_classes": "24计算机科学与技术*",
     "course_number": "STAT2002",
@@ -70332,7 +81645,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1062
+    "class_number_group_id": 1308
   },
   {
     "class_id": "STAT2002.19",
@@ -70349,7 +81662,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 73,
     "maximum_students": 90,
     "target_classes": "24计算机科学与技术*",
     "course_number": "STAT2002",
@@ -70381,7 +81694,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1063
+    "class_number_group_id": 1309
   },
   {
     "class_id": "STAT2002.20",
@@ -70398,7 +81711,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 49,
     "maximum_students": 90,
     "target_classes": "24计算机科学与技术*",
     "course_number": "STAT2002",
@@ -70455,7 +81768,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1064
+    "class_number_group_id": 1310
   },
   {
     "class_id": "STAT3002.01",
@@ -70472,7 +81785,7 @@ const classInfo = [
     "teaching_language": "中文",
     "assessment_method": "笔试（闭卷）",
     "undergraduate_graduate_together": 0,
-    "enrolled_students": 0,
+    "enrolled_students": 47,
     "maximum_students": 65,
     "target_classes": "24统计学*,23数据科学与大数据技术*",
     "course_number": "STAT3002",
@@ -70517,7 +81830,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1065
+    "class_number_group_id": 1311
   },
   {
     "class_id": "STAT4001.01",
@@ -70560,7 +81873,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1066
+    "class_number_group_id": 1312
   },
   {
     "class_id": "WZ003002.01",
@@ -70610,7 +81923,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1067
+    "class_number_group_id": 1313
   },
   {
     "class_id": "WZ003003.01",
@@ -70660,7 +81973,7 @@ const classInfo = [
         ]
       }
     ],
-    "class_number_group_id": 1068
+    "class_number_group_id": 1314
   }
 ];
 
@@ -74811,7 +86124,7 @@ const groupInfo = [
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 1,
+            "day_of_week": 2,
             "periods": [
               3,
               4,
@@ -74829,7 +86142,7 @@ const groupInfo = [
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 1,
+            "day_of_week": 2,
             "periods": [
               3,
               4,
@@ -74847,7 +86160,7 @@ const groupInfo = [
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 1,
+            "day_of_week": 2,
             "periods": [
               3,
               4,
@@ -76091,7 +87404,7 @@ const groupInfo = [
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 5,
+            "day_of_week": 4,
             "periods": [
               8,
               9,
@@ -79664,31 +90977,6 @@ const groupInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 8,
-          "week_type": null
-        },
-        "campus": 1,
-        "time_slots": [
-          {
-            "day_of_week": 1,
-            "periods": [
-              1,
-              2
-            ]
-          },
-          {
-            "day_of_week": 3,
-            "periods": [
-              3,
-              4,
-              5
-            ]
-          }
-        ]
-      },
-      {
-        "week_info": {
-          "start_week": 9,
           "end_week": 16,
           "week_type": null
         },
@@ -80169,16 +91457,16 @@ const groupInfo = [
           {
             "day_of_week": 2,
             "periods": [
-              8,
-              9,
-              10
+              3,
+              4,
+              5
             ]
           },
           {
             "day_of_week": 4,
             "periods": [
-              6,
-              7
+              1,
+              2
             ]
           }
         ]
@@ -80604,18 +91892,18 @@ const groupInfo = [
             ]
           },
           {
-            "day_of_week": 2,
+            "day_of_week": 4,
             "periods": [
-              8,
-              9,
-              10
+              1,
+              2
             ]
           },
           {
             "day_of_week": 5,
             "periods": [
-              1,
-              2
+              8,
+              9,
+              10
             ]
           }
         ]
@@ -82341,10 +93629,11 @@ const groupInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 5,
+            "day_of_week": 2,
             "periods": [
-              8,
-              9
+              11,
+              12,
+              13
             ]
           }
         ]
@@ -82742,7 +94031,7 @@ const groupInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 15,
+          "end_week": 16,
           "week_type": null
         },
         "campus": 2,
@@ -83152,7 +94441,7 @@ const groupInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 16,
+          "end_week": 15,
           "week_type": null
         },
         "campus": 2,
@@ -83176,7 +94465,7 @@ const groupInfo = [
       {
         "week_info": {
           "start_week": 5,
-          "end_week": 16,
+          "end_week": 15,
           "week_type": null
         },
         "campus": null,
@@ -83206,7 +94495,7 @@ const groupInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 16,
+          "end_week": 15,
           "week_type": null
         },
         "campus": 2,
@@ -83230,7 +94519,7 @@ const groupInfo = [
       {
         "week_info": {
           "start_week": 5,
-          "end_week": 16,
+          "end_week": 15,
           "week_type": null
         },
         "campus": null,
@@ -84706,7 +95995,7 @@ const groupInfo = [
         "campus": 2,
         "time_slots": [
           {
-            "day_of_week": 2,
+            "day_of_week": 3,
             "periods": [
               1,
               2
@@ -85379,6 +96668,737 @@ const groupInfo = [
   },
   {
     "class_number_group_id": 373,
+    "course_number": "CHEM5002P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "分子光谱学II",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 374,
+    "course_number": "CHEM5003P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "化学动力学I",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 375,
+    "course_number": "CHEM5004P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "化学动力学II",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 376,
+    "course_number": "CHEM5007P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "催化作用基础",
+    "credit": 6.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 17,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 377,
+    "course_number": "CHEM6004P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "电分析化学",
+    "credit": 3.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 378,
+    "course_number": "CHEM6008P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "有机结构分析(A)",
+    "credit": 4.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 379,
+    "course_number": "CHEM6009P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "分子光谱学III",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 380,
+    "course_number": "CHEM6010P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "化学动力学III",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 381,
+    "course_number": "CHEM6011P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "化学动力学IV",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 382,
+    "course_number": "CHEM6014P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "理论与计算化学(III)",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 383,
+    "course_number": "CHEM6017P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "应用物理化学III",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 384,
+    "course_number": "CHEM6025P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "结构配位化学",
+    "credit": 3.0,
+    "assessment_method": "笔试（半开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 385,
+    "course_number": "CHEM6028P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "化学计量学",
+    "credit": 3.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 386,
+    "course_number": "CHEM6030P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "立体有机化学",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 387,
+    "course_number": "CHEM6034P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "计算量子化学",
+    "credit": 3.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 388,
+    "course_number": "CHEM6038P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "生物有机化学",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 389,
+    "course_number": "CHEM6039P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "核酸化学生物学",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 390,
+    "course_number": "CHEM6041P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "分子光谱分析新技术",
+    "credit": 3.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 391,
     "course_number": "CHEM6100P",
     "class_numbers": [
       "01"
@@ -85389,7 +97409,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 374,
+    "class_number_group_id": 392,
     "course_number": "CHEM6101P",
     "class_numbers": [
       "01"
@@ -85400,7 +97420,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 375,
+    "class_number_group_id": 393,
     "course_number": "CHEM6103P",
     "class_numbers": [
       "01"
@@ -85411,7 +97431,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 376,
+    "class_number_group_id": 394,
     "course_number": "CHEM6104P",
     "class_numbers": [
       "01"
@@ -85422,7 +97442,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 377,
+    "class_number_group_id": 395,
     "course_number": "CHEM6105P",
     "class_numbers": [
       "01"
@@ -85433,7 +97453,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 378,
+    "class_number_group_id": 396,
     "course_number": "CHEM6106P",
     "class_numbers": [
       "01"
@@ -85444,7 +97464,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 379,
+    "class_number_group_id": 397,
     "course_number": "CHEM6107P",
     "class_numbers": [
       "01"
@@ -85455,7 +97475,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 380,
+    "class_number_group_id": 398,
     "course_number": "CHEM6110P",
     "class_numbers": [
       "01"
@@ -85466,7 +97486,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 381,
+    "class_number_group_id": 399,
     "course_number": "CHEM6111P",
     "class_numbers": [
       "01"
@@ -85477,7 +97497,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 382,
+    "class_number_group_id": 400,
     "course_number": "CHEM6114P",
     "class_numbers": [
       "01"
@@ -85488,7 +97508,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 383,
+    "class_number_group_id": 401,
     "course_number": "CHEM6115P",
     "class_numbers": [
       "01"
@@ -85499,7 +97519,583 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 384,
+    "class_number_group_id": 402,
+    "course_number": "CHEM6400P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "化学实验安全知识",
+    "credit": 1.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 403,
+    "course_number": "CHEM6401P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "晶体合成与结构分析",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 404,
+    "course_number": "CHEM6407P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "香味化学基础",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 405,
+    "course_number": "CHEM6408P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "多相催化前沿讲座",
+    "credit": 1.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 406,
+    "course_number": "CHEM6423P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "均相催化有机合成",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 407,
+    "course_number": "CHEM6431P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "相平衡及在材料科学中的应用",
+    "credit": 3.0,
+    "assessment_method": "笔试（半开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 408,
+    "course_number": "CHEM6438P",
+    "class_numbers": [
+      "01",
+      "02"
+    ],
+    "course_name": "化学专业学术论文写作",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 409,
+    "course_number": "CHEM6443P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "理论与计算催化化学",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 410,
+    "course_number": "CHEM7001P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "累积考核",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 411,
+    "course_number": "CHEM7003P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "分析化学前沿",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 10,
+          "end_week": 11,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 12,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 14,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 7,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 8,
+          "end_week": 9,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 412,
+    "course_number": "CHEM7004P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "有机合成专论",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 7,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 413,
+    "course_number": "CHEM7004P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "有机合成专论",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 414,
+    "course_number": "CHEM7006P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "现代化学物理进展",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 415,
+    "course_number": "CHEM7016P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "分子间的相互作用力",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 416,
     "course_number": "CHEM7100P",
     "class_numbers": [
       "01"
@@ -85510,7 +98106,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 385,
+    "class_number_group_id": 417,
     "course_number": "CHEM7101P",
     "class_numbers": [
       "01"
@@ -85521,7 +98117,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 386,
+    "class_number_group_id": 418,
     "course_number": "CHEM7103P",
     "class_numbers": [
       "01"
@@ -85532,7 +98128,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 387,
+    "class_number_group_id": 419,
     "course_number": "CHEM7104P",
     "class_numbers": [
       "01"
@@ -85543,7 +98139,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 388,
+    "class_number_group_id": 420,
     "course_number": "CHEM7105P",
     "class_numbers": [
       "01"
@@ -85554,7 +98150,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 389,
+    "class_number_group_id": 421,
     "course_number": "CHEM7106P",
     "class_numbers": [
       "01"
@@ -85565,7 +98161,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 390,
+    "class_number_group_id": 422,
     "course_number": "CHEM7107P",
     "class_numbers": [
       "01"
@@ -85576,7 +98172,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 391,
+    "class_number_group_id": 423,
     "course_number": "CHEM7109P",
     "class_numbers": [
       "01"
@@ -85587,7 +98183,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 392,
+    "class_number_group_id": 424,
     "course_number": "CHEN6100P",
     "class_numbers": [
       "01"
@@ -85598,7 +98194,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 393,
+    "class_number_group_id": 425,
     "course_number": "CHEN6101P",
     "class_numbers": [
       "01"
@@ -85609,7 +98205,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 394,
+    "class_number_group_id": 426,
     "course_number": "CHEN6500P",
     "class_numbers": [
       "01"
@@ -85620,7 +98216,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 395,
+    "class_number_group_id": 427,
     "course_number": "CHEN7100P",
     "class_numbers": [
       "01"
@@ -85631,7 +98227,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 396,
+    "class_number_group_id": 428,
     "course_number": "CHEN7101P",
     "class_numbers": [
       "01"
@@ -85642,7 +98238,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 397,
+    "class_number_group_id": 429,
     "course_number": "CHEN7102P",
     "class_numbers": [
       "01"
@@ -85653,7 +98249,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 398,
+    "class_number_group_id": 430,
     "course_number": "CHEN7104P",
     "class_numbers": [
       "01"
@@ -85664,7 +98260,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 399,
+    "class_number_group_id": 431,
     "course_number": "CLIN6123P",
     "class_numbers": [
       "01"
@@ -85753,7 +98349,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 400,
+    "class_number_group_id": 432,
     "course_number": "COMM1503",
     "class_numbers": [
       "02"
@@ -85764,7 +98360,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 401,
+    "class_number_group_id": 433,
     "course_number": "COMM1507",
     "class_numbers": [
       "01"
@@ -85811,7 +98407,955 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 402,
+    "class_number_group_id": 434,
+    "course_number": "COMP5001P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "程序语言设计与程序分析",
+    "credit": 3.5,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 435,
+    "course_number": "COMP6001P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "算法设计与分析",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 436,
+    "course_number": "COMP6002P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "组合数学",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 437,
+    "course_number": "COMP6003P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "计算机应用数学",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 438,
+    "course_number": "COMP6101P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高级计算机体系结构",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 439,
+    "course_number": "COMP6101P",
+    "class_numbers": [
+      "04"
+    ],
+    "course_name": "高级计算机体系结构",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 440,
+    "course_number": "COMP6102P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "并行算法",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 441,
+    "course_number": "COMP6103P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "高级计算机网络",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 442,
+    "course_number": "COMP6103P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "高级计算机网络",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 443,
+    "course_number": "COMP6103P",
+    "class_numbers": [
+      "06"
+    ],
+    "course_name": "高级计算机网络",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 444,
+    "course_number": "COMP6104P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高级操作系统",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 445,
+    "course_number": "COMP6105P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高级软件工程",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 446,
+    "course_number": "COMP6105P",
+    "class_numbers": [
+      "04"
+    ],
+    "course_name": "高级软件工程",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 447,
+    "course_number": "COMP6106P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "形式语言与计算复杂性",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 448,
+    "course_number": "COMP6107P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "并行与分布式计算",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 449,
+    "course_number": "COMP6112P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "计算数论",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 450,
+    "course_number": "COMP6113P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "量子计算进阶",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 451,
+    "course_number": "COMP6209P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "排队论及其应用",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 452,
+    "course_number": "COMP6210P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "自然语言理解",
+    "credit": 3.5,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 453,
+    "course_number": "COMP6212P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "计算机视觉",
+    "credit": 3.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 454,
+    "course_number": "COMP6214P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "信号与信息处理",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 455,
+    "course_number": "COMP6215P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "信息论与编码技术",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 456,
+    "course_number": "COMP6217P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "智能物联网",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 457,
+    "course_number": "COMP6223P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "社会计算",
+    "credit": 2.5,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 458,
+    "course_number": "COMP6226P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "边缘与云计算",
+    "credit": 3.0,
+    "assessment_method": null,
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 459,
+    "course_number": "COMP7202P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高性能算法研究前沿",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 460,
+    "course_number": "COMP7204P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "机器学习与数据挖掘前沿",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 461,
+    "course_number": "COMP7208P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "普适计算",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 462,
+    "course_number": "COMP7211P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "人工智能前沿",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 463,
+    "course_number": "COMP7211P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "人工智能前沿",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 464,
+    "course_number": "COMP7216P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "大数据隐私",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 465,
     "course_number": "CS1003",
     "class_numbers": [
       "20"
@@ -85859,7 +99403,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 403,
+    "class_number_group_id": 466,
     "course_number": "CS1502",
     "class_numbers": [
       "01"
@@ -85894,7 +99438,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 404,
+    "class_number_group_id": 467,
     "course_number": "CS1504",
     "class_numbers": [
       "01"
@@ -85940,7 +99484,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 405,
+    "class_number_group_id": 468,
     "course_number": "CS1505",
     "class_numbers": [
       "01"
@@ -85988,7 +99532,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 406,
+    "class_number_group_id": 469,
     "course_number": "CS1507",
     "class_numbers": [
       "01"
@@ -86036,7 +99580,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 407,
+    "class_number_group_id": 470,
     "course_number": "CS1508",
     "class_numbers": [
       "01"
@@ -86066,7 +99610,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 408,
+    "class_number_group_id": 471,
     "course_number": "CS1508",
     "class_numbers": [
       "02"
@@ -86096,7 +99640,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 409,
+    "class_number_group_id": 472,
     "course_number": "CS1508",
     "class_numbers": [
       "03"
@@ -86126,7 +99670,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 410,
+    "class_number_group_id": 473,
     "course_number": "CS1514",
     "class_numbers": [
       "01"
@@ -86155,7 +99699,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 411,
+    "class_number_group_id": 474,
     "course_number": "CS1515",
     "class_numbers": [
       "02"
@@ -86185,7 +99729,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 412,
+    "class_number_group_id": 475,
     "course_number": "CS2001",
     "class_numbers": [
       "01"
@@ -86215,7 +99759,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 413,
+    "class_number_group_id": 476,
     "course_number": "CS2002",
     "class_numbers": [
       "01",
@@ -86246,7 +99790,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 414,
+    "class_number_group_id": 477,
     "course_number": "CS2002",
     "class_numbers": [
       "03"
@@ -86276,7 +99820,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 415,
+    "class_number_group_id": 478,
     "course_number": "CS2003",
     "class_numbers": [
       "01"
@@ -86324,7 +99868,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 416,
+    "class_number_group_id": 479,
     "course_number": "CS2003",
     "class_numbers": [
       "02"
@@ -86354,7 +99898,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 417,
+    "class_number_group_id": 480,
     "course_number": "CS2502A",
     "class_numbers": [
       "05"
@@ -86408,7 +99952,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 418,
+    "class_number_group_id": 481,
     "course_number": "CS2502B",
     "class_numbers": [
       "01"
@@ -86444,7 +99988,7 @@ const groupInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 5,
+            "day_of_week": 3,
             "periods": [
               11,
               12,
@@ -86456,7 +100000,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 419,
+    "class_number_group_id": 482,
     "course_number": "CS3001H",
     "class_numbers": [
       "01"
@@ -86492,7 +100036,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 420,
+    "class_number_group_id": 483,
     "course_number": "CS3002H",
     "class_numbers": [
       "01"
@@ -86556,7 +100100,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 421,
+    "class_number_group_id": 484,
     "course_number": "CS3003H",
     "class_numbers": [
       "01"
@@ -86592,7 +100136,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 422,
+    "class_number_group_id": 485,
     "course_number": "CS4001",
     "class_numbers": [
       "01"
@@ -86628,7 +100172,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 423,
+    "class_number_group_id": 486,
     "course_number": "CS4004",
     "class_numbers": [
       "02"
@@ -86658,7 +100202,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 424,
+    "class_number_group_id": 487,
     "course_number": "CS4005",
     "class_numbers": [
       "03"
@@ -86688,7 +100232,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 425,
+    "class_number_group_id": 488,
     "course_number": "CS4009",
     "class_numbers": [
       "02"
@@ -86724,7 +100268,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 426,
+    "class_number_group_id": 489,
     "course_number": "CS4012",
     "class_numbers": [
       "01"
@@ -86772,7 +100316,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 427,
+    "class_number_group_id": 490,
     "course_number": "CS4014",
     "class_numbers": [
       "01"
@@ -86808,7 +100352,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 428,
+    "class_number_group_id": 491,
     "course_number": "CS4017",
     "class_numbers": [
       "01"
@@ -86838,7 +100382,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 429,
+    "class_number_group_id": 492,
     "course_number": "CS4024",
     "class_numbers": [
       "01"
@@ -86876,7 +100420,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 430,
+    "class_number_group_id": 493,
     "course_number": "CS4025",
     "class_numbers": [
       "01"
@@ -86924,7 +100468,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 431,
+    "class_number_group_id": 494,
     "course_number": "CS4026",
     "class_numbers": [
       "01"
@@ -86954,7 +100498,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 432,
+    "class_number_group_id": 495,
     "course_number": "CS4027",
     "class_numbers": [
       "01"
@@ -86990,7 +100534,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 433,
+    "class_number_group_id": 496,
     "course_number": "CS4028",
     "class_numbers": [
       "01"
@@ -87020,7 +100564,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 434,
+    "class_number_group_id": 497,
     "course_number": "CS4032",
     "class_numbers": [
       "01"
@@ -87050,7 +100594,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 435,
+    "class_number_group_id": 498,
     "course_number": "CS4033",
     "class_numbers": [
       "01"
@@ -87078,7 +100622,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 436,
+    "class_number_group_id": 499,
     "course_number": "CS4501",
     "class_numbers": [
       "01"
@@ -87140,7 +100684,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 437,
+    "class_number_group_id": 500,
     "course_number": "CS4502",
     "class_numbers": [
       "01"
@@ -87170,7 +100714,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 438,
+    "class_number_group_id": 501,
     "course_number": "CYSC6201P",
     "class_numbers": [
       "01"
@@ -87201,7 +100745,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 439,
+    "class_number_group_id": 502,
     "course_number": "CYSC6202P",
     "class_numbers": [
       "01"
@@ -87238,7 +100782,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 440,
+    "class_number_group_id": 503,
     "course_number": "CYSC6203P",
     "class_numbers": [
       "01"
@@ -87269,7 +100813,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 441,
+    "class_number_group_id": 504,
     "course_number": "DS2002",
     "class_numbers": [
       "01"
@@ -87305,7 +100849,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 442,
+    "class_number_group_id": 505,
     "course_number": "DS3001",
     "class_numbers": [
       "01"
@@ -87368,7 +100912,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 443,
+    "class_number_group_id": 506,
     "course_number": "EDUS1001",
     "class_numbers": [
       "01",
@@ -87383,7 +100927,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 444,
+    "class_number_group_id": 507,
     "course_number": "EE1501",
     "class_numbers": [
       "02"
@@ -87413,7 +100957,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 445,
+    "class_number_group_id": 508,
     "course_number": "EE1504",
     "class_numbers": [
       "01"
@@ -87443,7 +100987,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 446,
+    "class_number_group_id": 509,
     "course_number": "EE1506",
     "class_numbers": [
       "01"
@@ -87493,7 +101037,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 447,
+    "class_number_group_id": 510,
     "course_number": "EE1508",
     "class_numbers": [
       "01"
@@ -87522,7 +101066,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 448,
+    "class_number_group_id": 511,
     "course_number": "EE1509",
     "class_numbers": [
       "01"
@@ -87533,7 +101077,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 449,
+    "class_number_group_id": 512,
     "course_number": "EE1510",
     "class_numbers": [
       "02"
@@ -87581,7 +101125,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 450,
+    "class_number_group_id": 513,
     "course_number": "EE1513",
     "class_numbers": [
       "01"
@@ -87617,7 +101161,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 451,
+    "class_number_group_id": 514,
     "course_number": "EE2003",
     "class_numbers": [
       "01"
@@ -87653,7 +101197,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 452,
+    "class_number_group_id": 515,
     "course_number": "EE2003",
     "class_numbers": [
       "02"
@@ -87713,7 +101257,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 453,
+    "class_number_group_id": 516,
     "course_number": "EE2004",
     "class_numbers": [
       "02"
@@ -87749,7 +101293,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 454,
+    "class_number_group_id": 517,
     "course_number": "EE2006A",
     "class_numbers": [
       "01",
@@ -87787,7 +101331,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 455,
+    "class_number_group_id": 518,
     "course_number": "EE2006A",
     "class_numbers": [
       "03"
@@ -87824,7 +101368,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 456,
+    "class_number_group_id": 519,
     "course_number": "EE2501",
     "class_numbers": [
       "02"
@@ -87883,7 +101427,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 457,
+    "class_number_group_id": 520,
     "course_number": "EE2501",
     "class_numbers": [
       "03"
@@ -87945,7 +101489,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 458,
+    "class_number_group_id": 521,
     "course_number": "EE2501",
     "class_numbers": [
       "04"
@@ -88007,7 +101551,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 459,
+    "class_number_group_id": 522,
     "course_number": "EE2501",
     "class_numbers": [
       "05"
@@ -88069,7 +101613,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 460,
+    "class_number_group_id": 523,
     "course_number": "EE2501",
     "class_numbers": [
       "06"
@@ -88155,7 +101699,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 461,
+    "class_number_group_id": 524,
     "course_number": "EE2501",
     "class_numbers": [
       "07"
@@ -88200,7 +101744,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 462,
+    "class_number_group_id": 525,
     "course_number": "EE2503",
     "class_numbers": [
       "03"
@@ -88218,7 +101762,7 @@ const groupInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 4,
+            "day_of_week": 3,
             "periods": [
               11,
               12,
@@ -88230,7 +101774,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 463,
+    "class_number_group_id": 526,
     "course_number": "EE2503",
     "class_numbers": [
       "04"
@@ -88261,7 +101805,37 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 464,
+    "class_number_group_id": 527,
+    "course_number": "EE2503",
+    "class_numbers": [
+      "05"
+    ],
+    "course_name": "电子线路实验",
+    "credit": 1.0,
+    "assessment_method": "实验操作",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 528,
     "course_number": "EE2506B",
     "class_numbers": [
       "01"
@@ -88297,7 +101871,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 465,
+    "class_number_group_id": 529,
     "course_number": "EE3003",
     "class_numbers": [
       "01"
@@ -88357,7 +101931,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 466,
+    "class_number_group_id": 530,
     "course_number": "EE3003",
     "class_numbers": [
       "02"
@@ -88417,7 +101991,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 467,
+    "class_number_group_id": 531,
     "course_number": "EE3007",
     "class_numbers": [
       "01"
@@ -88455,7 +102029,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 468,
+    "class_number_group_id": 532,
     "course_number": "EE3007",
     "class_numbers": [
       "02"
@@ -88493,7 +102067,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 469,
+    "class_number_group_id": 533,
     "course_number": "EE3501",
     "class_numbers": [
       "01"
@@ -88541,7 +102115,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 470,
+    "class_number_group_id": 534,
     "course_number": "EE3502",
     "class_numbers": [
       "01"
@@ -88577,7 +102151,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 471,
+    "class_number_group_id": 535,
     "course_number": "EE4003",
     "class_numbers": [
       "01"
@@ -88613,7 +102187,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 472,
+    "class_number_group_id": 536,
     "course_number": "EE4005",
     "class_numbers": [
       "01"
@@ -88660,7 +102234,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 473,
+    "class_number_group_id": 537,
     "course_number": "EE4011A",
     "class_numbers": [
       "01"
@@ -88697,7 +102271,975 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 474,
+    "class_number_group_id": 538,
+    "course_number": "EIEN6201U",
+    "class_numbers": [
+      "09"
+    ],
+    "course_name": "工程硕士专业英语(电子信息)",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 539,
+    "course_number": "EIEN6201U",
+    "class_numbers": [
+      "10"
+    ],
+    "course_name": "工程硕士专业英语(电子信息)",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 7,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 8,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 540,
+    "course_number": "EIEN6201U",
+    "class_numbers": [
+      "14"
+    ],
+    "course_name": "工程硕士专业英语(电子信息)",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 541,
+    "course_number": "EIEN7401P",
+    "class_numbers": [
+      "06"
+    ],
+    "course_name": "电子信息类开放实践课",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 6,
+            "periods": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 4,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 7,
+            "periods": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 5,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 7,
+            "periods": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 542,
+    "course_number": "EIEN7402",
+    "class_numbers": [
+      "05"
+    ],
+    "course_name": "电子信息类前沿课程",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 543,
+    "course_number": "ELEC6101P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "物理电子学导论",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 544,
+    "course_number": "ELEC6102P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高等核电子学",
+    "credit": 4.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 545,
+    "course_number": "ELEC6103P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "近代信息处理",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 546,
+    "course_number": "ELEC6203P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高速数字系统设计",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 547,
+    "course_number": "ELEC6204P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "硬件描述语言程序设计与实践",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 548,
+    "course_number": "ELEC6206P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "数字系统设计自动化",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 549,
+    "course_number": "ELEC6208P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "数字信号处理II",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 550,
+    "course_number": "ELEC6209P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "数字图像分析",
+    "credit": 3.5,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 551,
+    "course_number": "ELEC6402P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "嵌入式系统原理及应用",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 552,
+    "course_number": "ELEC6407P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "GPU并行计算",
+    "credit": 2.5,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 553,
+    "course_number": "ELEC6414P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "神经网络及其应用",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 554,
+    "course_number": "ELEC6424P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "机器学习",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 555,
+    "course_number": "ELEC6432P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "功率半导体电子器件",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 556,
+    "course_number": "ENVI6003P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "现代仪器分析技术与实验",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 557,
+    "course_number": "ENVI6003P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "现代仪器分析技术与实验",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 558,
+    "course_number": "ENVI6004P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "水化学",
+    "credit": 3.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 559,
+    "course_number": "ENVI6005P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "环境生物技术原理",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 560,
+    "course_number": "ENVI6007P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "环境物化过程的传质分析",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 9,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 561,
+    "course_number": "ENVI6008P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "环境微生物组学分析",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 562,
+    "course_number": "ENVI6402P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "污染控制材料",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 563,
+    "course_number": "ENVI6414P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "AI for 环境监测",
+    "credit": 1.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 564,
+    "course_number": "ENVI6415P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "AI for环境微生物",
+    "credit": 1.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 565,
+    "course_number": "ENVI6420P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "AI for 环境材料",
+    "credit": 1.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 566,
     "course_number": "ENVS3001",
     "class_numbers": [
       "01"
@@ -88726,7 +103268,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 475,
+    "class_number_group_id": 567,
     "course_number": "ENVS3002",
     "class_numbers": [
       "01"
@@ -88788,7 +103330,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 476,
+    "class_number_group_id": 568,
     "course_number": "ENVS3005",
     "class_numbers": [
       "01"
@@ -88818,7 +103360,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 477,
+    "class_number_group_id": 569,
     "course_number": "ENVS3008",
     "class_numbers": [
       "01"
@@ -88829,7 +103371,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 478,
+    "class_number_group_id": 570,
     "course_number": "ENVS3009",
     "class_numbers": [
       "01"
@@ -88840,7 +103382,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 479,
+    "class_number_group_id": 571,
     "course_number": "ENVS4004",
     "class_numbers": [
       "01"
@@ -88902,7 +103444,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 480,
+    "class_number_group_id": 572,
     "course_number": "ENVS4005",
     "class_numbers": [
       "01"
@@ -88932,7 +103474,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 481,
+    "class_number_group_id": 573,
     "course_number": "ENVS4006",
     "class_numbers": [
       "01"
@@ -88969,7 +103511,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 482,
+    "class_number_group_id": 574,
     "course_number": "ENVS4007",
     "class_numbers": [
       "01"
@@ -89017,7 +103559,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 483,
+    "class_number_group_id": 575,
     "course_number": "ENVS4014",
     "class_numbers": [
       "01"
@@ -89054,7 +103596,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 484,
+    "class_number_group_id": 576,
     "course_number": "ESS1504G",
     "class_numbers": [
       "01"
@@ -89084,7 +103626,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 485,
+    "class_number_group_id": 577,
     "course_number": "ESS1507",
     "class_numbers": [
       "01"
@@ -89113,7 +103655,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 486,
+    "class_number_group_id": 578,
     "course_number": "ESS1509",
     "class_numbers": [
       "01"
@@ -89161,7 +103703,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 487,
+    "class_number_group_id": 579,
     "course_number": "ESS1510",
     "class_numbers": [
       "01"
@@ -89172,7 +103714,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 488,
+    "class_number_group_id": 580,
     "course_number": "ESS1512",
     "class_numbers": [
       "01"
@@ -89220,7 +103762,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 489,
+    "class_number_group_id": 581,
     "course_number": "ESS1513",
     "class_numbers": [
       "01"
@@ -89249,7 +103791,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 490,
+    "class_number_group_id": 582,
     "course_number": "ESS1514",
     "class_numbers": [
       "01"
@@ -89397,7 +103939,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 491,
+    "class_number_group_id": 583,
     "course_number": "ESS1515",
     "class_numbers": [
       "02"
@@ -89427,7 +103969,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 492,
+    "class_number_group_id": 584,
     "course_number": "ESS2007",
     "class_numbers": [
       "01"
@@ -89475,7 +104017,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 493,
+    "class_number_group_id": 585,
     "course_number": "ESS2008",
     "class_numbers": [
       "01"
@@ -89523,7 +104065,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 494,
+    "class_number_group_id": 586,
     "course_number": "ESS2009",
     "class_numbers": [
       "01"
@@ -89553,7 +104095,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 495,
+    "class_number_group_id": 587,
     "course_number": "ESS2010",
     "class_numbers": [
       "01"
@@ -89583,7 +104125,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 496,
+    "class_number_group_id": 588,
     "course_number": "ESS3002",
     "class_numbers": [
       "01"
@@ -89643,7 +104185,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 497,
+    "class_number_group_id": 589,
     "course_number": "ESS4004",
     "class_numbers": [
       "01"
@@ -89673,7 +104215,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 498,
+    "class_number_group_id": 590,
     "course_number": "FIN1501G",
     "class_numbers": [
       "01"
@@ -89718,7 +104260,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 499,
+    "class_number_group_id": 591,
     "course_number": "FIN1503",
     "class_numbers": [
       "02"
@@ -89748,7 +104290,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 500,
+    "class_number_group_id": 592,
     "course_number": "FIN1506",
     "class_numbers": [
       "02"
@@ -89778,7 +104320,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 501,
+    "class_number_group_id": 593,
     "course_number": "FIN1901",
     "class_numbers": [
       "01"
@@ -89808,7 +104350,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 502,
+    "class_number_group_id": 594,
     "course_number": "FIN2001",
     "class_numbers": [
       "01"
@@ -89837,7 +104379,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 503,
+    "class_number_group_id": 595,
     "course_number": "FIN3001",
     "class_numbers": [
       "01"
@@ -89867,7 +104409,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 504,
+    "class_number_group_id": 596,
     "course_number": "FIN3002",
     "class_numbers": [
       "01"
@@ -89879,7 +104421,7 @@ const groupInfo = [
       {
         "week_info": {
           "start_week": 1,
-          "end_week": 15,
+          "end_week": 10,
           "week_type": null
         },
         "campus": 1,
@@ -89888,14 +104430,16 @@ const groupInfo = [
             "day_of_week": 3,
             "periods": [
               3,
-              4
+              4,
+              5
             ]
           },
           {
             "day_of_week": 5,
             "periods": [
               3,
-              4
+              4,
+              5
             ]
           }
         ]
@@ -89903,7 +104447,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 505,
+    "class_number_group_id": 597,
     "course_number": "FINA6004U",
     "class_numbers": [
       "01",
@@ -89915,7 +104459,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 506,
+    "class_number_group_id": 598,
     "course_number": "FINA6102P",
     "class_numbers": [
       "01"
@@ -89946,7 +104490,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 507,
+    "class_number_group_id": 599,
     "course_number": "FINA6102P",
     "class_numbers": [
       "02"
@@ -89977,7 +104521,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 508,
+    "class_number_group_id": 600,
     "course_number": "FINA6106P",
     "class_numbers": [
       "01",
@@ -89989,7 +104533,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 509,
+    "class_number_group_id": 601,
     "course_number": "FINA6404P",
     "class_numbers": [
       "01"
@@ -90029,7 +104573,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 510,
+    "class_number_group_id": 602,
     "course_number": "FINA6405P",
     "class_numbers": [
       "01"
@@ -90040,7 +104584,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 511,
+    "class_number_group_id": 603,
     "course_number": "FINA6406P",
     "class_numbers": [
       "01"
@@ -90107,7 +104651,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 512,
+    "class_number_group_id": 604,
     "course_number": "FINA6407P",
     "class_numbers": [
       "01"
@@ -90138,7 +104682,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 513,
+    "class_number_group_id": 605,
     "course_number": "FINA6409P",
     "class_numbers": [
       "01",
@@ -90150,7 +104694,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 514,
+    "class_number_group_id": 606,
     "course_number": "FINA6417P",
     "class_numbers": [
       "01"
@@ -90161,7 +104705,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 515,
+    "class_number_group_id": 607,
     "course_number": "FINA6420P",
     "class_numbers": [
       "01"
@@ -90192,7 +104736,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 516,
+    "class_number_group_id": 608,
     "course_number": "FINA6420P",
     "class_numbers": [
       "02"
@@ -90223,7 +104767,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 517,
+    "class_number_group_id": 609,
     "course_number": "FINA6421P",
     "class_numbers": [
       "01"
@@ -90273,7 +104817,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 518,
+    "class_number_group_id": 610,
     "course_number": "FINA6423P",
     "class_numbers": [
       "01"
@@ -90304,7 +104848,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 519,
+    "class_number_group_id": 611,
     "course_number": "FL1002",
     "class_numbers": [
       "01"
@@ -90340,7 +104884,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 520,
+    "class_number_group_id": 612,
     "course_number": "FL1002",
     "class_numbers": [
       "02"
@@ -90376,7 +104920,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 521,
+    "class_number_group_id": 613,
     "course_number": "FL1002",
     "class_numbers": [
       "03"
@@ -90412,7 +104956,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 522,
+    "class_number_group_id": 614,
     "course_number": "FL1004",
     "class_numbers": [
       "02",
@@ -90445,7 +104989,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 523,
+    "class_number_group_id": 615,
     "course_number": "FL1004",
     "class_numbers": [
       "03",
@@ -90479,7 +105023,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 524,
+    "class_number_group_id": 616,
     "course_number": "FL1004",
     "class_numbers": [
       "06",
@@ -90509,7 +105053,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 525,
+    "class_number_group_id": 617,
     "course_number": "FL1004",
     "class_numbers": [
       "15",
@@ -90543,7 +105087,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 526,
+    "class_number_group_id": 618,
     "course_number": "FL1004",
     "class_numbers": [
       "16",
@@ -90577,7 +105121,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 527,
+    "class_number_group_id": 619,
     "course_number": "FL1006",
     "class_numbers": [
       "01",
@@ -90610,7 +105154,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 528,
+    "class_number_group_id": 620,
     "course_number": "FL1006",
     "class_numbers": [
       "02",
@@ -90643,7 +105187,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 529,
+    "class_number_group_id": 621,
     "course_number": "FL1006",
     "class_numbers": [
       "05",
@@ -90675,7 +105219,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 530,
+    "class_number_group_id": 622,
     "course_number": "FL1006",
     "class_numbers": [
       "17",
@@ -90707,7 +105251,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 531,
+    "class_number_group_id": 623,
     "course_number": "FL1006",
     "class_numbers": [
       "18",
@@ -90740,7 +105284,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 532,
+    "class_number_group_id": 624,
     "course_number": "FL1008",
     "class_numbers": [
       "01",
@@ -90770,7 +105314,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 533,
+    "class_number_group_id": 625,
     "course_number": "FL1008",
     "class_numbers": [
       "02"
@@ -90799,7 +105343,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 534,
+    "class_number_group_id": 626,
     "course_number": "FL1008",
     "class_numbers": [
       "03"
@@ -90828,7 +105372,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 535,
+    "class_number_group_id": 627,
     "course_number": "FL1008",
     "class_numbers": [
       "04"
@@ -90857,7 +105401,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 536,
+    "class_number_group_id": 628,
     "course_number": "FL1009",
     "class_numbers": [
       "11"
@@ -90886,7 +105430,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 537,
+    "class_number_group_id": 629,
     "course_number": "FL1011",
     "class_numbers": [
       "01"
@@ -90915,7 +105459,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 538,
+    "class_number_group_id": 630,
     "course_number": "FL1011",
     "class_numbers": [
       "02"
@@ -90944,7 +105488,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 539,
+    "class_number_group_id": 631,
     "course_number": "FL1011",
     "class_numbers": [
       "03"
@@ -90973,7 +105517,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 540,
+    "class_number_group_id": 632,
     "course_number": "FL1011",
     "class_numbers": [
       "04"
@@ -91002,7 +105546,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 541,
+    "class_number_group_id": 633,
     "course_number": "FL1011",
     "class_numbers": [
       "05"
@@ -91031,7 +105575,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 542,
+    "class_number_group_id": 634,
     "course_number": "FL1011",
     "class_numbers": [
       "06"
@@ -91060,7 +105604,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 543,
+    "class_number_group_id": 635,
     "course_number": "FL1011",
     "class_numbers": [
       "07"
@@ -91089,7 +105633,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 544,
+    "class_number_group_id": 636,
     "course_number": "FL1011",
     "class_numbers": [
       "08"
@@ -91118,7 +105662,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 545,
+    "class_number_group_id": 637,
     "course_number": "FL1011",
     "class_numbers": [
       "09"
@@ -91147,7 +105691,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 546,
+    "class_number_group_id": 638,
     "course_number": "FL1011",
     "class_numbers": [
       "10"
@@ -91158,7 +105702,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 547,
+    "class_number_group_id": 639,
     "course_number": "FL1015",
     "class_numbers": [
       "01",
@@ -91189,7 +105733,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 548,
+    "class_number_group_id": 640,
     "course_number": "FL1015",
     "class_numbers": [
       "02",
@@ -91219,7 +105763,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 549,
+    "class_number_group_id": 641,
     "course_number": "FL1015",
     "class_numbers": [
       "03",
@@ -91249,7 +105793,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 550,
+    "class_number_group_id": 642,
     "course_number": "FL1015",
     "class_numbers": [
       "04"
@@ -91278,7 +105822,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 551,
+    "class_number_group_id": 643,
     "course_number": "FL1015",
     "class_numbers": [
       "05",
@@ -91308,7 +105852,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 552,
+    "class_number_group_id": 644,
     "course_number": "FL1015",
     "class_numbers": [
       "06",
@@ -91338,7 +105882,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 553,
+    "class_number_group_id": 645,
     "course_number": "FL1015",
     "class_numbers": [
       "13",
@@ -91350,7 +105894,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 554,
+    "class_number_group_id": 646,
     "course_number": "FL1015",
     "class_numbers": [
       "21",
@@ -91380,7 +105924,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 555,
+    "class_number_group_id": 647,
     "course_number": "FL1015",
     "class_numbers": [
       "22",
@@ -91410,7 +105954,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 556,
+    "class_number_group_id": 648,
     "course_number": "FL1015",
     "class_numbers": [
       "23",
@@ -91440,7 +105984,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 557,
+    "class_number_group_id": 649,
     "course_number": "FL1015",
     "class_numbers": [
       "24"
@@ -91469,7 +106013,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 558,
+    "class_number_group_id": 650,
     "course_number": "FL1016",
     "class_numbers": [
       "01"
@@ -91498,7 +106042,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 559,
+    "class_number_group_id": 651,
     "course_number": "FL1016",
     "class_numbers": [
       "02"
@@ -91527,7 +106071,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 560,
+    "class_number_group_id": 652,
     "course_number": "FL1016",
     "class_numbers": [
       "03"
@@ -91556,7 +106100,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 561,
+    "class_number_group_id": 653,
     "course_number": "FL1102A",
     "class_numbers": [
       "01"
@@ -91585,7 +106129,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 562,
+    "class_number_group_id": 654,
     "course_number": "FL1102A",
     "class_numbers": [
       "02"
@@ -91614,7 +106158,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 563,
+    "class_number_group_id": 655,
     "course_number": "FL1102A",
     "class_numbers": [
       "03"
@@ -91643,7 +106187,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 564,
+    "class_number_group_id": 656,
     "course_number": "FL1102B",
     "class_numbers": [
       "01"
@@ -91672,7 +106216,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 565,
+    "class_number_group_id": 657,
     "course_number": "FL1102B",
     "class_numbers": [
       "02"
@@ -91701,7 +106245,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 566,
+    "class_number_group_id": 658,
     "course_number": "FL1103A",
     "class_numbers": [
       "01"
@@ -91730,7 +106274,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 567,
+    "class_number_group_id": 659,
     "course_number": "FL1105A",
     "class_numbers": [
       "01"
@@ -91759,7 +106303,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 568,
+    "class_number_group_id": 660,
     "course_number": "FL1110A",
     "class_numbers": [
       "05"
@@ -91788,7 +106332,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 569,
+    "class_number_group_id": 661,
     "course_number": "FL1115A",
     "class_numbers": [
       "01"
@@ -91817,7 +106361,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 570,
+    "class_number_group_id": 662,
     "course_number": "FL1115A",
     "class_numbers": [
       "02"
@@ -91846,7 +106390,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 571,
+    "class_number_group_id": 663,
     "course_number": "FL1115A",
     "class_numbers": [
       "03"
@@ -91875,7 +106419,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 572,
+    "class_number_group_id": 664,
     "course_number": "FL1115A",
     "class_numbers": [
       "04"
@@ -91904,7 +106448,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 573,
+    "class_number_group_id": 665,
     "course_number": "FL1115A",
     "class_numbers": [
       "05"
@@ -91933,7 +106477,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 574,
+    "class_number_group_id": 666,
     "course_number": "FL1115A",
     "class_numbers": [
       "06"
@@ -91962,7 +106506,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 575,
+    "class_number_group_id": 667,
     "course_number": "FL1115A",
     "class_numbers": [
       "07"
@@ -91991,7 +106535,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 576,
+    "class_number_group_id": 668,
     "course_number": "FL1115A",
     "class_numbers": [
       "08"
@@ -92020,7 +106564,44 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 577,
+    "class_number_group_id": 669,
+    "course_number": "FL1501",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "西南联大英文导读",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 670,
     "course_number": "FL1502",
     "class_numbers": [
       "01"
@@ -92049,7 +106630,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 578,
+    "class_number_group_id": 671,
     "course_number": "FL1503",
     "class_numbers": [
       "01"
@@ -92078,7 +106659,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 579,
+    "class_number_group_id": 672,
     "course_number": "FL1506",
     "class_numbers": [
       "03"
@@ -92114,7 +106695,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 580,
+    "class_number_group_id": 673,
     "course_number": "FL1507",
     "class_numbers": [
       "01"
@@ -92150,7 +106731,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 581,
+    "class_number_group_id": 674,
     "course_number": "FL1508",
     "class_numbers": [
       "01"
@@ -92186,7 +106767,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 582,
+    "class_number_group_id": 675,
     "course_number": "FL1508",
     "class_numbers": [
       "02"
@@ -92223,7 +106804,18 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 583,
+    "class_number_group_id": 676,
+    "course_number": "FORL6102U",
+    "class_numbers": [
+      "86"
+    ],
+    "course_name": "日常交流英语",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 677,
     "course_number": "FS1001",
     "class_numbers": [
       "01",
@@ -92453,7 +107045,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 584,
+    "class_number_group_id": 678,
     "course_number": "GEOL3001",
     "class_numbers": [
       "01"
@@ -92501,7 +107093,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 585,
+    "class_number_group_id": 679,
     "course_number": "GEOL3002",
     "class_numbers": [
       "01"
@@ -92547,7 +107139,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 586,
+    "class_number_group_id": 680,
     "course_number": "GEOP2702",
     "class_numbers": [
       "01"
@@ -92595,7 +107187,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 587,
+    "class_number_group_id": 681,
     "course_number": "GEOP3003",
     "class_numbers": [
       "01"
@@ -92631,7 +107223,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 588,
+    "class_number_group_id": 682,
     "course_number": "GEOP3004",
     "class_numbers": [
       "01"
@@ -92662,7 +107254,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 589,
+    "class_number_group_id": 683,
     "course_number": "GEOP3006",
     "class_numbers": [
       "01"
@@ -92712,7 +107304,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 590,
+    "class_number_group_id": 684,
     "course_number": "GEOP3008",
     "class_numbers": [
       "01"
@@ -92742,7 +107334,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 591,
+    "class_number_group_id": 685,
     "course_number": "GEOP3009",
     "class_numbers": [
       "01"
@@ -92829,7 +107421,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 592,
+    "class_number_group_id": 686,
     "course_number": "GEOP4001",
     "class_numbers": [
       "01"
@@ -92859,7 +107451,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 593,
+    "class_number_group_id": 687,
     "course_number": "GEOP4002",
     "class_numbers": [
       "01"
@@ -92870,7 +107462,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 594,
+    "class_number_group_id": 688,
     "course_number": "HS1503",
     "class_numbers": [
       "01"
@@ -92900,7 +107492,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 595,
+    "class_number_group_id": 689,
     "course_number": "HS1504",
     "class_numbers": [
       "02"
@@ -92948,7 +107540,36 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 596,
+    "class_number_group_id": 690,
+    "course_number": "HS1509M",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "经济与社会：如何用决策思维洞察生活",
+    "credit": 1.5,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 12,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 691,
     "course_number": "HS1519",
     "class_numbers": [
       "01"
@@ -92978,7 +107599,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 597,
+    "class_number_group_id": 692,
     "course_number": "HS1519",
     "class_numbers": [
       "02"
@@ -93008,7 +107629,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 598,
+    "class_number_group_id": 693,
     "course_number": "HS1520",
     "class_numbers": [
       "01"
@@ -93038,7 +107659,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 599,
+    "class_number_group_id": 694,
     "course_number": "HS1520",
     "class_numbers": [
       "04"
@@ -93068,7 +107689,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 600,
+    "class_number_group_id": 695,
     "course_number": "HS1521",
     "class_numbers": [
       "01"
@@ -93098,7 +107719,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 601,
+    "class_number_group_id": 696,
     "course_number": "HS1524",
     "class_numbers": [
       "01"
@@ -93127,7 +107748,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 602,
+    "class_number_group_id": 697,
     "course_number": "HS1528",
     "class_numbers": [
       "02"
@@ -93164,7 +107785,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 603,
+    "class_number_group_id": 698,
     "course_number": "HS1531",
     "class_numbers": [
       "10"
@@ -93194,7 +107815,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 604,
+    "class_number_group_id": 699,
     "course_number": "HS1531",
     "class_numbers": [
       "11",
@@ -93225,7 +107846,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 605,
+    "class_number_group_id": 700,
     "course_number": "HS1531",
     "class_numbers": [
       "12"
@@ -93255,7 +107876,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 606,
+    "class_number_group_id": 701,
     "course_number": "HS1531",
     "class_numbers": [
       "13"
@@ -93285,7 +107906,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 607,
+    "class_number_group_id": 702,
     "course_number": "HS1531",
     "class_numbers": [
       "14"
@@ -93315,7 +107936,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 608,
+    "class_number_group_id": 703,
     "course_number": "HS1531",
     "class_numbers": [
       "15"
@@ -93345,7 +107966,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 609,
+    "class_number_group_id": 704,
     "course_number": "HS1531",
     "class_numbers": [
       "16"
@@ -93375,7 +107996,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 610,
+    "class_number_group_id": 705,
     "course_number": "HS1531",
     "class_numbers": [
       "18"
@@ -93405,7 +108026,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 611,
+    "class_number_group_id": 706,
     "course_number": "HS1532",
     "class_numbers": [
       "01"
@@ -93435,7 +108056,37 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 612,
+    "class_number_group_id": 707,
+    "course_number": "HS1538",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "西方社会思想简史",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 708,
     "course_number": "HS1547",
     "class_numbers": [
       "02"
@@ -93464,7 +108115,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 613,
+    "class_number_group_id": 709,
     "course_number": "HS1548",
     "class_numbers": [
       "01"
@@ -93494,7 +108145,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 614,
+    "class_number_group_id": 710,
     "course_number": "HS1549",
     "class_numbers": [
       "01"
@@ -93524,7 +108175,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 615,
+    "class_number_group_id": 711,
     "course_number": "HS1550",
     "class_numbers": [
       "01"
@@ -93535,26 +108186,8 @@ const groupInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 8,
-          "week_type": null
-        },
-        "campus": 0,
-        "time_slots": [
-          {
-            "day_of_week": 1,
-            "periods": [
-              11,
-              12,
-              13
-            ]
-          }
-        ]
-      },
-      {
-        "week_info": {
-          "start_week": 9,
-          "end_week": 16,
+          "start_week": 8,
+          "end_week": 15,
           "week_type": null
         },
         "campus": 0,
@@ -93571,7 +108204,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 616,
+    "class_number_group_id": 712,
     "course_number": "HS1550",
     "class_numbers": [
       "03"
@@ -93582,26 +108215,8 @@ const groupInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 8,
-          "week_type": null
-        },
-        "campus": 0,
-        "time_slots": [
-          {
-            "day_of_week": 2,
-            "periods": [
-              11,
-              12,
-              13
-            ]
-          }
-        ]
-      },
-      {
-        "week_info": {
-          "start_week": 9,
-          "end_week": 16,
+          "start_week": 8,
+          "end_week": 15,
           "week_type": null
         },
         "campus": 0,
@@ -93618,7 +108233,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 617,
+    "class_number_group_id": 713,
     "course_number": "HS1551",
     "class_numbers": [
       "02"
@@ -93648,7 +108263,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 618,
+    "class_number_group_id": 714,
     "course_number": "HS1553G",
     "class_numbers": [
       "02"
@@ -93659,8 +108274,8 @@ const groupInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 8,
+          "start_week": 8,
+          "end_week": 15,
           "week_type": null
         },
         "campus": 0,
@@ -93673,29 +108288,11 @@ const groupInfo = [
             ]
           }
         ]
-      },
-      {
-        "week_info": {
-          "start_week": 9,
-          "end_week": 16,
-          "week_type": null
-        },
-        "campus": 0,
-        "time_slots": [
-          {
-            "day_of_week": 3,
-            "periods": [
-              11,
-              12,
-              13
-            ]
-          }
-        ]
       }
     ]
   },
   {
-    "class_number_group_id": 619,
+    "class_number_group_id": 715,
     "course_number": "HS1554",
     "class_numbers": [
       "01"
@@ -93725,7 +108322,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 620,
+    "class_number_group_id": 716,
     "course_number": "HS1554",
     "class_numbers": [
       "03"
@@ -93755,7 +108352,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 621,
+    "class_number_group_id": 717,
     "course_number": "HS1557",
     "class_numbers": [
       "01"
@@ -93784,7 +108381,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 622,
+    "class_number_group_id": 718,
     "course_number": "HS1559",
     "class_numbers": [
       "01"
@@ -93814,7 +108411,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 623,
+    "class_number_group_id": 719,
     "course_number": "HS1560",
     "class_numbers": [
       "01"
@@ -93844,7 +108441,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 624,
+    "class_number_group_id": 720,
     "course_number": "HS1560",
     "class_numbers": [
       "03"
@@ -93874,7 +108471,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 625,
+    "class_number_group_id": 721,
     "course_number": "HS1561",
     "class_numbers": [
       "01"
@@ -93904,7 +108501,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 626,
+    "class_number_group_id": 722,
     "course_number": "HS1561",
     "class_numbers": [
       "03"
@@ -93934,7 +108531,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 627,
+    "class_number_group_id": 723,
     "course_number": "HS1566",
     "class_numbers": [
       "01"
@@ -93964,7 +108561,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 628,
+    "class_number_group_id": 724,
     "course_number": "HS1568",
     "class_numbers": [
       "01"
@@ -93994,7 +108591,18 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 629,
+    "class_number_group_id": 725,
+    "course_number": "HS1577M",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "欧洲文明的现代历程",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 726,
     "course_number": "HS1581",
     "class_numbers": [
       "02"
@@ -94024,7 +108632,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 630,
+    "class_number_group_id": 727,
     "course_number": "HS1584",
     "class_numbers": [
       "02"
@@ -94054,7 +108662,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 631,
+    "class_number_group_id": 728,
     "course_number": "HS1589",
     "class_numbers": [
       "01"
@@ -94084,7 +108692,28 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 632,
+    "class_number_group_id": 729,
+    "course_number": "HS1591",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "科学精神",
+    "credit": 1.5,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": []
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 730,
     "course_number": "HS1593",
     "class_numbers": [
       "01"
@@ -94114,7 +108743,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 633,
+    "class_number_group_id": 731,
     "course_number": "HS1594",
     "class_numbers": [
       "01"
@@ -94144,7 +108773,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 634,
+    "class_number_group_id": 732,
     "course_number": "HS1597",
     "class_numbers": [
       "02"
@@ -94174,7 +108803,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 635,
+    "class_number_group_id": 733,
     "course_number": "HS1605",
     "class_numbers": [
       "01"
@@ -94204,7 +108833,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 636,
+    "class_number_group_id": 734,
     "course_number": "HS1606",
     "class_numbers": [
       "01"
@@ -94236,7 +108865,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 637,
+    "class_number_group_id": 735,
     "course_number": "HS1608",
     "class_numbers": [
       "01"
@@ -94266,7 +108895,36 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 638,
+    "class_number_group_id": 736,
+    "course_number": "HS1610M",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "中国古典诗词中的品格与修养",
+    "credit": 1.5,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 737,
     "course_number": "HS1611",
     "class_numbers": [
       "01"
@@ -94314,7 +108972,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 639,
+    "class_number_group_id": 738,
     "course_number": "HS1612",
     "class_numbers": [
       "02"
@@ -94335,7 +108993,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 640,
+    "class_number_group_id": 739,
     "course_number": "HS1616",
     "class_numbers": [
       "01"
@@ -94365,7 +109023,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 641,
+    "class_number_group_id": 740,
     "course_number": "HS1620",
     "class_numbers": [
       "01"
@@ -94395,7 +109053,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 642,
+    "class_number_group_id": 741,
     "course_number": "HS1620",
     "class_numbers": [
       "03"
@@ -94425,7 +109083,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 643,
+    "class_number_group_id": 742,
     "course_number": "HS1628",
     "class_numbers": [
       "01"
@@ -94455,7 +109113,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 644,
+    "class_number_group_id": 743,
     "course_number": "HS1629",
     "class_numbers": [
       "02"
@@ -94476,7 +109134,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 645,
+    "class_number_group_id": 744,
     "course_number": "HS1635",
     "class_numbers": [
       "01"
@@ -94506,7 +109164,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 646,
+    "class_number_group_id": 745,
     "course_number": "HS1636",
     "class_numbers": [
       "02"
@@ -94536,7 +109194,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 647,
+    "class_number_group_id": 746,
     "course_number": "HS1638",
     "class_numbers": [
       "02"
@@ -94566,7 +109224,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 648,
+    "class_number_group_id": 747,
     "course_number": "HS1639",
     "class_numbers": [
       "01"
@@ -94596,7 +109254,36 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 649,
+    "class_number_group_id": 748,
+    "course_number": "HS1641M",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "《红楼梦》的空间艺术",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 749,
     "course_number": "HS1647",
     "class_numbers": [
       "01"
@@ -94626,7 +109313,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 650,
+    "class_number_group_id": 750,
     "course_number": "HS1647",
     "class_numbers": [
       "02"
@@ -94656,7 +109343,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 651,
+    "class_number_group_id": 751,
     "course_number": "HS1647",
     "class_numbers": [
       "05"
@@ -94686,7 +109373,37 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 652,
+    "class_number_group_id": 752,
+    "course_number": "HS1648",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "生活中的公共事务",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 753,
     "course_number": "HS1651",
     "class_numbers": [
       "01",
@@ -94698,7 +109415,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 653,
+    "class_number_group_id": 754,
     "course_number": "HS1653",
     "class_numbers": [
       "01"
@@ -94709,7 +109426,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 654,
+    "class_number_group_id": 755,
     "course_number": "HS1653",
     "class_numbers": [
       "03"
@@ -94739,7 +109456,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 655,
+    "class_number_group_id": 756,
     "course_number": "HS1657",
     "class_numbers": [
       "01"
@@ -94769,7 +109486,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 656,
+    "class_number_group_id": 757,
     "course_number": "HS1657",
     "class_numbers": [
       "02"
@@ -94799,7 +109516,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 657,
+    "class_number_group_id": 758,
     "course_number": "HS1658",
     "class_numbers": [
       "01"
@@ -94820,7 +109537,29 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 658,
+    "class_number_group_id": 759,
+    "course_number": "HS1660M",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "古希腊文明",
+    "credit": 1.5,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 760,
+    "course_number": "HS1662M",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "中华传统文化与人生修养",
+    "credit": 1.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 761,
     "course_number": "HS1665",
     "class_numbers": [
       "01"
@@ -94850,7 +109589,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 659,
+    "class_number_group_id": 762,
     "course_number": "HS1665",
     "class_numbers": [
       "03"
@@ -94880,7 +109619,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 660,
+    "class_number_group_id": 763,
     "course_number": "HS1667",
     "class_numbers": [
       "01"
@@ -94910,7 +109649,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 661,
+    "class_number_group_id": 764,
     "course_number": "HS1668",
     "class_numbers": [
       "01"
@@ -94940,7 +109679,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 662,
+    "class_number_group_id": 765,
     "course_number": "HS1668",
     "class_numbers": [
       "02"
@@ -94970,7 +109709,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 663,
+    "class_number_group_id": 766,
     "course_number": "HS1669",
     "class_numbers": [
       "01"
@@ -95000,7 +109739,97 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 664,
+    "class_number_group_id": 767,
+    "course_number": "HS1670",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "现当代舞理论与实践",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 0,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 768,
+    "course_number": "HS1671",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "中国古典舞经典作品鉴赏",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 769,
+    "course_number": "HS1671",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "中国古典舞经典作品鉴赏",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 770,
     "course_number": "HS1672",
     "class_numbers": [
       "01"
@@ -95030,7 +109859,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 665,
+    "class_number_group_id": 771,
     "course_number": "HS1673",
     "class_numbers": [
       "01"
@@ -95114,7 +109943,37 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 666,
+    "class_number_group_id": 772,
+    "course_number": "HS1674",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "数字公共治理与公共政策常识",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 773,
     "course_number": "HS2002",
     "class_numbers": [
       "01",
@@ -95178,7 +110037,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 667,
+    "class_number_group_id": 774,
     "course_number": "HS2002",
     "class_numbers": [
       "12",
@@ -95209,7 +110068,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 668,
+    "class_number_group_id": 775,
     "course_number": "INEE1501",
     "class_numbers": [
       "01"
@@ -95239,7 +110098,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 669,
+    "class_number_group_id": 776,
     "course_number": "INEE1507",
     "class_numbers": [
       "01"
@@ -95250,8 +110109,8 @@ const groupInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 4,
+          "start_week": 2,
+          "end_week": 5,
           "week_type": null
         },
         "campus": null,
@@ -95269,7 +110128,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 670,
+    "class_number_group_id": 777,
     "course_number": "INEE1509",
     "class_numbers": [
       "01"
@@ -95299,7 +110158,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 671,
+    "class_number_group_id": 778,
     "course_number": "INEE1513",
     "class_numbers": [
       "01"
@@ -95329,7 +110188,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 672,
+    "class_number_group_id": 779,
     "course_number": "INEE1515",
     "class_numbers": [
       "01"
@@ -95358,7 +110217,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 673,
+    "class_number_group_id": 780,
     "course_number": "INEE1516",
     "class_numbers": [
       "01"
@@ -95388,7 +110247,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 674,
+    "class_number_group_id": 781,
     "course_number": "INEE1517",
     "class_numbers": [
       "01"
@@ -95454,7 +110313,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 675,
+    "class_number_group_id": 782,
     "course_number": "INEE1518",
     "class_numbers": [
       "01"
@@ -95483,7 +110342,67 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 676,
+    "class_number_group_id": 783,
+    "course_number": "INTE6402Q",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "电子信息检索",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 784,
+    "course_number": "INTE6403Q",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "文献管理与信息分析",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 785,
     "course_number": "IS1901",
     "class_numbers": [
       "02"
@@ -95513,7 +110432,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 677,
+    "class_number_group_id": 786,
     "course_number": "IS3001",
     "class_numbers": [
       "01"
@@ -95621,7 +110540,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 678,
+    "class_number_group_id": 787,
     "course_number": "IS3003",
     "class_numbers": [
       "01"
@@ -95650,7 +110569,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 679,
+    "class_number_group_id": 788,
     "course_number": "IS3004",
     "class_numbers": [
       "01"
@@ -95686,7 +110605,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 680,
+    "class_number_group_id": 789,
     "course_number": "IS3005",
     "class_numbers": [
       "01"
@@ -95752,7 +110671,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 681,
+    "class_number_group_id": 790,
     "course_number": "IS3006",
     "class_numbers": [
       "01"
@@ -95818,7 +110737,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 682,
+    "class_number_group_id": 791,
     "course_number": "IS4006",
     "class_numbers": [
       "01"
@@ -95849,7 +110768,37 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 683,
+    "class_number_group_id": 792,
+    "course_number": "LAW1501",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "例说民法",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 793,
     "course_number": "MARX1005",
     "class_numbers": [
       "01",
@@ -95880,7 +110829,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 684,
+    "class_number_group_id": 794,
     "course_number": "MARX1006",
     "class_numbers": [
       "01",
@@ -95911,7 +110860,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 685,
+    "class_number_group_id": 795,
     "course_number": "MARX1010",
     "class_numbers": [
       "01",
@@ -95945,7 +110894,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 686,
+    "class_number_group_id": 796,
     "course_number": "MARX1010",
     "class_numbers": [
       "02",
@@ -95978,7 +110927,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 687,
+    "class_number_group_id": 797,
     "course_number": "MARX1010",
     "class_numbers": [
       "03",
@@ -96010,7 +110959,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 688,
+    "class_number_group_id": 798,
     "course_number": "MARX1010",
     "class_numbers": [
       "05",
@@ -96042,7 +110991,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 689,
+    "class_number_group_id": 799,
     "course_number": "MARX1010",
     "class_numbers": [
       "16",
@@ -96075,7 +111024,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 690,
+    "class_number_group_id": 800,
     "course_number": "MARX1010",
     "class_numbers": [
       "18",
@@ -96106,7 +111055,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 691,
+    "class_number_group_id": 801,
     "course_number": "MARX1010",
     "class_numbers": [
       "19",
@@ -96138,7 +111087,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 692,
+    "class_number_group_id": 802,
     "course_number": "MARX1010",
     "class_numbers": [
       "21",
@@ -96171,7 +111120,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 693,
+    "class_number_group_id": 803,
     "course_number": "MARX1013",
     "class_numbers": [
       "01",
@@ -96202,7 +111151,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 694,
+    "class_number_group_id": 804,
     "course_number": "MARX1013",
     "class_numbers": [
       "02",
@@ -96236,7 +111185,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 695,
+    "class_number_group_id": 805,
     "course_number": "MARX1013",
     "class_numbers": [
       "04",
@@ -96267,7 +111216,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 696,
+    "class_number_group_id": 806,
     "course_number": "MARX1013",
     "class_numbers": [
       "07",
@@ -96298,7 +111247,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 697,
+    "class_number_group_id": 807,
     "course_number": "MARX1013",
     "class_numbers": [
       "12",
@@ -96330,13 +111279,13 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 698,
+    "class_number_group_id": 808,
     "course_number": "MARX1013",
     "class_numbers": [
       "13",
       "15",
       "16",
-      "21"
+      "20"
     ],
     "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
     "credit": 2.5,
@@ -96363,42 +111312,10 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 699,
+    "class_number_group_id": 809,
     "course_number": "MARX1013",
     "class_numbers": [
-      "14",
-      "17",
-      "18"
-    ],
-    "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
-    "credit": 2.5,
-    "assessment_method": "笔试（开卷）",
-    "parsed_time_location": [
-      {
-        "week_info": {
-          "start_week": 1,
-          "end_week": 16,
-          "week_type": null
-        },
-        "campus": 2,
-        "time_slots": [
-          {
-            "day_of_week": 4,
-            "periods": [
-              8,
-              9,
-              10
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "class_number_group_id": 700,
-    "course_number": "MARX1013",
-    "class_numbers": [
-      "20"
+      "14"
     ],
     "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
     "credit": 2.5,
@@ -96425,7 +111342,39 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 701,
+    "class_number_group_id": 810,
+    "course_number": "MARX1013",
+    "class_numbers": [
+      "17",
+      "18",
+      "21"
+    ],
+    "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+    "credit": 2.5,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 811,
     "course_number": "MARX1501M",
     "class_numbers": [
       "01"
@@ -96436,7 +111385,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 702,
+    "class_number_group_id": 812,
     "course_number": "MARX1503",
     "class_numbers": [
       "01"
@@ -96447,7 +111396,30 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 703,
+    "class_number_group_id": 813,
+    "course_number": "MARX6102U",
+    "class_numbers": [
+      "59"
+    ],
+    "course_name": "新时代中国特色社会主义理论与实践",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 814,
+    "course_number": "MARX6103U",
+    "class_numbers": [
+      "22",
+      "23"
+    ],
+    "course_name": "马克思恩格斯列宁经典著作选读",
+    "credit": 1.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 815,
     "course_number": "MATH1002",
     "class_numbers": [
       "01",
@@ -96491,7 +111463,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 704,
+    "class_number_group_id": 816,
     "course_number": "MATH1004",
     "class_numbers": [
       "01",
@@ -96529,7 +111501,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 705,
+    "class_number_group_id": 817,
     "course_number": "MATH1007",
     "class_numbers": [
       "01",
@@ -96574,7 +111546,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 706,
+    "class_number_group_id": 818,
     "course_number": "MATH1007",
     "class_numbers": [
       "03"
@@ -96617,7 +111589,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 707,
+    "class_number_group_id": 819,
     "course_number": "MATH1007",
     "class_numbers": [
       "05",
@@ -96664,7 +111636,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 708,
+    "class_number_group_id": 820,
     "course_number": "MATH1007",
     "class_numbers": [
       "10",
@@ -96713,7 +111685,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 709,
+    "class_number_group_id": 821,
     "course_number": "MATH1009",
     "class_numbers": [
       "09",
@@ -96752,7 +111724,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 710,
+    "class_number_group_id": 822,
     "course_number": "MATH1009",
     "class_numbers": [
       "10",
@@ -96792,7 +111764,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 711,
+    "class_number_group_id": 823,
     "course_number": "MATH1009",
     "class_numbers": [
       "16"
@@ -96852,7 +111824,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 712,
+    "class_number_group_id": 824,
     "course_number": "MATH1009",
     "class_numbers": [
       "17"
@@ -96888,7 +111860,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 713,
+    "class_number_group_id": 825,
     "course_number": "MATH1009",
     "class_numbers": [
       "20"
@@ -96924,7 +111896,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 714,
+    "class_number_group_id": 826,
     "course_number": "MATH1012",
     "class_numbers": [
       "01"
@@ -96967,7 +111939,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 715,
+    "class_number_group_id": 827,
     "course_number": "MATH2001",
     "class_numbers": [
       "05"
@@ -97003,7 +111975,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 716,
+    "class_number_group_id": 828,
     "course_number": "MATH2001",
     "class_numbers": [
       "06"
@@ -97039,7 +112011,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 717,
+    "class_number_group_id": 829,
     "course_number": "MATH2503",
     "class_numbers": [
       "01"
@@ -97076,7 +112048,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 718,
+    "class_number_group_id": 830,
     "course_number": "MATH2802",
     "class_numbers": [
       "01"
@@ -97105,7 +112077,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 719,
+    "class_number_group_id": 831,
     "course_number": "MATH3001",
     "class_numbers": [
       "01",
@@ -97142,7 +112114,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 720,
+    "class_number_group_id": 832,
     "course_number": "MATH3002",
     "class_numbers": [
       "01",
@@ -97179,7 +112151,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 721,
+    "class_number_group_id": 833,
     "course_number": "MATH3006",
     "class_numbers": [
       "01"
@@ -97216,7 +112188,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 722,
+    "class_number_group_id": 834,
     "course_number": "MATH3007",
     "class_numbers": [
       "02"
@@ -97253,7 +112225,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 723,
+    "class_number_group_id": 835,
     "course_number": "MATH3007",
     "class_numbers": [
       "03"
@@ -97290,7 +112262,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 724,
+    "class_number_group_id": 836,
     "course_number": "MATH3008",
     "class_numbers": [
       "01",
@@ -97327,7 +112299,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 725,
+    "class_number_group_id": 837,
     "course_number": "MATH3013",
     "class_numbers": [
       "01"
@@ -97364,7 +112336,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 726,
+    "class_number_group_id": 838,
     "course_number": "MATH3014",
     "class_numbers": [
       "01"
@@ -97401,7 +112373,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 727,
+    "class_number_group_id": 839,
     "course_number": "MATH3701",
     "class_numbers": [
       "01"
@@ -97437,7 +112409,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 728,
+    "class_number_group_id": 840,
     "course_number": "MATH3702e",
     "class_numbers": [
       "01"
@@ -97474,7 +112446,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 729,
+    "class_number_group_id": 841,
     "course_number": "MATH4001",
     "class_numbers": [
       "01"
@@ -97511,7 +112483,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 730,
+    "class_number_group_id": 842,
     "course_number": "MATH4002",
     "class_numbers": [
       "01"
@@ -97548,7 +112520,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 731,
+    "class_number_group_id": 843,
     "course_number": "MATH4004",
     "class_numbers": [
       "01"
@@ -97610,7 +112582,1316 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 732,
+    "class_number_group_id": 844,
+    "course_number": "MATH5008P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "随机过程",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 845,
+    "course_number": "MATH5009P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "现代偏微分方程",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 846,
+    "course_number": "MATH5012P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "代数数论",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 847,
+    "course_number": "MATH5013P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "黎曼几何",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 848,
+    "course_number": "MATH5014P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "遍历理论初步",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 849,
+    "course_number": "MATH5015P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "最优化算法",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 850,
+    "course_number": "MATH5017P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "调和分析",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 851,
+    "course_number": "MATH5018P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "李代数及其表示理论",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 852,
+    "course_number": "MATH5020P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "代数图论",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 853,
+    "course_number": "MATH6104P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "代数几何进阶",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 854,
+    "course_number": "MATH6106P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "黎曼曲面",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 855,
+    "course_number": "MATH6402P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高等泛函分析",
+    "credit": 4.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 856,
+    "course_number": "MATH6403P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "同调代数",
+    "credit": 4.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 857,
+    "course_number": "MATH6407P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "几何分析",
+    "credit": 4.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 858,
+    "course_number": "MATH6418P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "非线性偏微分方程数值方法",
+    "credit": 4.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 859,
+    "course_number": "MATH6419P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "数字几何处理",
+    "credit": 4.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 860,
+    "course_number": "MATH6420P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "数字图像处理",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 861,
+    "course_number": "MATH6422P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "计算代数几何",
+    "credit": 4.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 862,
+    "course_number": "MATH6426P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "极值与加性组合",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 863,
+    "course_number": "MATH6430P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "量子场论",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 864,
+    "course_number": "MATH6431P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "几何深度学习",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 13,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 865,
+    "course_number": "MATH6437P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "辛拓扑初步",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 866,
+    "course_number": "MATH7401P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "分析学选讲",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 867,
+    "course_number": "MATH7402P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "分析学前沿讲座",
+    "credit": 4.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 868,
+    "course_number": "MATH7407P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "代数几何选讲",
+    "credit": 4.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 869,
+    "course_number": "MATH7410P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "几何学选讲",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 870,
+    "course_number": "MATH7418P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "科学计算选讲",
+    "credit": 4.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 871,
+    "course_number": "MATH7419P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高精度数值方法选讲",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 872,
+    "course_number": "MATH7425P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "图论选讲",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 873,
+    "course_number": "MATH7429P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "几何拓扑及高阶Teichmüller理论选讲",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 874,
+    "course_number": "MATH7430P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "微分几何选讲",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 875,
+    "course_number": "MATH7432P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "几何与物理专题选讲",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 876,
+    "course_number": "MBAD6002U",
+    "class_numbers": [
+      "06"
+    ],
+    "course_name": "商务伦理",
+    "credit": 1.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 9,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": []
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 877,
+    "course_number": "MBAD6003P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "管理信息系统",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": []
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 878,
+    "course_number": "MBAD6005P",
+    "class_numbers": [
+      "08"
+    ],
+    "course_name": "企业决策模拟",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 879,
+    "course_number": "MBAD6006P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "商业研究方法",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 880,
+    "course_number": "MBAD6012P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "财务管理",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": []
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 881,
+    "course_number": "MBAD6014P",
+    "class_numbers": [
+      "04"
+    ],
+    "course_name": "运营管理",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": []
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 882,
+    "course_number": "MBAD6402P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "证券投资",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 883,
+    "course_number": "MBAD6405P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "电子商务",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": []
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 884,
+    "course_number": "MBAD6406P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "大数据与商业分析",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": []
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 885,
+    "course_number": "MBAD6415P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "服务营销管理",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": []
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 886,
+    "course_number": "MCEN6201U",
+    "class_numbers": [
+      "04"
+    ],
+    "course_name": "专业英语(材料与化工)",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 887,
     "course_number": "ME2002",
     "class_numbers": [
       "01"
@@ -97640,7 +113921,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 733,
+    "class_number_group_id": 888,
     "course_number": "ME2004",
     "class_numbers": [
       "01"
@@ -97670,7 +113951,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 734,
+    "class_number_group_id": 889,
     "course_number": "ME2007",
     "class_numbers": [
       "01"
@@ -97688,7 +113969,7 @@ const groupInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 3,
+            "day_of_week": 1,
             "periods": [
               11,
               12
@@ -97699,7 +113980,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 735,
+    "class_number_group_id": 890,
     "course_number": "ME2008",
     "class_numbers": [
       "01"
@@ -97747,7 +114028,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 736,
+    "class_number_group_id": 891,
     "course_number": "ME2010",
     "class_numbers": [
       "01",
@@ -97787,7 +114068,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 737,
+    "class_number_group_id": 892,
     "course_number": "ME2010",
     "class_numbers": [
       "04"
@@ -97824,7 +114105,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 738,
+    "class_number_group_id": 893,
     "course_number": "ME2011",
     "class_numbers": [
       "01",
@@ -97855,7 +114136,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 739,
+    "class_number_group_id": 894,
     "course_number": "ME2011",
     "class_numbers": [
       "03"
@@ -97885,7 +114166,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 740,
+    "class_number_group_id": 895,
     "course_number": "ME2012",
     "class_numbers": [
       "01"
@@ -97933,7 +114214,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 741,
+    "class_number_group_id": 896,
     "course_number": "ME2012",
     "class_numbers": [
       "02",
@@ -97966,7 +114247,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 742,
+    "class_number_group_id": 897,
     "course_number": "ME2013",
     "class_numbers": [
       "01"
@@ -98002,7 +114283,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 743,
+    "class_number_group_id": 898,
     "course_number": "ME2013",
     "class_numbers": [
       "02"
@@ -98062,7 +114343,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 744,
+    "class_number_group_id": 899,
     "course_number": "ME2014",
     "class_numbers": [
       "01"
@@ -98092,7 +114373,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 745,
+    "class_number_group_id": 900,
     "course_number": "ME3002",
     "class_numbers": [
       "01"
@@ -98154,7 +114435,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 746,
+    "class_number_group_id": 901,
     "course_number": "ME3003",
     "class_numbers": [
       "01"
@@ -98190,7 +114471,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 747,
+    "class_number_group_id": 902,
     "course_number": "ME3004",
     "class_numbers": [
       "01"
@@ -98226,7 +114507,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 748,
+    "class_number_group_id": 903,
     "course_number": "ME3005",
     "class_numbers": [
       "01"
@@ -98262,7 +114543,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 749,
+    "class_number_group_id": 904,
     "course_number": "ME3006",
     "class_numbers": [
       "01"
@@ -98299,7 +114580,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 750,
+    "class_number_group_id": 905,
     "course_number": "ME3009",
     "class_numbers": [
       "01"
@@ -98335,7 +114616,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 751,
+    "class_number_group_id": 906,
     "course_number": "ME3010",
     "class_numbers": [
       "01"
@@ -98372,7 +114653,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 752,
+    "class_number_group_id": 907,
     "course_number": "ME3011",
     "class_numbers": [
       "01"
@@ -98402,7 +114683,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 753,
+    "class_number_group_id": 908,
     "course_number": "ME4005",
     "class_numbers": [
       "01"
@@ -98450,7 +114731,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 754,
+    "class_number_group_id": 909,
     "course_number": "ME4006",
     "class_numbers": [
       "01"
@@ -98461,7 +114742,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 755,
+    "class_number_group_id": 910,
     "course_number": "ME4009",
     "class_numbers": [
       "01"
@@ -98509,7 +114790,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 756,
+    "class_number_group_id": 911,
     "course_number": "ME4009",
     "class_numbers": [
       "02"
@@ -98539,7 +114820,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 757,
+    "class_number_group_id": 912,
     "course_number": "ME4011",
     "class_numbers": [
       "01"
@@ -98569,7 +114850,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 758,
+    "class_number_group_id": 913,
     "course_number": "ME4013",
     "class_numbers": [
       "01"
@@ -98599,7 +114880,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 759,
+    "class_number_group_id": 914,
     "course_number": "ME4016",
     "class_numbers": [
       "01"
@@ -98628,7 +114909,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 760,
+    "class_number_group_id": 915,
     "course_number": "ME4017",
     "class_numbers": [
       "01"
@@ -98664,7 +114945,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 761,
+    "class_number_group_id": 916,
     "course_number": "ME4018",
     "class_numbers": [
       "01"
@@ -98700,7 +114981,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 762,
+    "class_number_group_id": 917,
     "course_number": "ME4019",
     "class_numbers": [
       "01"
@@ -98735,7 +115016,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 763,
+    "class_number_group_id": 918,
     "course_number": "ME4020",
     "class_numbers": [
       "01"
@@ -98765,7 +115046,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 764,
+    "class_number_group_id": 919,
     "course_number": "ME4021",
     "class_numbers": [
       "01"
@@ -98794,7 +115075,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 765,
+    "class_number_group_id": 920,
     "course_number": "ME4022",
     "class_numbers": [
       "01"
@@ -98830,7 +115111,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 766,
+    "class_number_group_id": 921,
     "course_number": "ME4031",
     "class_numbers": [
       "01"
@@ -98860,7 +115141,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 767,
+    "class_number_group_id": 922,
     "course_number": "MED1501",
     "class_numbers": [
       "01"
@@ -98908,7 +115189,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 768,
+    "class_number_group_id": 923,
     "course_number": "MED1502",
     "class_numbers": [
       "02"
@@ -98938,7 +115219,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 769,
+    "class_number_group_id": 924,
     "course_number": "MED1503G",
     "class_numbers": [
       "01"
@@ -99004,7 +115285,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 770,
+    "class_number_group_id": 925,
     "course_number": "MED1504",
     "class_numbers": [
       "02"
@@ -99035,7 +115316,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 771,
+    "class_number_group_id": 926,
     "course_number": "MED1506",
     "class_numbers": [
       "01"
@@ -99083,7 +115364,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 772,
+    "class_number_group_id": 927,
     "course_number": "MED2003",
     "class_numbers": [
       "01"
@@ -99195,7 +115476,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 773,
+    "class_number_group_id": 928,
     "course_number": "MED2004",
     "class_numbers": [
       "01"
@@ -99225,7 +115506,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 774,
+    "class_number_group_id": 929,
     "course_number": "MED2006",
     "class_numbers": [
       "01"
@@ -99254,7 +115535,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 775,
+    "class_number_group_id": 930,
     "course_number": "MED2007",
     "class_numbers": [
       "01"
@@ -99284,7 +115565,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 776,
+    "class_number_group_id": 931,
     "course_number": "MED2008",
     "class_numbers": [
       "01"
@@ -99314,7 +115595,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 777,
+    "class_number_group_id": 932,
     "course_number": "MED3013",
     "class_numbers": [
       "01"
@@ -99325,7 +115606,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 778,
+    "class_number_group_id": 933,
     "course_number": "MED3014",
     "class_numbers": [
       "01"
@@ -99336,7 +115617,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 779,
+    "class_number_group_id": 934,
     "course_number": "MED3015",
     "class_numbers": [
       "01"
@@ -99347,7 +115628,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 780,
+    "class_number_group_id": 935,
     "course_number": "MED3016",
     "class_numbers": [
       "01"
@@ -99395,7 +115676,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 781,
+    "class_number_group_id": 936,
     "course_number": "MED3017",
     "class_numbers": [
       "01"
@@ -99444,7 +115725,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 782,
+    "class_number_group_id": 937,
     "course_number": "MED3019",
     "class_numbers": [
       "01"
@@ -99474,7 +115755,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 783,
+    "class_number_group_id": 938,
     "course_number": "MED3020",
     "class_numbers": [
       "01"
@@ -99524,7 +115805,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 784,
+    "class_number_group_id": 939,
     "course_number": "MED3022",
     "class_numbers": [
       "01"
@@ -99606,7 +115887,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 785,
+    "class_number_group_id": 940,
     "course_number": "MED3024",
     "class_numbers": [
       "01"
@@ -99654,7 +115935,129 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 786,
+    "class_number_group_id": 941,
+    "course_number": "MED3025",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "临床实习",
+    "credit": 52.0,
+    "assessment_method": "实验操作",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 942,
     "course_number": "MED3029",
     "class_numbers": [
       "01"
@@ -99665,7 +116068,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 787,
+    "class_number_group_id": 943,
     "course_number": "MED3030",
     "class_numbers": [
       "01"
@@ -99714,7 +116117,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 788,
+    "class_number_group_id": 944,
     "course_number": "MED3031",
     "class_numbers": [
       "01"
@@ -99762,7 +116165,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 789,
+    "class_number_group_id": 945,
     "course_number": "MEMA6302P",
     "class_numbers": [
       "01"
@@ -99773,7 +116176,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 790,
+    "class_number_group_id": 946,
     "course_number": "MEMA6305P",
     "class_numbers": [
       "01"
@@ -99784,7 +116187,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 791,
+    "class_number_group_id": 947,
     "course_number": "MEMA6306P",
     "class_numbers": [
       "01"
@@ -99815,7 +116218,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 792,
+    "class_number_group_id": 948,
     "course_number": "MEMA6307P",
     "class_numbers": [
       "01"
@@ -99846,7 +116249,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 793,
+    "class_number_group_id": 949,
     "course_number": "MEMA6308P",
     "class_numbers": [
       "01"
@@ -99857,7 +116260,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 794,
+    "class_number_group_id": 950,
     "course_number": "MEMA6418P",
     "class_numbers": [
       "01"
@@ -99897,7 +116300,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 795,
+    "class_number_group_id": 951,
     "course_number": "MEMA6426P",
     "class_numbers": [
       "01"
@@ -99908,7 +116311,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 796,
+    "class_number_group_id": 952,
     "course_number": "MEMA6427P",
     "class_numbers": [
       "01"
@@ -99939,7 +116342,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 797,
+    "class_number_group_id": 953,
     "course_number": "MNSC1502",
     "class_numbers": [
       "01"
@@ -99968,7 +116371,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 798,
+    "class_number_group_id": 954,
     "course_number": "MNSC1503",
     "class_numbers": [
       "01"
@@ -99979,8 +116382,8 @@ const groupInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 10,
+          "start_week": 3,
+          "end_week": 12,
           "week_type": null
         },
         "campus": 1,
@@ -99997,7 +116400,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 799,
+    "class_number_group_id": 955,
     "course_number": "MNSC2001",
     "class_numbers": [
       "01"
@@ -100035,7 +116438,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 800,
+    "class_number_group_id": 956,
     "course_number": "MNSC2003",
     "class_numbers": [
       "01"
@@ -100072,7 +116475,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 801,
+    "class_number_group_id": 957,
     "course_number": "MNSC3003",
     "class_numbers": [
       "01"
@@ -100120,7 +116523,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 802,
+    "class_number_group_id": 958,
     "course_number": "MNSC3004",
     "class_numbers": [
       "01"
@@ -100168,7 +116571,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 803,
+    "class_number_group_id": 959,
     "course_number": "MNSC3006",
     "class_numbers": [
       "01"
@@ -100205,7 +116608,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 804,
+    "class_number_group_id": 960,
     "course_number": "MNSC3007",
     "class_numbers": [
       "01"
@@ -100235,7 +116638,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 805,
+    "class_number_group_id": 961,
     "course_number": "MNSC3008",
     "class_numbers": [
       "01"
@@ -100265,7 +116668,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 806,
+    "class_number_group_id": 962,
     "course_number": "MNSC3009",
     "class_numbers": [
       "01"
@@ -100295,7 +116698,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 807,
+    "class_number_group_id": 963,
     "course_number": "MNSC3010",
     "class_numbers": [
       "01"
@@ -100331,7 +116734,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 808,
+    "class_number_group_id": 964,
     "course_number": "MNSC4002",
     "class_numbers": [
       "01"
@@ -100409,7 +116812,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 809,
+    "class_number_group_id": 965,
     "course_number": "MNSC4004",
     "class_numbers": [
       "01"
@@ -100454,7 +116857,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 810,
+    "class_number_group_id": 966,
     "course_number": "MNSC4006",
     "class_numbers": [
       "01"
@@ -100490,7 +116893,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 811,
+    "class_number_group_id": 967,
     "course_number": "MNSC4007",
     "class_numbers": [
       "01"
@@ -100501,8 +116904,8 @@ const groupInfo = [
     "parsed_time_location": [
       {
         "week_info": {
-          "start_week": 1,
-          "end_week": 14,
+          "start_week": 3,
+          "end_week": 16,
           "week_type": null
         },
         "campus": 1,
@@ -100520,7 +116923,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 812,
+    "class_number_group_id": 968,
     "course_number": "MNSC4009",
     "class_numbers": [
       "01"
@@ -100556,7 +116959,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 813,
+    "class_number_group_id": 969,
     "course_number": "MNSC4010",
     "class_numbers": [
       "01"
@@ -100593,7 +116996,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 814,
+    "class_number_group_id": 970,
     "course_number": "MSE4000",
     "class_numbers": [
       "01"
@@ -100689,7 +117092,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 815,
+    "class_number_group_id": 971,
     "course_number": "MSE4001",
     "class_numbers": [
       "01"
@@ -100726,7 +117129,747 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 816,
+    "class_number_group_id": 972,
+    "course_number": "MSEN6002P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "固体材料结构学",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 13,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 6,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 7,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 973,
+    "course_number": "MSEN6003P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料物理",
+    "credit": 4.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 4,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 974,
+    "course_number": "MSEN6006P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "薄膜材料科学与技术",
+    "credit": 3.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 975,
+    "course_number": "MSEN6007P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "晶体材料制备原理与技术",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 6,
+            "periods": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 976,
+    "course_number": "MSEN6008P",
+    "class_numbers": [
+      "01",
+      "02"
+    ],
+    "course_name": "材料的力学与热学性能",
+    "credit": 3.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 977,
+    "course_number": "MSEN6011P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "陶瓷科学与工艺学",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 978,
+    "course_number": "MSEN6012P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "固体化学",
+    "credit": 3.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 5,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 979,
+    "course_number": "MSEN6013P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "溶胶凝胶化学与工程引论",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 980,
+    "course_number": "MSEN6015P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料中的速率过程",
+    "credit": 3.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 981,
+    "course_number": "MSEN6101P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料科学的化学基础",
+    "credit": 5.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 982,
+    "course_number": "MSEN6102P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料中的扩散与相变",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 983,
+    "course_number": "MSEN6103P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "合金热力学",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 984,
+    "course_number": "MSEN6105P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "数学物理方程",
+    "credit": 3.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 985,
+    "course_number": "MSEN6106P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "数值分析",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 986,
+    "course_number": "MSEN6108P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料的力学行为",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 987,
+    "course_number": "MSEN6109P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "凝固理论及技术",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 988,
+    "course_number": "MSEN6110P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "腐蚀电化学原理",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 989,
+    "course_number": "MSEN6111P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高温氧化理论",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 990,
+    "course_number": "MSEN6114P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "弹塑性力学",
+    "credit": 3.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 991,
+    "course_number": "MSEN6116P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料疲劳与断裂",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 992,
+    "course_number": "MSEN6402P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "半导体器件原理",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 3,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 993,
+    "course_number": "MSEN6406P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "无机新能源材料与应用",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": null,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 994,
+    "course_number": "MSEN6500P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "复合材料导论",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 995,
+    "course_number": "MSEN6501P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料摩擦学与耐磨性",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 996,
+    "course_number": "MSEN6502P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高温合金与金属间化合物",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 997,
+    "course_number": "MSEN6504P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "现代材料焊接与连接工程学",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 998,
+    "course_number": "MSEN6505P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "透射电子显微学",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 999,
+    "course_number": "MSEN6508P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "现代材料分析方法",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1000,
+    "course_number": "MSEN6509P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料的力学实验技术",
+    "credit": 1.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1001,
+    "course_number": "MSEN6510P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "科技论文写作与发表",
+    "credit": 1.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1002,
+    "course_number": "MSEN6511P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料学科文献资源获取与检索",
+    "credit": 1.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1003,
+    "course_number": "MSEN7110P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "半导体光催化",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1004,
+    "course_number": "MSEN7111P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "化工过程强化",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1005,
+    "course_number": "MSEN7112P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "凝聚态物理",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1006,
+    "course_number": "MSEN7119P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "材料科学基础",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1007,
+    "course_number": "MSEN7120P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "计算材料学",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1008,
     "course_number": "NNM1501",
     "class_numbers": [
       "02"
@@ -100756,7 +117899,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 817,
+    "class_number_group_id": 1009,
     "course_number": "NNM1503",
     "class_numbers": [
       "02"
@@ -100786,7 +117929,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 818,
+    "class_number_group_id": 1010,
     "course_number": "NNM2001",
     "class_numbers": [
       "01"
@@ -100816,7 +117959,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 819,
+    "class_number_group_id": 1011,
     "course_number": "NNM2004",
     "class_numbers": [
       "01"
@@ -100846,7 +117989,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 820,
+    "class_number_group_id": 1012,
     "course_number": "NNM2005",
     "class_numbers": [
       "01"
@@ -100876,7 +118019,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 821,
+    "class_number_group_id": 1013,
     "course_number": "NNM2006",
     "class_numbers": [
       "01"
@@ -100906,7 +118049,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 822,
+    "class_number_group_id": 1014,
     "course_number": "NNM2010",
     "class_numbers": [
       "01"
@@ -100936,7 +118079,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 823,
+    "class_number_group_id": 1015,
     "course_number": "NNM3001",
     "class_numbers": [
       "01"
@@ -100954,12 +118097,12 @@ const groupInfo = [
         "campus": null,
         "time_slots": [
           {
-            "day_of_week": 4,
+            "day_of_week": 3,
             "periods": [
-              7,
-              8,
-              9,
-              10
+              2,
+              3,
+              4,
+              5
             ]
           }
         ]
@@ -100985,7 +118128,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 824,
+    "class_number_group_id": 1016,
     "course_number": "NNM3002",
     "class_numbers": [
       "01"
@@ -101035,7 +118178,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 825,
+    "class_number_group_id": 1017,
     "course_number": "NNM3003",
     "class_numbers": [
       "01"
@@ -101101,7 +118244,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 826,
+    "class_number_group_id": 1018,
     "course_number": "NNM3004",
     "class_numbers": [
       "01"
@@ -101131,7 +118274,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 827,
+    "class_number_group_id": 1019,
     "course_number": "NNM3005",
     "class_numbers": [
       "01"
@@ -101161,7 +118304,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 828,
+    "class_number_group_id": 1020,
     "course_number": "NNM4001",
     "class_numbers": [
       "01"
@@ -101210,7 +118353,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 829,
+    "class_number_group_id": 1021,
     "course_number": "NNM4003",
     "class_numbers": [
       "01"
@@ -101240,7 +118383,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 830,
+    "class_number_group_id": 1022,
     "course_number": "NSE2001",
     "class_numbers": [
       "01"
@@ -101288,7 +118431,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 831,
+    "class_number_group_id": 1023,
     "course_number": "NSE2002",
     "class_numbers": [
       "01"
@@ -101325,7 +118468,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 832,
+    "class_number_group_id": 1024,
     "course_number": "NSE3001",
     "class_numbers": [
       "01"
@@ -101362,7 +118505,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 833,
+    "class_number_group_id": 1025,
     "course_number": "NSE3006",
     "class_numbers": [
       "01"
@@ -101392,7 +118535,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 834,
+    "class_number_group_id": 1026,
     "course_number": "NSE3007",
     "class_numbers": [
       "01"
@@ -101439,7 +118582,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 835,
+    "class_number_group_id": 1027,
     "course_number": "NSE3008",
     "class_numbers": [
       "01"
@@ -101470,7 +118613,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 836,
+    "class_number_group_id": 1028,
     "course_number": "NSE3009",
     "class_numbers": [
       "01"
@@ -101562,7 +118705,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 837,
+    "class_number_group_id": 1029,
     "course_number": "NSE4003",
     "class_numbers": [
       "01"
@@ -101670,7 +118813,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 838,
+    "class_number_group_id": 1030,
     "course_number": "NSE4006",
     "class_numbers": [
       "01"
@@ -101706,7 +118849,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 839,
+    "class_number_group_id": 1031,
     "course_number": "NSE4015",
     "class_numbers": [
       "01"
@@ -101736,7 +118879,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 840,
+    "class_number_group_id": 1032,
     "course_number": "NSE4018",
     "class_numbers": [
       "01"
@@ -101766,7 +118909,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 841,
+    "class_number_group_id": 1033,
     "course_number": "NSE4020",
     "class_numbers": [
       "01"
@@ -101814,7 +118957,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 842,
+    "class_number_group_id": 1034,
     "course_number": "NSE4022",
     "class_numbers": [
       "01"
@@ -101862,7 +119005,141 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 843,
+    "class_number_group_id": 1035,
+    "course_number": "NSTE6002P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "同步辐射光源物理引论",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1036,
+    "course_number": "NSTE6007P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "同步辐射技术及应用",
+    "credit": 4.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 17,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              1,
+              2
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1037,
+    "course_number": "NSTE6009P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "反应动力学与同步辐射光电离质谱",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 9,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1038,
+    "course_number": "NSTE6012P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "质子重离子加速器",
+    "credit": 3.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1039,
     "course_number": "NSTE6102P",
     "class_numbers": [
       "01"
@@ -101899,7 +119176,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 844,
+    "class_number_group_id": 1040,
     "course_number": "NSTE6104P",
     "class_numbers": [
       "01"
@@ -101929,7 +119206,149 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 845,
+    "class_number_group_id": 1041,
+    "course_number": "NSTE6404P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "加速器控制技术",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1042,
+    "course_number": "NSTE6414P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "大电流能量技术与应用",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1043,
+    "course_number": "NSTE6415P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "电路理论基础与应用",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1044,
+    "course_number": "NSTE6417P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "加速器束流诊断",
+    "credit": 3.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1045,
+    "course_number": "NSTE6419P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "面向先进光源的人工智能技术导论",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 5,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1046,
     "course_number": "NSTE6501P",
     "class_numbers": [
       "01"
@@ -101959,7 +119378,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 846,
+    "class_number_group_id": 1047,
     "course_number": "NSTE6502P",
     "class_numbers": [
       "01"
@@ -101990,7 +119409,182 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 847,
+    "class_number_group_id": 1048,
+    "course_number": "NSTE7003P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "自由电子激光物理导论",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1049,
+    "course_number": "NSTE7004P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "文献阅读与分析",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1050,
+    "course_number": "NSTE7004P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "文献阅读与分析",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1051,
+    "course_number": "NSTE7005P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "同步辐射应用进展",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 7,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1052,
+    "course_number": "NSTE7005P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "同步辐射应用进展",
+    "credit": 2.0,
+    "assessment_method": "其他",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 7,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1053,
+    "course_number": "NSTE7006P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "核技术工程前沿进展",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 17,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1054,
     "course_number": "PE00101",
     "class_numbers": [
       "01"
@@ -102019,7 +119613,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 848,
+    "class_number_group_id": 1055,
     "course_number": "PE00101",
     "class_numbers": [
       "02"
@@ -102048,7 +119642,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 849,
+    "class_number_group_id": 1056,
     "course_number": "PE00101",
     "class_numbers": [
       "03"
@@ -102077,7 +119671,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 850,
+    "class_number_group_id": 1057,
     "course_number": "PE00101",
     "class_numbers": [
       "04"
@@ -102106,7 +119700,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 851,
+    "class_number_group_id": 1058,
     "course_number": "PE00102",
     "class_numbers": [
       "01"
@@ -102135,7 +119729,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 852,
+    "class_number_group_id": 1059,
     "course_number": "PE00102",
     "class_numbers": [
       "02"
@@ -102164,7 +119758,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 853,
+    "class_number_group_id": 1060,
     "course_number": "PE00102",
     "class_numbers": [
       "03"
@@ -102193,7 +119787,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 854,
+    "class_number_group_id": 1061,
     "course_number": "PE00102",
     "class_numbers": [
       "04"
@@ -102222,7 +119816,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 855,
+    "class_number_group_id": 1062,
     "course_number": "PE00102",
     "class_numbers": [
       "05"
@@ -102251,7 +119845,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 856,
+    "class_number_group_id": 1063,
     "course_number": "PE00102",
     "class_numbers": [
       "06"
@@ -102280,7 +119874,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 857,
+    "class_number_group_id": 1064,
     "course_number": "PE00102",
     "class_numbers": [
       "08"
@@ -102309,7 +119903,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 858,
+    "class_number_group_id": 1065,
     "course_number": "PE00103",
     "class_numbers": [
       "01"
@@ -102338,7 +119932,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 859,
+    "class_number_group_id": 1066,
     "course_number": "PE00103",
     "class_numbers": [
       "02"
@@ -102367,7 +119961,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 860,
+    "class_number_group_id": 1067,
     "course_number": "PE00103",
     "class_numbers": [
       "03"
@@ -102396,7 +119990,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 861,
+    "class_number_group_id": 1068,
     "course_number": "PE00103",
     "class_numbers": [
       "04"
@@ -102425,7 +120019,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 862,
+    "class_number_group_id": 1069,
     "course_number": "PE00104",
     "class_numbers": [
       "01"
@@ -102454,7 +120048,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 863,
+    "class_number_group_id": 1070,
     "course_number": "PE00104",
     "class_numbers": [
       "02"
@@ -102483,7 +120077,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 864,
+    "class_number_group_id": 1071,
     "course_number": "PE00104",
     "class_numbers": [
       "04"
@@ -102512,7 +120106,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 865,
+    "class_number_group_id": 1072,
     "course_number": "PE00105",
     "class_numbers": [
       "01",
@@ -102542,7 +120136,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 866,
+    "class_number_group_id": 1073,
     "course_number": "PE00105",
     "class_numbers": [
       "02",
@@ -102572,7 +120166,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 867,
+    "class_number_group_id": 1074,
     "course_number": "PE00105",
     "class_numbers": [
       "03",
@@ -102602,7 +120196,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 868,
+    "class_number_group_id": 1075,
     "course_number": "PE00105",
     "class_numbers": [
       "06",
@@ -102632,7 +120226,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 869,
+    "class_number_group_id": 1076,
     "course_number": "PE00105",
     "class_numbers": [
       "07",
@@ -102662,7 +120256,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 870,
+    "class_number_group_id": 1077,
     "course_number": "PE00106",
     "class_numbers": [
       "01"
@@ -102691,7 +120285,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 871,
+    "class_number_group_id": 1078,
     "course_number": "PE00106",
     "class_numbers": [
       "02",
@@ -102721,7 +120315,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 872,
+    "class_number_group_id": 1079,
     "course_number": "PE00106",
     "class_numbers": [
       "03",
@@ -102751,7 +120345,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 873,
+    "class_number_group_id": 1080,
     "course_number": "PE00106",
     "class_numbers": [
       "04"
@@ -102780,7 +120374,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 874,
+    "class_number_group_id": 1081,
     "course_number": "PE00106",
     "class_numbers": [
       "05"
@@ -102809,7 +120403,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 875,
+    "class_number_group_id": 1082,
     "course_number": "PE00107",
     "class_numbers": [
       "01"
@@ -102838,7 +120432,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 876,
+    "class_number_group_id": 1083,
     "course_number": "PE00107",
     "class_numbers": [
       "02",
@@ -102868,7 +120462,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 877,
+    "class_number_group_id": 1084,
     "course_number": "PE00107",
     "class_numbers": [
       "03"
@@ -102897,7 +120491,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 878,
+    "class_number_group_id": 1085,
     "course_number": "PE00107",
     "class_numbers": [
       "05"
@@ -102926,7 +120520,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 879,
+    "class_number_group_id": 1086,
     "course_number": "PE00108",
     "class_numbers": [
       "01"
@@ -102955,7 +120549,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 880,
+    "class_number_group_id": 1087,
     "course_number": "PE00108",
     "class_numbers": [
       "02"
@@ -102984,7 +120578,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 881,
+    "class_number_group_id": 1088,
     "course_number": "PE00108",
     "class_numbers": [
       "05"
@@ -103013,7 +120607,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 882,
+    "class_number_group_id": 1089,
     "course_number": "PE00109",
     "class_numbers": [
       "01"
@@ -103042,7 +120636,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 883,
+    "class_number_group_id": 1090,
     "course_number": "PE00109",
     "class_numbers": [
       "02"
@@ -103071,7 +120665,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 884,
+    "class_number_group_id": 1091,
     "course_number": "PE00109",
     "class_numbers": [
       "03"
@@ -103100,7 +120694,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 885,
+    "class_number_group_id": 1092,
     "course_number": "PE00109",
     "class_numbers": [
       "04",
@@ -103130,7 +120724,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 886,
+    "class_number_group_id": 1093,
     "course_number": "PE00109",
     "class_numbers": [
       "06"
@@ -103159,7 +120753,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 887,
+    "class_number_group_id": 1094,
     "course_number": "PE00110",
     "class_numbers": [
       "01"
@@ -103188,7 +120782,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 888,
+    "class_number_group_id": 1095,
     "course_number": "PE00110",
     "class_numbers": [
       "02"
@@ -103217,7 +120811,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 889,
+    "class_number_group_id": 1096,
     "course_number": "PE00110",
     "class_numbers": [
       "03",
@@ -103247,7 +120841,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 890,
+    "class_number_group_id": 1097,
     "course_number": "PE00110",
     "class_numbers": [
       "05"
@@ -103276,7 +120870,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 891,
+    "class_number_group_id": 1098,
     "course_number": "PE00110",
     "class_numbers": [
       "06"
@@ -103305,7 +120899,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 892,
+    "class_number_group_id": 1099,
     "course_number": "PE00110",
     "class_numbers": [
       "07"
@@ -103334,7 +120928,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 893,
+    "class_number_group_id": 1100,
     "course_number": "PE00110",
     "class_numbers": [
       "08"
@@ -103363,7 +120957,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 894,
+    "class_number_group_id": 1101,
     "course_number": "PE00111",
     "class_numbers": [
       "01"
@@ -103392,7 +120986,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 895,
+    "class_number_group_id": 1102,
     "course_number": "PE00111",
     "class_numbers": [
       "02"
@@ -103421,7 +121015,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 896,
+    "class_number_group_id": 1103,
     "course_number": "PE00111",
     "class_numbers": [
       "03"
@@ -103450,7 +121044,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 897,
+    "class_number_group_id": 1104,
     "course_number": "PE00111",
     "class_numbers": [
       "04"
@@ -103479,7 +121073,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 898,
+    "class_number_group_id": 1105,
     "course_number": "PE00111",
     "class_numbers": [
       "05"
@@ -103508,7 +121102,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 899,
+    "class_number_group_id": 1106,
     "course_number": "PE00112",
     "class_numbers": [
       "01"
@@ -103537,7 +121131,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 900,
+    "class_number_group_id": 1107,
     "course_number": "PE00113",
     "class_numbers": [
       "01",
@@ -103567,7 +121161,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 901,
+    "class_number_group_id": 1108,
     "course_number": "PE00113",
     "class_numbers": [
       "02",
@@ -103597,7 +121191,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 902,
+    "class_number_group_id": 1109,
     "course_number": "PE00113",
     "class_numbers": [
       "03"
@@ -103626,7 +121220,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 903,
+    "class_number_group_id": 1110,
     "course_number": "PE00114",
     "class_numbers": [
       "01"
@@ -103655,7 +121249,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 904,
+    "class_number_group_id": 1111,
     "course_number": "PE00114",
     "class_numbers": [
       "02"
@@ -103684,7 +121278,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 905,
+    "class_number_group_id": 1112,
     "course_number": "PE00114",
     "class_numbers": [
       "03"
@@ -103713,7 +121307,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 906,
+    "class_number_group_id": 1113,
     "course_number": "PE00115",
     "class_numbers": [
       "01",
@@ -103743,7 +121337,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 907,
+    "class_number_group_id": 1114,
     "course_number": "PE00115",
     "class_numbers": [
       "02"
@@ -103772,7 +121366,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 908,
+    "class_number_group_id": 1115,
     "course_number": "PE00115",
     "class_numbers": [
       "03",
@@ -103802,7 +121396,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 909,
+    "class_number_group_id": 1116,
     "course_number": "PE00115",
     "class_numbers": [
       "05"
@@ -103831,7 +121425,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 910,
+    "class_number_group_id": 1117,
     "course_number": "PE00115",
     "class_numbers": [
       "07"
@@ -103860,7 +121454,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 911,
+    "class_number_group_id": 1118,
     "course_number": "PE00116",
     "class_numbers": [
       "01"
@@ -103889,7 +121483,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 912,
+    "class_number_group_id": 1119,
     "course_number": "PE00116",
     "class_numbers": [
       "02"
@@ -103918,7 +121512,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 913,
+    "class_number_group_id": 1120,
     "course_number": "PE00116",
     "class_numbers": [
       "03"
@@ -103947,7 +121541,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 914,
+    "class_number_group_id": 1121,
     "course_number": "PE00116",
     "class_numbers": [
       "06"
@@ -103976,7 +121570,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 915,
+    "class_number_group_id": 1122,
     "course_number": "PE00117",
     "class_numbers": [
       "01"
@@ -104005,7 +121599,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 916,
+    "class_number_group_id": 1123,
     "course_number": "PE00117",
     "class_numbers": [
       "02"
@@ -104034,7 +121628,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 917,
+    "class_number_group_id": 1124,
     "course_number": "PE00118",
     "class_numbers": [
       "03"
@@ -104063,7 +121657,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 918,
+    "class_number_group_id": 1125,
     "course_number": "PE00119",
     "class_numbers": [
       "01",
@@ -104093,7 +121687,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 919,
+    "class_number_group_id": 1126,
     "course_number": "PE00119",
     "class_numbers": [
       "02",
@@ -104123,7 +121717,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 920,
+    "class_number_group_id": 1127,
     "course_number": "PE00119",
     "class_numbers": [
       "03"
@@ -104152,7 +121746,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 921,
+    "class_number_group_id": 1128,
     "course_number": "PE00119",
     "class_numbers": [
       "04",
@@ -104184,7 +121778,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 922,
+    "class_number_group_id": 1129,
     "course_number": "PE00119",
     "class_numbers": [
       "07",
@@ -104215,7 +121809,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 923,
+    "class_number_group_id": 1130,
     "course_number": "PE00120",
     "class_numbers": [
       "01"
@@ -104244,7 +121838,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 924,
+    "class_number_group_id": 1131,
     "course_number": "PE00120",
     "class_numbers": [
       "02",
@@ -104274,7 +121868,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 925,
+    "class_number_group_id": 1132,
     "course_number": "PE00120",
     "class_numbers": [
       "03"
@@ -104303,7 +121897,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 926,
+    "class_number_group_id": 1133,
     "course_number": "PE00120",
     "class_numbers": [
       "04"
@@ -104332,7 +121926,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 927,
+    "class_number_group_id": 1134,
     "course_number": "PE00120",
     "class_numbers": [
       "05"
@@ -104361,7 +121955,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 928,
+    "class_number_group_id": 1135,
     "course_number": "PE00122",
     "class_numbers": [
       "01"
@@ -104390,7 +121984,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 929,
+    "class_number_group_id": 1136,
     "course_number": "PE00122",
     "class_numbers": [
       "02"
@@ -104419,7 +122013,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 930,
+    "class_number_group_id": 1137,
     "course_number": "PE00122",
     "class_numbers": [
       "03"
@@ -104448,7 +122042,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 931,
+    "class_number_group_id": 1138,
     "course_number": "PE00124",
     "class_numbers": [
       "02"
@@ -104477,7 +122071,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 932,
+    "class_number_group_id": 1139,
     "course_number": "PE00125w",
     "class_numbers": [
       "01"
@@ -104506,7 +122100,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 933,
+    "class_number_group_id": 1140,
     "course_number": "PE00125w",
     "class_numbers": [
       "02"
@@ -104535,7 +122129,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 934,
+    "class_number_group_id": 1141,
     "course_number": "PE00126w",
     "class_numbers": [
       "01"
@@ -104564,7 +122158,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 935,
+    "class_number_group_id": 1142,
     "course_number": "PE00126w",
     "class_numbers": [
       "03"
@@ -104593,7 +122187,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 936,
+    "class_number_group_id": 1143,
     "course_number": "PE00127",
     "class_numbers": [
       "01",
@@ -104623,7 +122217,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 937,
+    "class_number_group_id": 1144,
     "course_number": "PE00127",
     "class_numbers": [
       "02",
@@ -104653,7 +122247,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 938,
+    "class_number_group_id": 1145,
     "course_number": "PE00127",
     "class_numbers": [
       "03",
@@ -104683,7 +122277,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 939,
+    "class_number_group_id": 1146,
     "course_number": "PE00127",
     "class_numbers": [
       "04"
@@ -104712,7 +122306,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 940,
+    "class_number_group_id": 1147,
     "course_number": "PE00127",
     "class_numbers": [
       "05",
@@ -104743,7 +122337,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 941,
+    "class_number_group_id": 1148,
     "course_number": "PE00127",
     "class_numbers": [
       "06"
@@ -104772,7 +122366,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 942,
+    "class_number_group_id": 1149,
     "course_number": "PE00127",
     "class_numbers": [
       "07",
@@ -104802,7 +122396,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 943,
+    "class_number_group_id": 1150,
     "course_number": "PE00127",
     "class_numbers": [
       "08",
@@ -104832,7 +122426,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 944,
+    "class_number_group_id": 1151,
     "course_number": "PE00127",
     "class_numbers": [
       "13"
@@ -104861,7 +122455,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 945,
+    "class_number_group_id": 1152,
     "course_number": "PE00127",
     "class_numbers": [
       "16"
@@ -104890,7 +122484,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 946,
+    "class_number_group_id": 1153,
     "course_number": "PE00127",
     "class_numbers": [
       "17"
@@ -104919,7 +122513,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 947,
+    "class_number_group_id": 1154,
     "course_number": "PE00128w",
     "class_numbers": [
       "01"
@@ -104948,7 +122542,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 948,
+    "class_number_group_id": 1155,
     "course_number": "PE00128w",
     "class_numbers": [
       "02"
@@ -104977,7 +122571,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 949,
+    "class_number_group_id": 1156,
     "course_number": "PE00130w",
     "class_numbers": [
       "01"
@@ -105006,7 +122600,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 950,
+    "class_number_group_id": 1157,
     "course_number": "PE00131w",
     "class_numbers": [
       "01"
@@ -105035,7 +122629,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 951,
+    "class_number_group_id": 1158,
     "course_number": "PE00131w",
     "class_numbers": [
       "02"
@@ -105064,7 +122658,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 952,
+    "class_number_group_id": 1159,
     "course_number": "PE00132",
     "class_numbers": [
       "01"
@@ -105093,7 +122687,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 953,
+    "class_number_group_id": 1160,
     "course_number": "PE00132",
     "class_numbers": [
       "02"
@@ -105122,7 +122716,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 954,
+    "class_number_group_id": 1161,
     "course_number": "PE00132",
     "class_numbers": [
       "03"
@@ -105151,7 +122745,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 955,
+    "class_number_group_id": 1162,
     "course_number": "PE00132",
     "class_numbers": [
       "04"
@@ -105162,7 +122756,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 956,
+    "class_number_group_id": 1163,
     "course_number": "PE00132",
     "class_numbers": [
       "05"
@@ -105191,7 +122785,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 957,
+    "class_number_group_id": 1164,
     "course_number": "PE00133",
     "class_numbers": [
       "01"
@@ -105220,7 +122814,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 958,
+    "class_number_group_id": 1165,
     "course_number": "PE00133",
     "class_numbers": [
       "02"
@@ -105249,7 +122843,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 959,
+    "class_number_group_id": 1166,
     "course_number": "PE00133",
     "class_numbers": [
       "03"
@@ -105278,7 +122872,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 960,
+    "class_number_group_id": 1167,
     "course_number": "PE00139",
     "class_numbers": [
       "01",
@@ -105308,7 +122902,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 961,
+    "class_number_group_id": 1168,
     "course_number": "PE00139",
     "class_numbers": [
       "02",
@@ -105338,7 +122932,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 962,
+    "class_number_group_id": 1169,
     "course_number": "PE00140",
     "class_numbers": [
       "01"
@@ -105367,7 +122961,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 963,
+    "class_number_group_id": 1170,
     "course_number": "PE00141",
     "class_numbers": [
       "02"
@@ -105396,7 +122990,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 964,
+    "class_number_group_id": 1171,
     "course_number": "PE00145",
     "class_numbers": [
       "01"
@@ -105425,7 +123019,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 965,
+    "class_number_group_id": 1172,
     "course_number": "PE00146",
     "class_numbers": [
       "01"
@@ -105454,7 +123048,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 966,
+    "class_number_group_id": 1173,
     "course_number": "PE00146",
     "class_numbers": [
       "02"
@@ -105483,7 +123077,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 967,
+    "class_number_group_id": 1174,
     "course_number": "PE00146",
     "class_numbers": [
       "03"
@@ -105512,7 +123106,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 968,
+    "class_number_group_id": 1175,
     "course_number": "PE00148",
     "class_numbers": [
       "01"
@@ -105541,7 +123135,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 969,
+    "class_number_group_id": 1176,
     "course_number": "PE00152",
     "class_numbers": [
       "01"
@@ -105570,7 +123164,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 970,
+    "class_number_group_id": 1177,
     "course_number": "PE00527",
     "class_numbers": [
       "03"
@@ -105599,7 +123193,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 971,
+    "class_number_group_id": 1178,
     "course_number": "PE00528",
     "class_numbers": [
       "02"
@@ -105628,7 +123222,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 972,
+    "class_number_group_id": 1179,
     "course_number": "PE00530",
     "class_numbers": [
       "02"
@@ -105657,7 +123251,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 973,
+    "class_number_group_id": 1180,
     "course_number": "PE00531",
     "class_numbers": [
       "01"
@@ -105686,7 +123280,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 974,
+    "class_number_group_id": 1181,
     "course_number": "PE00531",
     "class_numbers": [
       "02"
@@ -105715,7 +123309,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 975,
+    "class_number_group_id": 1182,
     "course_number": "PE00531",
     "class_numbers": [
       "04"
@@ -105744,7 +123338,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 976,
+    "class_number_group_id": 1183,
     "course_number": "PE00532",
     "class_numbers": [
       "01"
@@ -105773,7 +123367,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 977,
+    "class_number_group_id": 1184,
     "course_number": "PE00532",
     "class_numbers": [
       "02"
@@ -105802,7 +123396,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 978,
+    "class_number_group_id": 1185,
     "course_number": "PE1501",
     "class_numbers": [
       "02"
@@ -105831,7 +123425,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 979,
+    "class_number_group_id": 1186,
     "course_number": "PE1502",
     "class_numbers": [
       "02"
@@ -105860,7 +123454,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 980,
+    "class_number_group_id": 1187,
     "course_number": "PE1901",
     "class_numbers": [
       "02"
@@ -105889,7 +123483,40 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 981,
+    "class_number_group_id": 1188,
+    "course_number": "PHIL6101U",
+    "class_numbers": [
+      "36"
+    ],
+    "course_name": "自然辩证法概论",
+    "credit": 1.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1189,
+    "course_number": "PHIL6301U",
+    "class_numbers": [
+      "18"
+    ],
+    "course_name": "工程伦理",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1190,
+    "course_number": "PHIL7101U",
+    "class_numbers": [
+      "21"
+    ],
+    "course_name": "中国马克思主义与当代",
+    "credit": 2.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1191,
     "course_number": "PHYS1001A",
     "class_numbers": [
       "16"
@@ -105926,7 +123553,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 982,
+    "class_number_group_id": 1192,
     "course_number": "PHYS1001B",
     "class_numbers": [
       "02"
@@ -105962,7 +123589,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 983,
+    "class_number_group_id": 1193,
     "course_number": "PHYS1001B",
     "class_numbers": [
       "03"
@@ -105998,7 +123625,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 984,
+    "class_number_group_id": 1194,
     "course_number": "PHYS1001B",
     "class_numbers": [
       "04"
@@ -106034,7 +123661,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 985,
+    "class_number_group_id": 1195,
     "course_number": "PHYS1001B",
     "class_numbers": [
       "05",
@@ -106073,7 +123700,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 986,
+    "class_number_group_id": 1196,
     "course_number": "PHYS1001B",
     "class_numbers": [
       "06",
@@ -106113,7 +123740,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 987,
+    "class_number_group_id": 1197,
     "course_number": "PHYS1001B",
     "class_numbers": [
       "07",
@@ -106150,7 +123777,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 988,
+    "class_number_group_id": 1198,
     "course_number": "PHYS1001B",
     "class_numbers": [
       "10",
@@ -106187,7 +123814,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 989,
+    "class_number_group_id": 1199,
     "course_number": "PHYS1002A",
     "class_numbers": [
       "02",
@@ -106226,7 +123853,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 990,
+    "class_number_group_id": 1200,
     "course_number": "PHYS1002A",
     "class_numbers": [
       "04",
@@ -106264,7 +123891,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 991,
+    "class_number_group_id": 1201,
     "course_number": "PHYS1002A",
     "class_numbers": [
       "09",
@@ -106302,7 +123929,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 992,
+    "class_number_group_id": 1202,
     "course_number": "PHYS1002B",
     "class_numbers": [
       "02"
@@ -106339,7 +123966,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 993,
+    "class_number_group_id": 1203,
     "course_number": "PHYS1002B",
     "class_numbers": [
       "03"
@@ -106376,7 +124003,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 994,
+    "class_number_group_id": 1204,
     "course_number": "PHYS1002B",
     "class_numbers": [
       "04"
@@ -106413,7 +124040,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 995,
+    "class_number_group_id": 1205,
     "course_number": "PHYS1002B",
     "class_numbers": [
       "05",
@@ -106453,7 +124080,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 996,
+    "class_number_group_id": 1206,
     "course_number": "PHYS1002B",
     "class_numbers": [
       "06",
@@ -106494,7 +124121,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 997,
+    "class_number_group_id": 1207,
     "course_number": "PHYS1002B",
     "class_numbers": [
       "07",
@@ -106532,7 +124159,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 998,
+    "class_number_group_id": 1208,
     "course_number": "PHYS1002B",
     "class_numbers": [
       "10"
@@ -106569,7 +124196,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 999,
+    "class_number_group_id": 1209,
     "course_number": "PHYS1002B",
     "class_numbers": [
       "17"
@@ -106606,7 +124233,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1000,
+    "class_number_group_id": 1210,
     "course_number": "PHYS1003A",
     "class_numbers": [
       "08"
@@ -106668,7 +124295,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1001,
+    "class_number_group_id": 1211,
     "course_number": "PHYS1003B",
     "class_numbers": [
       "06"
@@ -106705,7 +124332,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1002,
+    "class_number_group_id": 1212,
     "course_number": "PHYS1003B",
     "class_numbers": [
       "07",
@@ -106743,7 +124370,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1003,
+    "class_number_group_id": 1213,
     "course_number": "PHYS1003B",
     "class_numbers": [
       "08"
@@ -106780,7 +124407,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1004,
+    "class_number_group_id": 1214,
     "course_number": "PHYS1003B",
     "class_numbers": [
       "10"
@@ -106817,7 +124444,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1005,
+    "class_number_group_id": 1215,
     "course_number": "PHYS1003B",
     "class_numbers": [
       "11",
@@ -106856,7 +124483,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1006,
+    "class_number_group_id": 1216,
     "course_number": "PHYS1003B",
     "class_numbers": [
       "14"
@@ -106893,7 +124520,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1007,
+    "class_number_group_id": 1217,
     "course_number": "PHYS1004A",
     "class_numbers": [
       "02",
@@ -106932,7 +124559,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1008,
+    "class_number_group_id": 1218,
     "course_number": "PHYS1004A",
     "class_numbers": [
       "05",
@@ -106969,7 +124596,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1009,
+    "class_number_group_id": 1219,
     "course_number": "PHYS1004A",
     "class_numbers": [
       "08",
@@ -107009,7 +124636,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1010,
+    "class_number_group_id": 1220,
     "course_number": "PHYS1004B",
     "class_numbers": [
       "07"
@@ -107071,7 +124698,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1011,
+    "class_number_group_id": 1221,
     "course_number": "PHYS1004C",
     "class_numbers": [
       "08"
@@ -107107,7 +124734,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1012,
+    "class_number_group_id": 1222,
     "course_number": "PHYS1004H",
     "class_numbers": [
       "01"
@@ -107143,7 +124770,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1013,
+    "class_number_group_id": 1223,
     "course_number": "PHYS1005A",
     "class_numbers": [
       "02",
@@ -107184,7 +124811,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1014,
+    "class_number_group_id": 1224,
     "course_number": "PHYS1005A",
     "class_numbers": [
       "05",
@@ -107222,7 +124849,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1015,
+    "class_number_group_id": 1225,
     "course_number": "PHYS1005A",
     "class_numbers": [
       "08"
@@ -107278,7 +124905,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1016,
+    "class_number_group_id": 1226,
     "course_number": "PHYS1005B",
     "class_numbers": [
       "02",
@@ -107316,7 +124943,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1017,
+    "class_number_group_id": 1227,
     "course_number": "PHYS1005B",
     "class_numbers": [
       "03"
@@ -107353,7 +124980,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1018,
+    "class_number_group_id": 1228,
     "course_number": "PHYS1005B",
     "class_numbers": [
       "05",
@@ -107392,7 +125019,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1019,
+    "class_number_group_id": 1229,
     "course_number": "PHYS1005B",
     "class_numbers": [
       "08",
@@ -107430,7 +125057,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1020,
+    "class_number_group_id": 1230,
     "course_number": "PHYS1007",
     "class_numbers": [
       "01"
@@ -107466,7 +125093,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1021,
+    "class_number_group_id": 1231,
     "course_number": "PHYS1008A",
     "class_numbers": [
       "01",
@@ -107481,7 +125108,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 1022,
+    "class_number_group_id": 1232,
     "course_number": "PHYS1008A",
     "class_numbers": [
       "04"
@@ -107511,7 +125138,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1023,
+    "class_number_group_id": 1233,
     "course_number": "PHYS1008B+",
     "class_numbers": [
       "01"
@@ -107522,7 +125149,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 1024,
+    "class_number_group_id": 1234,
     "course_number": "PHYS1008B",
     "class_numbers": [
       "01",
@@ -107553,7 +125180,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1025,
+    "class_number_group_id": 1235,
     "course_number": "PHYS1008B",
     "class_numbers": [
       "03",
@@ -107584,7 +125211,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1026,
+    "class_number_group_id": 1236,
     "course_number": "PHYS1008B",
     "class_numbers": [
       "05",
@@ -107598,7 +125225,7 @@ const groupInfo = [
     "parsed_time_location": []
   },
   {
-    "class_number_group_id": 1027,
+    "class_number_group_id": 1237,
     "course_number": "PHYS1008B",
     "class_numbers": [
       "07",
@@ -107629,7 +125256,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1028,
+    "class_number_group_id": 1238,
     "course_number": "PHYS1010",
     "class_numbers": [
       "01"
@@ -107665,7 +125292,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1029,
+    "class_number_group_id": 1239,
     "course_number": "PHYS1010",
     "class_numbers": [
       "02"
@@ -107701,7 +125328,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1030,
+    "class_number_group_id": 1240,
     "course_number": "PHYS1010",
     "class_numbers": [
       "03"
@@ -107737,7 +125364,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1031,
+    "class_number_group_id": 1241,
     "course_number": "PHYS1010",
     "class_numbers": [
       "04",
@@ -107775,7 +125402,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1032,
+    "class_number_group_id": 1242,
     "course_number": "PHYS1010",
     "class_numbers": [
       "07"
@@ -107811,7 +125438,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1033,
+    "class_number_group_id": 1243,
     "course_number": "PHYS1010",
     "class_numbers": [
       "08"
@@ -107847,7 +125474,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1034,
+    "class_number_group_id": 1244,
     "course_number": "PHYS1010",
     "class_numbers": [
       "09"
@@ -107883,7 +125510,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1035,
+    "class_number_group_id": 1245,
     "course_number": "PHYS1010",
     "class_numbers": [
       "10"
@@ -107919,7 +125546,18 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1036,
+    "class_number_group_id": 1246,
+    "course_number": "PHYS2701",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "物理创新能力提升实验I",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1247,
     "course_number": "PHYS3002",
     "class_numbers": [
       "01"
@@ -107949,7 +125587,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1037,
+    "class_number_group_id": 1248,
     "course_number": "PHYS3005",
     "class_numbers": [
       "01"
@@ -108011,7 +125649,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1038,
+    "class_number_group_id": 1249,
     "course_number": "PHYS4001",
     "class_numbers": [
       "01"
@@ -108098,7 +125736,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1039,
+    "class_number_group_id": 1250,
     "course_number": "PHYS4002",
     "class_numbers": [
       "01"
@@ -108160,7 +125798,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1040,
+    "class_number_group_id": 1251,
     "course_number": "PHYS4006",
     "class_numbers": [
       "01"
@@ -108222,7 +125860,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1041,
+    "class_number_group_id": 1252,
     "course_number": "PHYS4007",
     "class_numbers": [
       "01"
@@ -108252,7 +125890,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1042,
+    "class_number_group_id": 1253,
     "course_number": "PHYS4008",
     "class_numbers": [
       "01"
@@ -108287,7 +125925,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1043,
+    "class_number_group_id": 1254,
     "course_number": "PHYS4009",
     "class_numbers": [
       "01"
@@ -108322,7 +125960,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1044,
+    "class_number_group_id": 1255,
     "course_number": "PHYS4010",
     "class_numbers": [
       "01"
@@ -108352,7 +125990,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1045,
+    "class_number_group_id": 1256,
     "course_number": "PHYS4502",
     "class_numbers": [
       "01"
@@ -108412,7 +126050,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1046,
+    "class_number_group_id": 1257,
     "course_number": "PHYS4701",
     "class_numbers": [
       "04"
@@ -108441,7 +126079,31 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1047,
+    "class_number_group_id": 1258,
+    "course_number": "PHYS4702",
+    "class_numbers": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "course_name": "物理创新能力导引",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": []
+  },
+  {
+    "class_number_group_id": 1259,
     "course_number": "PHYS4703",
     "class_numbers": [
       "01"
@@ -108490,7 +126152,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1048,
+    "class_number_group_id": 1260,
     "course_number": "PHYS4703",
     "class_numbers": [
       "02"
@@ -108538,7 +126200,44 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1049,
+    "class_number_group_id": 1261,
+    "course_number": "PHYS5001P",
+    "class_numbers": [
+      "04"
+    ],
+    "course_name": "高等量子力学",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1262,
     "course_number": "PHYS5001P",
     "class_numbers": [
       "05"
@@ -108568,7 +126267,370 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1050,
+    "class_number_group_id": 1263,
+    "course_number": "PHYS5002P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "广义相对论与宇宙学",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1264,
+    "course_number": "PHYS5006P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "自旋动力学",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1265,
+    "course_number": "PHYS5051P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "粒子探测技术",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1266,
+    "course_number": "PHYS5101P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "现代原子与分子物理导论",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1267,
+    "course_number": "PHYS5102P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "现代原子物理",
+    "credit": 4.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1268,
+    "course_number": "PHYS5251P",
+    "class_numbers": [
+      "03"
+    ],
+    "course_name": "量子信息导论",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1269,
+    "course_number": "PHYS6005P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "弦理论(I)",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1270,
+    "course_number": "PHYS6052P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "原子核物理导论",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1271,
+    "course_number": "PHYS6054P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "对撞物理",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1272,
+    "course_number": "PHYS6055P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "高能物理实验数据分析",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1273,
     "course_number": "PHYS6154P",
     "class_numbers": [
       "01"
@@ -108605,7 +126667,155 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1051,
+    "class_number_group_id": 1274,
+    "course_number": "PHYS6208P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "量子信息与量子计算",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1275,
+    "course_number": "PHYS6401P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "量子场论(II)",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1276,
+    "course_number": "PHYS6404P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "量子多体理论(II)",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1277,
+    "course_number": "PHYS6454P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "超越标准模型",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 12,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1278,
     "course_number": "PHYS6482P",
     "class_numbers": [
       "01"
@@ -108635,7 +126845,44 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1052,
+    "class_number_group_id": 1279,
+    "course_number": "PHYS6503P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "量子力学导论",
+    "credit": 4.0,
+    "assessment_method": "笔试（闭卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1280,
     "course_number": "PHYS6552P",
     "class_numbers": [
       "01"
@@ -108672,7 +126919,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1053,
+    "class_number_group_id": 1281,
     "course_number": "PHYS6553P",
     "class_numbers": [
       "01"
@@ -108709,7 +126956,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1054,
+    "class_number_group_id": 1282,
     "course_number": "PHYS6556P",
     "class_numbers": [
       "01"
@@ -108745,7 +126992,81 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1055,
+    "class_number_group_id": 1283,
+    "course_number": "PHYS7051P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "粒子物理实验前沿(英)",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1284,
+    "course_number": "PHYS7052P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "超对称理论",
+    "credit": 4.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 16,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1285,
     "course_number": "PHYS7556P",
     "class_numbers": [
       "01"
@@ -108782,7 +127103,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1056,
+    "class_number_group_id": 1286,
     "course_number": "PLNT3004",
     "class_numbers": [
       "01"
@@ -108812,7 +127133,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1057,
+    "class_number_group_id": 1287,
     "course_number": "PLNT3005",
     "class_numbers": [
       "01"
@@ -108842,7 +127163,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1058,
+    "class_number_group_id": 1288,
     "course_number": "PLNT3006",
     "class_numbers": [
       "01"
@@ -108889,7 +127210,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1059,
+    "class_number_group_id": 1289,
     "course_number": "PLNT4001",
     "class_numbers": [
       "01"
@@ -108967,7 +127288,590 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1060,
+    "class_number_group_id": 1290,
+    "course_number": "REEN6402P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "固废污染控制与清洁转化",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 3,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1291,
+    "course_number": "REEN6403P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "双碳研究前沿进展",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 2,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1292,
+    "course_number": "SAFE6001P",
+    "class_numbers": [
+      "01",
+      "02"
+    ],
+    "course_name": "安全科学原理",
+    "credit": 3.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 5,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 6,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1293,
+    "course_number": "SAFE6101P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "火灾学",
+    "credit": 3.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              3,
+              4
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1294,
+    "course_number": "SAFE6102P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "灭火技术原理及应用",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1295,
+    "course_number": "SAFE6105P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "火灾化学",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1296,
+    "course_number": "SAFE6401Q",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "舌尖上美食与食品安全",
+    "credit": 2.0,
+    "assessment_method": "笔试（开卷）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 5,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1297,
+    "course_number": "SAFE6402P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "安全工程材料制备与应用基础",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1298,
+    "course_number": "SAFE6403P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "能源火灾安全理论及方法学",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              3,
+              4
+            ]
+          },
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1299,
+    "course_number": "SAFE6415P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "安全文化学",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1300,
+    "course_number": "SAFE6418P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "公共安全学",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1301,
+    "course_number": "SAFE6419P",
+    "class_numbers": [
+      "01"
+    ],
+    "course_name": "火灾安全人工智能",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 11,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 10,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              8,
+              9
+            ]
+          },
+          {
+            "day_of_week": 5,
+            "periods": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1302,
+    "course_number": "SAFE7005P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "应用数学基础",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1303,
+    "course_number": "SAFE7006P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "安全科学与工程前沿",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 15,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 2,
+            "periods": [
+              1,
+              2
+            ]
+          },
+          {
+            "day_of_week": 4,
+            "periods": [
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1304,
+    "course_number": "SAFE7007P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "智能安全材料与传感",
+    "credit": 3.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 18,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1305,
+    "course_number": "SAFE7008P",
+    "class_numbers": [
+      "02"
+    ],
+    "course_name": "安全工程数值计算方法",
+    "credit": 2.0,
+    "assessment_method": "大作业（论文、报告、项目或作品等）",
+    "parsed_time_location": [
+      {
+        "week_info": {
+          "start_week": 1,
+          "end_week": 14,
+          "week_type": null
+        },
+        "campus": 2,
+        "time_slots": [
+          {
+            "day_of_week": 4,
+            "periods": [
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_number_group_id": 1306,
     "course_number": "STAT2002",
     "class_numbers": [
       "11"
@@ -109003,7 +127907,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1061,
+    "class_number_group_id": 1307,
     "course_number": "STAT2002",
     "class_numbers": [
       "17"
@@ -109015,6 +127919,30 @@ const groupInfo = [
       {
         "week_info": {
           "start_week": 1,
+          "end_week": 8,
+          "week_type": null
+        },
+        "campus": 1,
+        "time_slots": [
+          {
+            "day_of_week": 1,
+            "periods": [
+              6,
+              7
+            ]
+          },
+          {
+            "day_of_week": 3,
+            "periods": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "week_info": {
+          "start_week": 8,
           "end_week": 15,
           "week_type": null
         },
@@ -109039,7 +127967,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1062,
+    "class_number_group_id": 1308,
     "course_number": "STAT2002",
     "class_numbers": [
       "18"
@@ -109099,7 +128027,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1063,
+    "class_number_group_id": 1309,
     "course_number": "STAT2002",
     "class_numbers": [
       "19"
@@ -109135,7 +128063,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1064,
+    "class_number_group_id": 1310,
     "course_number": "STAT2002",
     "class_numbers": [
       "20"
@@ -109195,7 +128123,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1065,
+    "class_number_group_id": 1311,
     "course_number": "STAT3002",
     "class_numbers": [
       "01"
@@ -109243,7 +128171,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1066,
+    "class_number_group_id": 1312,
     "course_number": "STAT4001",
     "class_numbers": [
       "01"
@@ -109273,7 +128201,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1067,
+    "class_number_group_id": 1313,
     "course_number": "WZ003002",
     "class_numbers": [
       "01"
@@ -109310,7 +128238,7 @@ const groupInfo = [
     ]
   },
   {
-    "class_number_group_id": 1068,
+    "class_number_group_id": 1314,
     "course_number": "WZ003003",
     "class_numbers": [
       "01"
