@@ -369,6 +369,29 @@ class CourseGroupApp {
                 this.handleCheckboxChange(groupId, target.checked);
             });
         });
+        
+        // 为课程卡片添加点击事件
+        this.searchResultsContainer.querySelectorAll('.group-card').forEach(card => {
+            card.addEventListener('click', (e) => {
+                // 如果点击的是复选框本身，不处理（让复选框自己的事件处理）
+                if (e.target.classList.contains('group-checkbox')) {
+                    return;
+                }
+                
+                // 获取对应的复选框
+                const checkbox = card.querySelector('.group-checkbox');
+                if (checkbox) {
+                    // 切换复选框状态
+                    checkbox.checked = !checkbox.checked;
+                    // 触发change事件
+                    const groupId = parseInt(checkbox.dataset.groupId);
+                    this.handleCheckboxChange(groupId, checkbox.checked);
+                }
+            });
+            
+            // 为卡片添加鼠标悬停样式提示
+            card.style.cursor = 'pointer';
+        });
     }
 }
 // 页面加载完成后初始化应用
